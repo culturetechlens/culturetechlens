@@ -1,0 +1,111 @@
+ctl_id,title,year,director,runtime_min,genre,budget_usd,box_office_worldwide_usd,oscars_won,oscars_nominated,rotten_tomatoes,metacritic,chicago_connection,slug
+CTL-FILM-001,Within Our Gates,1920,Oscar Micheaux,79,Silent race film / drama,5000-15000,,0,0,,,FALSE,within-our-gates
+CTL-FILM-002,Carmen Jones,1954,Otto Preminger,105,Musical drama,800000,9800000,0,2,72,65,FALSE,carmen-jones
+CTL-FILM-003,Nothing But a Man,1964,Michael Roemer,95,Independent drama / American neorealism,300000,,0,0,98,87,FALSE,nothing-but-a-man
+CTL-FILM-004,Sweet Sweetback's Baadasssss Song,1971,Melvin Van Peebles,97,Independent drama / action (blaxploitation pioneer),150000,15200000,0,0,73,71,FALSE,sweet-sweetbacks-baadasssss-song
+CTL-FILM-005,Shaft,1971,Gordon Parks,100,Crime action thriller (blaxploitation),500000,13000000,1,2,88,,FALSE,shaft
+CTL-FILM-006,Super Fly,1972,Gordon Parks Jr.,93,Crime drama / Blaxploitation,,,0,0,93,67,FALSE,super-fly
+CTL-FILM-007,Claudine,1974,John Berry,92,Romantic comedy-drama,1100000,,0,1,67,,FALSE,claudine
+CTL-FILM-008,Cooley High,1975,Michael Schultz,107,Coming-of-age comedy-drama,750000,13000000,0,0,83,72,TRUE,cooley-high
+CTL-FILM-009,Killer of Sheep,1978,Charles Burnett,80,Neorealist drama,<10000,,0,0,97,96,FALSE,killer-of-sheep
+CTL-FILM-010,Do the Right Thing,1989,Spike Lee,120,Comedy-drama,6200000,37300000,0,2,92,93,FALSE,do-the-right-thing
+CTL-FILM-011,Boyz n the Hood,1991,John Singleton,112,Drama / Crime (coming-of-age hood film),6500000,57535025,0,2,93,76,FALSE,boyz-n-the-hood
+CTL-FILM-012,Daughters of the Dust,1991,Julie Dash,112,Drama / Historical (poetic arthouse),800000,1689978,0,0,94,81,FALSE,daughters-of-the-dust
+CTL-FILM-013,Malcolm X,1992,Spike Lee,202,Biography / Drama / History (epic biopic),35000000,73000000,0,2,89,73,FALSE,malcolm-x
+CTL-FILM-014,Crooklyn,1994,Spike Lee,115,Comedy-Drama (semi-autobiographical family portrait),14000000,13642925,0,0,79,65,FALSE,crooklyn
+CTL-FILM-015,Eve's Bayou,1997,Kasi Lemmons,109,Southern Gothic Drama,4000000,14842388,0,0,84,78,FALSE,eves-bayou
+CTL-FILM-016,Love & Basketball,2000,Gina Prince-Bythewood,124,Drama / Romantic Drama / Sport,15000000,27700000,0,0,86,73,FALSE,love-and-basketball
+CTL-FILM-017,Barbershop,2002,Tim Story,102,Comedy / Comedy-Drama,12000000,77100000,0,0,82,66,TRUE,barbershop
+CTL-FILM-018,Ray,2004,Taylor Hackford,152,Drama / Biographical Drama,40000000,124800000,2,6,80,73,FALSE,ray
+CTL-FILM-019,Dreamgirls,2006,Bill Condon,130,Musical / Romantic Musical,75000000,155700000,2,6,79,76,FALSE,dreamgirls
+CTL-FILM-020,Precious,2009,Lee Daniels,109,Drama / Life Drama,10000000,68700000,2,6,92,78,FALSE,precious
+CTL-FILM-021,12 Years a Slave,2013,Steve McQueen,134,Historical drama (Biography / Drama / History),20000000,187734091,3,9,95,96,FALSE,12-years-a-slave
+CTL-FILM-022,Selma,2014,Ava DuVernay,128,Historical drama,20000000,67782762,1,2,99,79,FALSE,selma
+CTL-FILM-023,Moonlight,2016,Barry Jenkins,111,Coming-of-age drama (LGBTQ+ / hood film),1500000,67390656,3,8,98,99,FALSE,moonlight
+CTL-FILM-024,Get Out,2017,Jordan Peele,104,"Horror / ""social thriller""",4500000,259718091,1,4,98,85,FALSE,get-out
+CTL-FILM-025,Black Panther,2018,Ryan Coogler,134,Superhero / Action-Adventure,200000000,1349926083,3,7,96,88,FALSE,black-panther
+CTL-FILM-026,BlacKkKlansman,2018,Spike Lee,135,Biographical crime drama,15000000,93400000,1,6,96,83,FALSE,blackkklansman
+CTL-FILM-027,If Beale Street Could Talk,2018,Barry Jenkins,117,Romantic drama,12000000,21400000,1,3,95,87,FALSE,if-beale-street-could-talk
+CTL-FILM-028,Queen & Slim,2019,Melina Matsoukas,132,Romantic road crime drama,17000000-20000000,48300000,0,0,82,74,FALSE,queen-and-slim
+CTL-FILM-029,Judas and the Black Messiah,2021,Shaka King,126,Biographical historical crime drama,26000000,7500000,2,6,96,84,TRUE,judas-and-the-black-messiah
+CTL-FILM-030,The Woman King,2022,Gina Prince-Bythewood,135,Historical action epic,50000000,97600000,0,0,94,76,FALSE,the-woman-king
+CTL-FILM-031,Coming to America,1988,John Landis,117,Romantic comedy,30000000-36000000,288752301,0,2,,,FALSE,coming-to-america
+CTL-FILM-032,Hallelujah,1929,King Vidor,,Musical drama,,,,,,,FALSE,hallelujah
+CTL-FILM-033,Cabin in the Sky,1943,Vincente Minnelli,,Musical fantasy,,,,,,,FALSE,cabin-in-the-sky
+CTL-FILM-034,Stormy Weather,1943,Andrew L. Stone,,Musical,,,,,,,FALSE,stormy-weather
+CTL-FILM-035,A Raisin in the Sun,1961,Daniel Petrie,,Drama,,,,,,,TRUE,a-raisin-in-the-sun
+CTL-FILM-036,The Learning Tree,1969,Gordon Parks,,Coming-of-age drama,,,,,,,FALSE,the-learning-tree
+CTL-FILM-037,She's Gotta Have It,1986,Spike Lee,,Comedy-drama,,,,,,,FALSE,shes-gotta-have-it
+CTL-FILM-038,Hollywood Shuffle,1987,Robert Townsend,,Satire,,,,,,,FALSE,hollywood-shuffle
+CTL-FILM-039,Till,2022,Chinonye Chukwu,,Biographical drama,,,,,,,TRUE,till
+CTL-FILM-040,Black Panther: Wakanda Forever,2022,Ryan Coogler,,Superhero drama,,,,,,,FALSE,black-panther-wakanda-forever
+CTL-FILM-041,The Exile,1931,Oscar Micheaux,93,Drama,15000,,0,0,,,FALSE,the-exile
+CTL-FILM-042,Imitation of Life,1934,John M. Stahl,111,Melodrama,,,0,3,88,,FALSE,imitation-of-life
+CTL-FILM-043,The Green Pastures,1936,"Marc Connelly, William Keighley",93,Fantasy drama,800000,3300000,0,0,,,FALSE,the-green-pastures
+CTL-FILM-044,The Defiant Ones,1958,Stanley Kramer,97,Drama,,,2,9,90,,FALSE,the-defiant-ones
+CTL-FILM-045,Odds Against Tomorrow,1959,Robert Wise,95,Film noir,,,0,0,88,,FALSE,odds-against-tomorrow
+CTL-FILM-046,One Potato Two Potato,1964,Larry Peerce,83,Drama,,,0,1,,,FALSE,one-potato-two-potato
+CTL-FILM-047,In the Heat of the Night,1967,Norman Jewison,110,Crime drama,2000000,24400000,5,7,95,76,FALSE,in-the-heat-of-the-night
+CTL-FILM-048,Guess Who's Coming to Dinner,1967,Stanley Kramer,108,Comedy-drama,4000000,56700000,2,10,71,63,FALSE,guess-whos-coming-to-dinner
+CTL-FILM-049,Lady Sings the Blues,1972,Sidney J. Furie,144,Biographical musical drama,,19700000,0,5,73,,FALSE,lady-sings-the-blues
+CTL-FILM-050,"Cornbread, Earl and Me",1975,Joseph T. Manduke,95,Drama,,,0,0,,,TRUE,cornbread-earl-and-me
+CTL-FILM-051,The Wiz,1978,Sidney Lumet,133,Musical fantasy,,21049225,0,4,38,53,FALSE,the-wiz
+CTL-FILM-052,A Soldier's Story,1984,Norman Jewison,101,Mystery drama,,,0,3,91,66,FALSE,a-soldiers-story
+CTL-FILM-053,Purple Rain,1984,Albert Magnoli,111,Musical drama,7200000,70967979,1,1,73,55,FALSE,purple-rain
+CTL-FILM-054,The Color Purple,1985,Steven Spielberg,154,Period drama,15000000,98400000,0,11,73,78,FALSE,the-color-purple
+CTL-FILM-055,Candyman,1992,Bernard Rose,101,Horror,8000000,25800000,0,0,,61,TRUE,candyman
+CTL-FILM-056,Menace II Society,1993,"Albert Hughes, Allen Hughes",97,Crime drama,3500000,29500000,0,0,85,76,FALSE,menace-ii-society
+CTL-FILM-057,Soul Food,1997,George Tillman Jr.,114,Comedy-drama,7500000,43700855,0,0,82,68,TRUE,soul-food
+CTL-FILM-058,Rosewood,1997,John Singleton,142,Historical drama,,13130349,0,0,87,70,FALSE,rosewood
+CTL-FILM-059,Antwone Fisher,2002,Denzel Washington,120,Biographical drama,12500000,23367586,0,0,,62,FALSE,antwone-fisher
+CTL-FILM-060,Hustle & Flow,2005,Craig Brewer,116,Drama,2800000,23563727,1,2,83,68,FALSE,hustle-and-flow
+CTL-FILM-061,The Princess and the Frog,2009,"Ron Clements, John Musker",97,Animated musical,105000000,267045765,0,3,86,73,FALSE,the-princess-and-the-frog
+CTL-FILM-062,Pariah,2011,Dee Rees,86,Drama,500000,769552,0,0,95,79,FALSE,pariah
+CTL-FILM-063,13th,2016,Ava DuVernay,100,Documentary,1000000,,0,1,97,81,FALSE,13th
+CTL-FILM-064,I Am Not Your Negro,2016,Raoul Peck,93,Documentary,1000000,,0,1,99,95,FALSE,i-am-not-your-negro
+CTL-FILM-065,A Wrinkle in Time,2018,Ava DuVernay,109,Fantasy adventure,103000000,132700000,0,0,43,53,FALSE,a-wrinkle-in-time
+CTL-FILM-066,Soul,2020,"Pete Docter, Kemp Powers",100,Animated comedy-drama,150000000,121000000,2,3,95,83,FALSE,soul
+CTL-FILM-067,Summer of Soul,2021,Ahmir Thompson,117,Documentary,,3700000,1,1,99,96,FALSE,summer-of-soul
+CTL-FILM-068,One Night in Miami...,2020,Regina King,114,Drama,,,0,3,98,83,FALSE,one-night-in-miami
+CTL-FILM-069,Rustin,2023,George C. Wolfe,106,Biographical drama,,,0,1,83,68,FALSE,rustin
+CTL-FILM-070,Sinners,2025,Ryan Coogler,137,Horror drama,90000000,366700000,4,16,97,84,FALSE,sinners
+CTL-FILM-071,Body and Soul,1925,Oscar Micheaux,,Drama,,,0,0,,,FALSE,body-and-soul
+CTL-FILM-072,The Blood of Jesus,1941,Spencer Williams,,Drama,5000,,0,0,,,FALSE,the-blood-of-jesus
+CTL-FILM-073,Porgy and Bess,1959,Otto Preminger,138,Musical drama,7000000,3500000,1,4,,,FALSE,porgy-and-bess
+CTL-FILM-074,Lilies of the Field,1963,Ralph Nelson,94,Comedy-drama,240000,,1,5,92,,FALSE,lilies-of-the-field
+CTL-FILM-075,Black Girl,1966,Ousmane Sembène,,Drama,,,0,0,,,FALSE,black-girl
+CTL-FILM-076,"To Sir, with Love",1967,James Clavell,105,Drama,,42432803,0,0,92,,FALSE,to-sir-with-love
+CTL-FILM-077,Cotton Comes to Harlem,1970,Ossie Davis,97,Crime comedy,1200000,,0,0,66,,FALSE,cotton-comes-to-harlem
+CTL-FILM-078,Touki Bouki,1973,Djibril Diop Mambéty,,Drama,30000,,0,0,,,FALSE,touki-bouki
+CTL-FILM-079,The Spook Who Sat by the Door,1973,Ivan Dixon,102,Thriller,1000000,,0,0,,,FALSE,the-spook-who-sat-by-the-door
+CTL-FILM-080,Coffy,1973,Jack Hill,91,Action,500000,,0,0,85,,FALSE,coffy
+CTL-FILM-081,Uptown Saturday Night,1974,Sidney Poitier,104,Comedy,,,0,0,70,,FALSE,uptown-saturday-night
+CTL-FILM-082,48 Hrs.,1982,Walter Hill,96,Action comedy,12000000,78868508,0,0,92,71,FALSE,48-hrs
+CTL-FILM-083,Krush Groove,1985,Michael Schultz,,Musical drama,3000000,,0,0,43,,FALSE,krush-groove
+CTL-FILM-084,A Dry White Season,1989,Euzhan Palcy,107,Drama,9000000,3766879,0,1,81,68,FALSE,a-dry-white-season
+CTL-FILM-085,New Jack City,1991,Mario Van Peebles,97,Crime drama,8000000,47624253,0,0,81,61,FALSE,new-jack-city
+CTL-FILM-086,Just Another Girl on the I.R.T.,1992,Leslie Harris,92,Drama,130000,479169,0,0,69,65,FALSE,just-another-girl-on-the-irt
+CTL-FILM-087,Hoop Dreams,1994,Steve James,170,Documentary,700000,11800000,0,1,98,98,TRUE,hoop-dreams
+CTL-FILM-088,Friday,1995,F. Gary Gray,91,Comedy,3500000,28215918,0,0,77,54,FALSE,friday
+CTL-FILM-089,Waiting to Exhale,1995,Forest Whitaker,124,Romantic drama,16000000,81452156,0,0,56,,FALSE,waiting-to-exhale
+CTL-FILM-090,The Watermelon Woman,1996,Cheryl Dunye,85,Comedy-drama,300000,,0,0,92,,FALSE,the-watermelon-woman
+CTL-FILM-091,Set It Off,1996,F. Gary Gray,123,Crime drama,9000000,41590886,0,0,71,62,FALSE,set-it-off
+CTL-FILM-092,The Best Man,1999,Malcolm D. Lee,120,Romantic comedy-drama,9000000,34573780,0,0,71,61,FALSE,the-best-man
+CTL-FILM-093,Training Day,2001,Antoine Fuqua,122,Crime thriller,45000000,104876233,1,2,74,71,FALSE,training-day
+CTL-FILM-094,Tsotsi,2005,Gavin Hood,95,Crime drama,3000000,11537539,1,1,82,70,FALSE,tsotsi
+CTL-FILM-095,When the Levees Broke,2006,Spike Lee,255,Documentary,,,0,0,,89,FALSE,when-the-levees-broke
+CTL-FILM-096,Inside Man,2006,Spike Lee,129,Crime thriller,45000000,184376254,0,0,86,76,FALSE,inside-man
+CTL-FILM-097,The Great Debaters,2007,Denzel Washington,126,Drama,15000000,30271556,0,0,80,65,FALSE,the-great-debaters
+CTL-FILM-098,Fruitvale Station,2013,Ryan Coogler,85,Biographical drama,900000,17385830,0,0,94,85,FALSE,fruitvale-station
+CTL-FILM-099,Creed,2015,Ryan Coogler,133,Sports drama,35000000,174178883,0,1,95,82,FALSE,creed
+CTL-FILM-100,Hidden Figures,2016,Theodore Melfi,127,Biographical drama,25000000,237613666,0,3,93,74,FALSE,hidden-figures
+CTL-FILM-101,O.J.: Made in America,2016,Ezra Edelman,467,Documentary,5000000,,1,1,100,96,FALSE,oj-made-in-america
+CTL-FILM-102,Mudbound,2017,Dee Rees,134,Drama,10000000,,0,4,97,85,FALSE,mudbound
+CTL-FILM-103,Sorry to Bother You,2018,Boots Riley,105,Comedy,3200000,18285560,0,0,93,78,FALSE,sorry-to-bother-you
+CTL-FILM-104,Spider-Man: Into the Spider-Verse,2018,"Bob Persichetti, Peter Ramsey, Rodney Rothman",117,Animated superhero,90000000,394884133,1,1,97,87,FALSE,spider-man-into-the-spider-verse
+CTL-FILM-105,Us,2019,Jordan Peele,116,Horror,20000000,256071218,0,0,93,81,FALSE,us
+CTL-FILM-106,The Photograph,2020,Stella Meghie,106,Romantic drama,,20690779,0,0,74,62,FALSE,the-photograph
+CTL-FILM-107,Ma Rainey's Black Bottom,2020,George C. Wolfe,94,Drama,,,2,5,97,87,TRUE,ma-raineys-black-bottom
+CTL-FILM-108,Candyman,2021,Nia DaCosta,91,Horror,25000000,77411570,0,0,84,72,TRUE,candyman-2021
+CTL-FILM-109,The Harder They Fall,2021,Jeymes Samuel,139,Western,90000000,,0,0,88,68,FALSE,the-harder-they-fall
+CTL-FILM-110,King Richard,2021,Reinaldo Marcus Green,145,Biographical sports drama,50000000,39400000,1,6,90,76,FALSE,king-richard
