@@ -1,0 +1,102 @@
+{
+  "as_of": "2026-10-19",
+  "citation_register": {
+    "entries_total": 1526,
+    "grades": {
+      "CTL-INTERNAL": 6,
+      "REASONABLE INFERENCE": 5,
+      "STRONG EVIDENCE": 162,
+      "VERIFIED FACT": 1353
+    },
+    "version": "v9 (2026-10-18)",
+    "wikipedia_sourced_rows": 0
+  },
+  "film_canon": {
+    "chicago_connection_true": 11,
+    "films_adopted": 110,
+    "id_range": "CTL-FILM-001–110",
+    "note": "List only (film-canon/films-110.csv). The film studies are optionable IP, not published in this repository.",
+    "package": "CTL-MUSE-001 (canon list)"
+  },
+  "fix_id": "CTL-GH-FIX-2026-10-19-002",
+  "generated_at": "2026-10-19T15:42:27+00:00",
+  "generated_by": "build_github_fix_v2.py (computed from master CSVs and the adopted source packages; never hand-edit) — CTL-MTH-004",
+  "identifiers": {
+    "ein": "39-3143901",
+    "orcid_founder": "0009-0004-2837-8037",
+    "wikidata": "Q141705779"
+  },
+  "index": {
+    "doi": "10.5281/zenodo.23081630",
+    "edition": "2026-10"
+  },
+  "knowledge_graph": {
+    "master_working": {
+      "edges_total": 2527,
+      "entities_by_type": {
+        "Event": 221,
+        "Institution": 234,
+        "List": 53,
+        "Outlet": 452,
+        "Person": 1480,
+        "Place": 223,
+        "Topic": 78,
+        "Work": 1370
+      },
+      "entities_total": 4111,
+      "note": "Working data. UNVERIFIED rows are seed-standard, flagged in each row props_json; not for public citation.",
+      "verification": {
+        "STRONG_EVIDENCE": 1483,
+        "VERIFIED": 2005,
+        "stamped_total": 3488,
+        "unverified": 623
+      }
+    },
+    "stamped_slice_citable": {
+      "edges_both_endpoints_stamped": 2162,
+      "entities": 3488
+    }
+  },
+  "media_rolodex": {
+    "status": "PRIVATE — data never published in this repository; schema and methodology only"
+  },
+  "public_snapshots_historical": [
+    {
+      "date": "2026-10-16",
+      "doi": "10.5281/zenodo.23403147",
+      "entities": 3201,
+      "label": "KG v1.3 snapshot",
+      "note": "HISTORICAL SNAPSHOT, superseded. Its \"2,426 verified\" figure is withdrawn by a Retraction-class erratum (CTL-MTH-007) that is drafted and pending posting on that record; do not cite the snapshot counts as current.",
+      "relationships": 4714
+    },
+    {
+      "date": "2026-10-06",
+      "doi": "10.5281/zenodo.23253532",
+      "entities": 2822,
+      "label": "KG Public Edition snapshot",
+      "relationships": 4500
+    }
+  ],
+  "reviews": {
+    "categories": 115,
+    "dataset": "CTL-REV-001 v5.0 Tech Decoded (2026-10-18)",
+    "link_verified": "575/575",
+    "note": "Data ships in this repository (reviews/dataset-v5.json) since GitHub Fix v2, 2026-10-19. Counts recomputed from dataset-v5.json; link/price verification per report-v5.md, unverified prices flagged in the data.",
+    "price_verified": "497/575",
+    "products": 575
+  },
+  "supersedes": [
+    "CTL-GH-FIX-2026-10-19-001 (v1 of this fix pack, frozen as delivered) — same corrected graph/Register numbers; v2 adds Reviews data, tools/, and film-canon/",
+    "flagship staging counts.json of 2026-10-17 (3,532 entities / 2,065 edges / Register v6 1,051 / Reviews v2) — stale",
+    "CTL-REL-2026-10-19-001 github/counts.json (2,613 edges / slice 2,248) — generated before Ruling A executed; carries the 86 removed edges"
+  ],
+  "tools": {
+    "folder": "tools/",
+    "note": "The generators behind counts.json, published for rerunnable verification (CTL-MTH-004).",
+    "scripts": [
+      "recount.py",
+      "validate_schema.py",
+      "publish_export.py"
+    ]
+  }
+}

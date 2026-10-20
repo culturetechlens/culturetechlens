@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this research, please cite it as below."
+type: software
+title: "CultureTechLens — flagship research repository (Index, Knowledge Graph, Citation Register, Reviews, Film Canon list)"
+authors:
+  - family-names: Maxey
+    given-names: William
+    orcid: "https://orcid.org/0009-0004-2837-8037"
+    affiliation: "CultureTechLens NFP"
+  - name: "CultureTechLens NFP"
+repository-code: "https://github.com/culturetechlens/culturetechlens"
+url: "https://culturetechlens.com"
+license: CC-BY-4.0
+keywords:
+  - black-cultural-intelligence
+  - knowledge-graph
+  - chicago
+  - digital-humanities
+  - open-data
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23081630"
+    description: "The CultureTechLens Index — Edition 2026-10"
+  - type: doi
+    value: "10.5281/zenodo.23403147"
+    description: "CultureTechLens Black Cultural Knowledge Graph v1.3 (snapshot, 2026-10-16)"
+  - type: doi
+    value: "10.5281/zenodo.23253532"
+    description: "CTL Black Cultural Knowledge Graph — Public Edition (snapshot, 2026-10-06)"
+notes: "A flagship CONCEPT DOI is minted at the v1.0 release (Zenodo-GitHub integration) and becomes the preferred citation; the per-dataset DOIs above remain valid for the snapshots they name."
