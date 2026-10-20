@@ -2,6 +2,8 @@
 
 **Tags:** culturetechlens, black-cultural-intelligence, chicago, knowledge-graph, citation-register, open-data, digital-humanities, nonprofit
 
+[![Knowledge Graph DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23403147.svg)](https://doi.org/10.5281/zenodo.23403147) [![Content: CC BY 4.0](https://img.shields.io/badge/content-CC%20BY%204.0-gold)](https://creativecommons.org/licenses/by/4.0/) [![Code: MIT](https://img.shields.io/badge/code-MIT-gold)](LICENSES.md)
+
 > CultureTechLens is Chicago's Black cultural intelligence platform — research, stories, and a monthly Index on Black history, music, sports, and film, built to be cited: every claim graded, every source named, every correction public. A 501(c)(3) nonprofit.
 >
 > **Culture, Clearly Seen.**
