@@ -1,0 +1,379 @@
+{
+ "date": "2026-10-16",
+ "edge_layers": {
+  "A_coverage": [
+   {
+    "edge": "MENTIONS",
+    "from": "Work",
+    "properties": [
+     "context"
+    ],
+    "to": "any"
+   },
+   {
+    "edge": "FILED_UNDER",
+    "from": "Work",
+    "properties": [],
+    "to": "Topic"
+   },
+   {
+    "edge": "AUTHORED_BY",
+    "from": "Work",
+    "properties": [
+     "role"
+    ],
+    "to": "Person"
+   },
+   {
+    "edge": "PUBLISHED_IN",
+    "from": "Work",
+    "properties": [
+     "pub_date"
+    ],
+    "to": "Outlet"
+   },
+   {
+    "edge": "FEATURED_IN",
+    "from": "Work",
+    "note": "Added 2026-10-16 during the 400-edge props-mining batch: links a Work of work_type 'character' to the source Work it appears in.",
+    "properties": [
+     "character",
+     "source_work"
+    ],
+    "to": "Work"
+   }
+  ],
+  "B_influence": [
+   {
+    "edge": "INFLUENCED",
+    "from": "Person",
+    "properties": [
+     "notes"
+    ],
+    "to": "Person"
+   },
+   {
+    "edge": "MENTORED",
+    "from": "Person",
+    "properties": [
+     "period"
+    ],
+    "to": "Person"
+   },
+   {
+    "edge": "CITES",
+    "from": "Person|Work",
+    "properties": [
+     "context"
+    ],
+    "to": "Person|Work"
+   },
+   {
+    "edge": "COVERS",
+    "from": "Outlet",
+    "properties": [
+     "beat"
+    ],
+    "to": "Person|Topic"
+   },
+   {
+    "edge": "AFFILIATED_WITH",
+    "from": "Person",
+    "properties": [
+     "role",
+     "period"
+    ],
+    "to": "Outlet|Institution"
+   },
+   {
+    "edge": "APPEARS_ON",
+    "from": "Person",
+    "properties": [
+     "rank",
+     "year"
+    ],
+    "to": "List"
+   },
+   {
+    "edge": "HONORED_BY",
+    "from": "Person",
+    "properties": [
+     "award",
+     "year"
+    ],
+    "to": "List|Event"
+   },
+   {
+    "edge": "PERFORMED_AT",
+    "from": "Person",
+    "properties": [
+     "date",
+     "role"
+    ],
+    "to": "Event"
+   },
+   {
+    "edge": "LOCATED_IN",
+    "from": "Person|Outlet|Institution",
+    "properties": [
+     "period"
+    ],
+    "to": "Place"
+   },
+   {
+    "edge": "FOUNDED",
+    "from": "Person",
+    "properties": [
+     "year"
+    ],
+    "to": "Outlet|Institution"
+   },
+   {
+    "edge": "SAMPLED",
+    "from": "Work",
+    "properties": [
+     "notes"
+    ],
+    "to": "Work"
+   },
+   {
+    "edge": "APPEARED_IN",
+    "from": "Person",
+    "properties": [
+     "character",
+     "role",
+     "year"
+    ],
+    "to": "Work"
+   },
+   {
+    "edge": "COLLABORATED_WITH",
+    "from": "Person",
+    "properties": [
+     "context",
+     "period"
+    ],
+    "to": "Person|Institution"
+   },
+   {
+    "edge": "DOCUMENTED_BY",
+    "from": "any",
+    "properties": [
+     "context"
+    ],
+    "to": "Work|Outlet"
+   }
+  ]
+ },
+ "edge_properties_required": [
+  "since",
+  "until",
+  "evidence",
+  "source_ids[]",
+  "notes"
+ ],
+ "evidence_grades": [
+  "VERIFIED FACT",
+  "STRONG EVIDENCE",
+  "REASONABLE INFERENCE",
+  "HYPOTHESIS"
+ ],
+ "id_rules": {
+  "format": "CTL-<PREFIX>-<zero-padded sequence>",
+  "stability": "IDs are assigned once, never reused, never changed",
+  "topic_exception": "CTL-T-<lane-nn> reuses taxonomy lane numbers"
+ },
+ "load_files": [
+  {
+   "columns": [
+    "kg_id",
+    "node_type",
+    "name",
+    "aliases",
+    "props_json",
+    "created",
+    "source"
+   ],
+   "file": "entities.csv"
+  },
+  {
+   "columns": [
+    "from_id",
+    "edge_type",
+    "to_id",
+    "since",
+    "until",
+    "evidence",
+    "source_ids",
+    "notes"
+   ],
+   "file": "edges.csv"
+  }
+ ],
+ "node_types": [
+  {
+   "discipline": "authority record: one stable ID per real person, aliases listed, duplicates merged",
+   "prefix": "CTL-P",
+   "properties": [
+    "name",
+    "aliases[]",
+    "roles[]",
+    "birth_date",
+    "death_date",
+    "bio_source"
+   ],
+   "type": "Person"
+  },
+  {
+   "prefix": "CTL-O",
+   "properties": [
+    "name",
+    "outlet_type",
+    "city",
+    "url",
+    "verified_contact"
+   ],
+   "type": "Outlet"
+  },
+  {
+   "prefix": "CTL-I",
+   "properties": [
+    "name",
+    "inst_type",
+    "city"
+   ],
+   "type": "Institution"
+  },
+  {
+   "prefix": "CTL-W",
+   "properties": [
+    "title",
+    "work_type",
+    "pub_date",
+    "url",
+    "ctl_grade"
+   ],
+   "type": "Work"
+  },
+  {
+   "note": "reuses CTL-TAX-001 lane IDs",
+   "prefix": "CTL-T",
+   "properties": [
+    "lane_nn",
+    "slug",
+    "title"
+   ],
+   "type": "Topic"
+  },
+  {
+   "prefix": "CTL-E",
+   "properties": [
+    "name",
+    "event_type",
+    "date",
+    "venue"
+   ],
+   "type": "Event"
+  },
+  {
+   "prefix": "CTL-PL",
+   "properties": [
+    "name",
+    "place_type",
+    "address",
+    "city",
+    "coords"
+   ],
+   "type": "Place"
+  },
+  {
+   "prefix": "CTL-L",
+   "properties": [
+    "name",
+    "list_type",
+    "issuer",
+    "year"
+   ],
+   "type": "List"
+  }
+ ],
+ "package": "CTL-KG-001",
+ "status": "SPEC",
+ "subtype_vocabularies": {
+  "event_type": [
+   "concert",
+   "broadcast",
+   "award_ceremony",
+   "summit",
+   "game",
+   "festival",
+   "exhibition",
+   "election",
+   "uprising",
+   "disaster",
+   "milestone",
+   "press_conference"
+  ],
+  "inst_type": [
+   "school",
+   "museum",
+   "church",
+   "company",
+   "team",
+   "league",
+   "org",
+   "agency"
+  ],
+  "list_type": [
+   "award",
+   "ranking",
+   "canon",
+   "chart",
+   "hall_of_fame",
+   "honor"
+  ],
+  "note": "Starter vocabularies. Extend by adding values; never rename existing ones.",
+  "outlet_type": [
+   "wire",
+   "newspaper",
+   "magazine",
+   "tv",
+   "radio",
+   "digital",
+   "podcast",
+   "newsletter"
+  ],
+  "place_type": [
+   "studio",
+   "venue",
+   "address",
+   "neighborhood",
+   "restaurant",
+   "landmark",
+   "shop",
+   "city",
+   "island"
+  ],
+  "work_type": [
+   "article",
+   "book",
+   "album",
+   "song",
+   "film",
+   "tv_series",
+   "tv_episode",
+   "podcast_episode",
+   "policy",
+   "legislation",
+   "artifact",
+   "game",
+   "software",
+   "play",
+   "phrase",
+   "dish",
+   "character"
+  ]
+ },
+ "title": "CultureTechLens Knowledge Graph Schema",
+ "version": "v1"
+}
