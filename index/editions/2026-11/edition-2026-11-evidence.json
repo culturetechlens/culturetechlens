@@ -1,0 +1,165 @@
+{
+ "Chicago Race Riot of 1919": {
+  "raw": 6.0,
+  "detail": {
+   "in_source_package": true,
+   "verified_claims": 2,
+   "provisional_claims": 2,
+   "relationships": 0,
+   "has_full_event_treatment": false,
+   "source_packages": [
+    "CTL-DR-BCI-001",
+    "CTL-DR-BVM-005",
+    "CTL-DR-SCI-004"
+   ]
+  }
+ },
+ "Harold Washington elected Chicago's first Black mayor (1983)": {
+  "raw": 14.5,
+  "detail": {
+   "in_source_package": true,
+   "verified_claims": 3,
+   "provisional_claims": 2,
+   "relationships": 1,
+   "has_full_event_treatment": true,
+   "source_packages": [
+    "CTL-DR-BCI-001",
+    "CTL-DR-GLOBAL-001",
+    "CTL-DR-INST-001",
+    "CTL-DR-SCI-004"
+   ]
+  }
+ },
+ "Emmett Till funeral at Roberts Temple (1955)": {
+  "raw": 19.0,
+  "detail": {
+   "in_source_package": true,
+   "verified_claims": 8,
+   "provisional_claims": 0,
+   "relationships": 2,
+   "has_full_event_treatment": false,
+   "source_packages": [
+    "CTL-DR-BPM-003",
+    "CTL-DR-GLOBAL-001",
+    "CTL-DR-INST-001",
+    "CTL-DR-LIFE-001",
+    "CTL-DR-MEDIA-001",
+    "CTL-DR-PRESERVE-001"
+   ]
+  }
+ },
+ "First Bud Billiken Parade (1929)": {
+  "raw": 13.0,
+  "detail": {
+   "in_source_package": true,
+   "verified_claims": 4,
+   "provisional_claims": 0,
+   "relationships": 0,
+   "has_full_event_treatment": true,
+   "source_packages": [
+    "CTL-DR-BCI-001",
+    "CTL-DR-BPM-003",
+    "CTL-DR-LIFE-001",
+    "CTL-DR-MUSIC-001"
+   ]
+  }
+ },
+ "Soul Train premieres on WCIU-TV (1970)": {
+  "raw": 6.0,
+  "detail": {
+   "in_source_package": true,
+   "verified_claims": 1,
+   "provisional_claims": 1,
+   "relationships": 2,
+   "has_full_event_treatment": false,
+   "source_packages": [
+    "CTL-DR-BCI-001",
+    "CTL-DR-LIFE-001",
+    "CTL-DR-MEDIA-001",
+    "CTL-DR-MUSIC-001"
+   ]
+  }
+ },
+ "The Warehouse opens (1977)": {
+  "raw": 8.0,
+  "detail": {
+   "in_source_package": true,
+   "verified_claims": 4,
+   "provisional_claims": 0,
+   "relationships": 0,
+   "has_full_event_treatment": false,
+   "source_packages": [
+    "CTL-DR-BMI-002",
+    "CTL-DR-MUSIC-001",
+    "CTL-DR-TECH-001"
+   ]
+  }
+ },
+ "Disco Demolition Night (1979)": {
+  "raw": 9.0,
+  "detail": {
+   "in_source_package": true,
+   "verified_claims": 1,
+   "provisional_claims": 2,
+   "relationships": 0,
+   "has_full_event_treatment": true,
+   "source_packages": [
+    "CTL-DR-BMI-002",
+    "CTL-DR-MUSIC-001"
+   ]
+  }
+ },
+ "The Great Migration: first wave to Chicago (1916)": {
+  "raw": 17.5,
+  "detail": {
+   "in_source_package": true,
+   "verified_claims": 5,
+   "provisional_claims": 6,
+   "relationships": 1,
+   "has_full_event_treatment": false,
+   "source_packages": [
+    "CTL-DR-BCI-001",
+    "CTL-DR-BPM-003",
+    "CTL-DR-BVM-005",
+    "CTL-DR-INST-001",
+    "CTL-DR-LIFE-001",
+    "CTL-DR-MUSIC-001",
+    "CTL-DR-SCI-004",
+    "CTL-DR-TECH-001"
+   ]
+  }
+ },
+ "Chess Records founded (1950)": {
+  "raw": 12.5,
+  "detail": {
+   "in_source_package": true,
+   "verified_claims": 2,
+   "provisional_claims": 1,
+   "relationships": 5,
+   "has_full_event_treatment": false,
+   "source_packages": [
+    "CTL-DR-BCI-001",
+    "CTL-DR-BMI-002",
+    "CTL-DR-GLOBAL-001",
+    "CTL-DR-MUSIC-001",
+    "CTL-DR-TECH-001"
+   ]
+  }
+ },
+ "Chicago Freedom Movement: MLK in Chicago (1966)": {
+  "raw": 34.0,
+  "detail": {
+   "in_source_package": true,
+   "verified_claims": 9,
+   "provisional_claims": 5,
+   "relationships": 4,
+   "has_full_event_treatment": true,
+   "source_packages": [
+    "CTL-DR-BCI-001",
+    "CTL-DR-GLOBAL-001",
+    "CTL-DR-PLACE-001",
+    "CTL-DR-SCI-004"
+   ]
+  }
+ }
+}
