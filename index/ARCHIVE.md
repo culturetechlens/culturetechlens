@@ -28,10 +28,12 @@ Published 2026-10-24 (advance release; prepared and approved 2026-10-06, publica
 
 **Download**
 - This repo: [`editions/2026-11/`](editions/2026-11/) — EDITION.md · RANKED.md · index-scores.csv · candidates · evidence (the branded PDF, CTL-IDX-004-edition-2026-11.pdf, rides in the Zenodo deposit)
-- Zenodo: full structured deposit prepared 2026-10-24 — DOI added here when the deposit publishes.
+- Zenodo (full structured package, 9 files, new record 2026-10-24): https://zenodo.org/records/23614305
 
 **Cite** (CTL-CITE-001, Chicago primary)
-CultureTechLens. "CultureTechLens Index, Edition 2026-11: Moments (CTL-IDX-004)." October 24, 2026.
+CultureTechLens. "CultureTechLens Index, Edition 2026-11: Moments (CTL-IDX-004)." October 24, 2026. https://doi.org/10.5281/zenodo.23614304
+
+DOI: concept **10.5281/zenodo.23614304** (cite this — always resolves to the current version) · version 10.5281/zenodo.23614305 (2026-10-24).
 
 ---
 
