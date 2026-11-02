@@ -1,0 +1,24 @@
+{
+  "title": "CultureTechLens — flagship research repository (Index, Knowledge Graph, Citation Register, Reviews, Film Canon list)",
+  "upload_type": "software",
+  "description": "Open, graded data on Black cultural history — Chicago first. The flagship CultureTechLens repository: the CultureTechLens Index, the Black Cultural Knowledge Graph, the citation register, reviews, and the Film Canon list. Every claim is evidence-graded and sourced. Culture, Clearly Seen. Black Cultural Intelligence.",
+  "creators": [
+    {
+      "name": "Maxey, William",
+      "affiliation": "CultureTechLens NFP",
+      "orcid": "0009-0004-2837-8037"
+    },
+    {
+      "name": "CultureTechLens NFP"
+    }
+  ],
+  "access_right": "open",
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "black-cultural-intelligence",
+    "knowledge-graph",
+    "chicago",
+    "digital-humanities",
+    "open-data"
+  ]
+}
