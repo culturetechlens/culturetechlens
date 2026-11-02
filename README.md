@@ -2,13 +2,20 @@
 
 **Tags:** culturetechlens, black-cultural-intelligence, chicago, knowledge-graph, citation-register, open-data, digital-humanities, nonprofit
 
-[![Knowledge Graph DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23403147.svg)](https://doi.org/10.5281/zenodo.23403147) [![Content: CC BY 4.0](https://img.shields.io/badge/content-CC%20BY%204.0-gold)](https://creativecommons.org/licenses/by/4.0/) [![Code: MIT](https://img.shields.io/badge/code-MIT-gold)](LICENSES.md)
+[![Knowledge Graph DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23403147.svg)](https://doi.org/10.5281/zenodo.23403147) [![Content: CC BY 4.0](https://img.shields.io/badge/content-CC%20BY%204.0-gold)](https://creativecommons.org/licenses/by/4.0/) [![Code: MIT](https://img.shields.io/badge/code-MIT-gold)](LICENSES.md) [![Dataset v2.1](https://img.shields.io/badge/dataset-v2.1-gold)](https://doi.org/10.5281/zenodo.23822179) [![GitHub stars](https://img.shields.io/github/stars/culturetechlens/culturetechlens?style=social)](https://github.com/culturetechlens/culturetechlens/stargazers)
 
 > CultureTechLens is Chicago's Black cultural intelligence platform — research, stories, and a monthly Index on Black history, music, sports, and film, built to be cited: every claim graded, every source named, every correction public. A 501(c)(3) nonprofit.
 >
 > **Culture, Clearly Seen.**
 
 This is the flagship repository: one front door for all of CultureTechLens's public research data. The datasets remain separate packages *inside* it — divided by trust, condensed by audience.
+
+## Start with the data
+
+- **Knowledge graph (stamped slice, in this repo):** [`knowledge-graph/entities.csv`](knowledge-graph/entities.csv) · [`knowledge-graph/edges.csv`](knowledge-graph/edges.csv) — 3,488 entities · 2,162 edges, every edge joining two stamped entities.
+- **Current dataset release:** [v2.1 on GitHub](https://github.com/culturetechlens/culturetechlens/releases/tag/v2.1), archived on Zenodo as [10.5281/zenodo.23822179](https://doi.org/10.5281/zenodo.23822179) — 3,488 entities · 2,595 relationships. The release extract counts every relationship touching the verified set; the slice above counts only edges stamped at both ends. Both figures are correct — different cuts, named on purpose, never blended.
+- **Counts, generated not typed:** [`counts.json`](counts.json)
+- **Cite it:** [`CITATION.cff`](CITATION.cff) — the concept DOI [10.5281/zenodo.23403147](https://doi.org/10.5281/zenodo.23403147) always resolves to the current version.
 
 ## The datasets (counts as of October 19, 2026 — canonical source: [`counts.json`](counts.json))
 
