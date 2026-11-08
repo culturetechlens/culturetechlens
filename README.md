@@ -1,3 +1,9 @@
+![Flags of the diaspora](https://raw.githubusercontent.com/culturetechlens/.github/main/ctl-flags-strip.png)
+
+**Culture, Clearly Seen.** — the flagship repository of CultureTechLens (CTL), the Chicago-based Black cultural intelligence platform founded by William Maxey. The full record — stats, coverage, and the repository map — lives on the [organization profile](https://github.com/culturetechlens).
+
+---
+
 # CultureTechLens
 
 **Tags:** culturetechlens, black-cultural-intelligence, chicago, knowledge-graph, citation-register, open-data, digital-humanities, nonprofit
