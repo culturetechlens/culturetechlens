@@ -52,7 +52,7 @@ See [`CITATION.cff`](CITATION.cff). Concept-level citation preferred; cite a dat
 
 ## Identity
 
-CultureTechLens NFP · EIN 39-3143901 · PO Box 379244, Chicago, IL 60637-9233 · Wikidata [Q141705779](https://www.wikidata.org/wiki/Q141705779) · Founder/researcher ORCID [0009-0004-2837-8037](https://orcid.org/0009-0004-2837-8037) · press@culturetechlens.com
+CultureTechLens NFP · EIN 39-3143901 · PO Box 379244, Chicago, IL 60637-9233 · Wikidata [Q141705779](https://www.wikidata.org/wiki/Q141705779) · Founder/researcher ORCID [0009-0004-2837-8037](https://orcid.org/0009-0004-2837-8037) · info@culturetechlens.com
 
 ## Provenance
 
