@@ -1,20 +1,27 @@
-![Flags of the diaspora](https://raw.githubusercontent.com/culturetechlens/.github/main/ctl-flags-strip.png)
-
-**Culture, Clearly Seen.** — the flagship repository of CultureTechLens (CTL), the Chicago-based Black cultural intelligence platform founded by William Maxey. The full record — stats, coverage, and the repository map — lives on the [organization profile](https://github.com/culturetechlens).
-
----
-
 # CultureTechLens
 
-**Tags:** culturetechlens, black-cultural-intelligence, chicago, knowledge-graph, citation-register, open-data, digital-humanities, nonprofit
+**The Black Cultural Knowledge Graph: 3,488 evidence-graded records of Black history, music, sports, film, and technology — rooted in Chicago, open to be cited, and corrected in public.**
 
 [![Knowledge Graph DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23403147.svg)](https://doi.org/10.5281/zenodo.23403147) [![Content: CC BY 4.0](https://img.shields.io/badge/content-CC%20BY%204.0-gold)](https://creativecommons.org/licenses/by/4.0/) [![Code: MIT](https://img.shields.io/badge/code-MIT-gold)](LICENSES.md) [![Dataset v2.1](https://img.shields.io/badge/dataset-v2.1-gold)](https://doi.org/10.5281/zenodo.23822179) [![GitHub stars](https://img.shields.io/github/stars/culturetechlens/culturetechlens?style=social)](https://github.com/culturetechlens/culturetechlens) [![Latest release](https://img.shields.io/github/v/release/culturetechlens/culturetechlens)](https://github.com/culturetechlens/culturetechlens/releases) [![Counts verified](https://github.com/culturetechlens/culturetechlens/actions/workflows/counts-verified.yml/badge.svg)](https://github.com/culturetechlens/culturetechlens/actions/workflows/counts-verified.yml)
 
-> CultureTechLens is Chicago's Black cultural intelligence platform — research, stories, and a monthly Index on Black history, music, sports, and film, built to be cited: every claim graded, every source named, every correction public. A 501(c)(3) nonprofit.
->
-> **Culture, Clearly Seen.**
+![The Black Cultural Knowledge Graph — partial view: Chicago, the hub (248 relationships), and its strongest connections](assets/graph-hub-core.svg)
 
-This is the flagship repository: one front door for all of CultureTechLens's public research data. The datasets remain separate packages *inside* it — divided by trust, condensed by audience.
+*Partial view — the full stamped slice ships in `knowledge-graph/` below; the interactive version lives on this repo's Pages site (`docs/graph.html`).*
+
+## Use it in 60 seconds
+
+```python
+import pandas as pd
+e = pd.read_csv("knowledge-graph/entities.csv")   # 3,488 graded records
+g = pd.read_csv("knowledge-graph/edges.csv")      # 2,162 relationships
+print(e[e.kg_id == "CTL-P-0739"])                  # one entity: Beyoncé
+```
+
+New here? Run the [starter notebook](notebooks/ctl-graph-starter.ipynb) (Colab-ready), try the [starter queries](docs/starter-queries.md), or open the [interactive graph](https://culturetechlens.github.io/culturetechlens/graph.html).
+
+**Also on GitHub:** the combined-graph dataset — [Dataset v2.0 (7,530 entities · 7,998 relationships)](https://github.com/culturetechlens-cpu/black-cultural-knowledge-graph), the larger research cut behind this slice, under the same concept DOI.
+
+![Flags of the diaspora](https://raw.githubusercontent.com/culturetechlens/.github/main/ctl-flags-strip.png)
 
 ## Start with the data
 
