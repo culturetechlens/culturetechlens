@@ -26,3 +26,9 @@ Concept DOI: [10.5281/zenodo.23403147](https://doi.org/10.5281/zenodo.23403147) 
 Content CC BY 4.0 · Code MIT — see [`LICENSES.md`](../LICENSES.md).
 
 CULTURETECHLENS · "Culture, Clearly Seen." · Black Cultural Intelligence · Source: CultureTechLens
+
+## Use it
+
+- **Interactive graph:** [graph.html](graph.html) — the 300 most-connected records; search, zoom, click a record.
+- **Starter notebook:** [`notebooks/ctl-graph-starter.ipynb`](../notebooks/ctl-graph-starter.ipynb) — load the graph in Colab, plot by decade and place, run the worked queries.
+- **Starter queries:** [starter-queries.md](starter-queries.md) — six questions the graph answers today, with copy-paste code.
