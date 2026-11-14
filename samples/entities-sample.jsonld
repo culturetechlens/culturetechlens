@@ -1,0 +1,609 @@
+{
+  "@context": {
+    "ctl": "https://culturetechlens.com/schema/",
+    "name": "http://schema.org/name",
+    "type": "@type"
+  },
+  "@graph": [
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0001",
+      "ctl:id": "CTL-E-0001",
+      "type": "ctl:Event",
+      "name": "Chicago Blues Festival"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0002",
+      "ctl:id": "CTL-E-0002",
+      "type": "ctl:Event",
+      "name": "Chicago Jazz Festival"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0003",
+      "ctl:id": "CTL-E-0003",
+      "type": "ctl:Event",
+      "name": "Chicago Gospel Music Festival"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0004",
+      "ctl:id": "CTL-E-0004",
+      "type": "ctl:Event",
+      "name": "Taste of Chicago"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0005",
+      "ctl:id": "CTL-E-0005",
+      "type": "ctl:Event",
+      "name": "Lollapalooza"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0006",
+      "ctl:id": "CTL-E-0006",
+      "type": "ctl:Event",
+      "name": "Pitchfork Music Festival"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0007",
+      "ctl:id": "CTL-E-0007",
+      "type": "ctl:Event",
+      "name": "Chosen Few Picnic"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0008",
+      "ctl:id": "CTL-E-0008",
+      "type": "ctl:Event",
+      "name": "Bud Billiken Parade"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0009",
+      "ctl:id": "CTL-E-0009",
+      "type": "ctl:Event",
+      "name": "Frankie Knuckles Day"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0010",
+      "ctl:id": "CTL-E-0010",
+      "type": "ctl:Event",
+      "name": "Disco Demolition Night"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0011",
+      "ctl:id": "CTL-E-0011",
+      "type": "ctl:Event",
+      "name": "Harold Washington elected mayor"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0012",
+      "ctl:id": "CTL-E-0012",
+      "type": "ctl:Event",
+      "name": "Barack Obama Grant Park rally"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0013",
+      "ctl:id": "CTL-E-0013",
+      "type": "ctl:Event",
+      "name": "March on Washington"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0014",
+      "ctl:id": "CTL-E-0014",
+      "type": "ctl:Event",
+      "name": "Million Man March"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0015",
+      "ctl:id": "CTL-E-0015",
+      "type": "ctl:Event",
+      "name": "Emmett Till funeral"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0016",
+      "ctl:id": "CTL-E-0016",
+      "type": "ctl:Event",
+      "name": "Fred Hampton assassination"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0017",
+      "ctl:id": "CTL-E-0017",
+      "type": "ctl:Event",
+      "name": "Super Bowl XX"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0018",
+      "ctl:id": "CTL-E-0018",
+      "type": "ctl:Event",
+      "name": "1998 NBA Finals Game 6"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0019",
+      "ctl:id": "CTL-E-0019",
+      "type": "ctl:Event",
+      "name": "2016 World Series Game 7"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0020",
+      "ctl:id": "CTL-E-0020",
+      "type": "ctl:Event",
+      "name": "Derrick Rose MVP award"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0021",
+      "ctl:id": "CTL-E-0021",
+      "type": "ctl:Event",
+      "name": "Soul Train premiere"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0022",
+      "ctl:id": "CTL-E-0022",
+      "type": "ctl:Event",
+      "name": "Oprah Winfrey Show premiere"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0023",
+      "ctl:id": "CTL-E-0023",
+      "type": "ctl:Event",
+      "name": "1968 Democratic National Convention"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0024",
+      "ctl:id": "CTL-E-0024",
+      "type": "ctl:Event",
+      "name": "Chicago Freedom Movement (1966)"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0025",
+      "ctl:id": "CTL-E-0025",
+      "type": "ctl:Event",
+      "name": "1919 Chicago race riot"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0026",
+      "ctl:id": "CTL-E-0026",
+      "type": "ctl:Event",
+      "name": "1968 West Side uprising"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0027",
+      "ctl:id": "CTL-E-0027",
+      "type": "ctl:Event",
+      "name": "Chicago Seven trial"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0028",
+      "ctl:id": "CTL-E-0028",
+      "type": "ctl:Event",
+      "name": "Pullman Strike"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0029",
+      "ctl:id": "CTL-E-0029",
+      "type": "ctl:Event",
+      "name": "Haymarket affair"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0030",
+      "ctl:id": "CTL-E-0030",
+      "type": "ctl:Event",
+      "name": "2024 Democratic National Convention"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0031",
+      "ctl:id": "CTL-E-0031",
+      "type": "ctl:Event",
+      "name": "1991 Bulls championship"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0032",
+      "ctl:id": "CTL-E-0032",
+      "type": "ctl:Event",
+      "name": "2005 White Sox World Series"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0033",
+      "ctl:id": "CTL-E-0033",
+      "type": "ctl:Event",
+      "name": "2021 Sky championship"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0034",
+      "ctl:id": "CTL-E-0034",
+      "type": "ctl:Event",
+      "name": "Hyde Park Jazz Festival"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0035",
+      "ctl:id": "CTL-E-0035",
+      "type": "ctl:Event",
+      "name": "Chicago House Music Festival"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0036",
+      "ctl:id": "CTL-E-0036",
+      "type": "ctl:Event",
+      "name": "Magnificent Coloring Day"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0037",
+      "ctl:id": "CTL-E-0037",
+      "type": "ctl:Event",
+      "name": "Donda listening party (Soldier Field)"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0038",
+      "ctl:id": "CTL-E-0038",
+      "type": "ctl:Event",
+      "name": "Silver Room Block Party"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0039",
+      "ctl:id": "CTL-E-0039",
+      "type": "ctl:Event",
+      "name": "DuSable Museum founding"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0040",
+      "ctl:id": "CTL-E-0040",
+      "type": "ctl:Event",
+      "name": "Cabrini-Green demolition"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0041",
+      "ctl:id": "CTL-E-0041",
+      "type": "ctl:Event",
+      "name": "Great Chicago Fire"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0042",
+      "ctl:id": "CTL-E-0042",
+      "type": "ctl:Event",
+      "name": "Eastland disaster"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0043",
+      "ctl:id": "CTL-E-0043",
+      "type": "ctl:Event",
+      "name": "\"The Bears are who we thought they were\" rant"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0044",
+      "ctl:id": "CTL-E-0044",
+      "type": "ctl:Event",
+      "name": "Ghana independence 1957"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0045",
+      "ctl:id": "CTL-E-0045",
+      "type": "ctl:Event",
+      "name": "Soweto uprising 1976"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0046",
+      "ctl:id": "CTL-E-0046",
+      "type": "ctl:Event",
+      "name": "Rumble in the Jungle 1974"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0047",
+      "ctl:id": "CTL-E-0047",
+      "type": "ctl:Event",
+      "name": "FESTAC 77"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0048",
+      "ctl:id": "CTL-E-0048",
+      "type": "ctl:Event",
+      "name": "Mandela release 1990"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0049",
+      "ctl:id": "CTL-E-0049",
+      "type": "ctl:Event",
+      "name": "Sharpeville massacre 1960"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0050",
+      "ctl:id": "CTL-E-0050",
+      "type": "ctl:Event",
+      "name": "Rwandan genocide 1994"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0051",
+      "ctl:id": "CTL-E-0051",
+      "type": "ctl:Event",
+      "name": "Nigeria independence 1960"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0052",
+      "ctl:id": "CTL-E-0052",
+      "type": "ctl:Event",
+      "name": "Algeria independence 1962"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0053",
+      "ctl:id": "CTL-E-0053",
+      "type": "ctl:Event",
+      "name": "Battle of Adwa 1896"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0054",
+      "ctl:id": "CTL-E-0054",
+      "type": "ctl:Event",
+      "name": "Mau Mau uprising"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0055",
+      "ctl:id": "CTL-E-0055",
+      "type": "ctl:Event",
+      "name": "Senegal independence 1960"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0056",
+      "ctl:id": "CTL-E-0056",
+      "type": "ctl:Event",
+      "name": "Kenya independence 1963"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0057",
+      "ctl:id": "CTL-E-0057",
+      "type": "ctl:Event",
+      "name": "Zimbabwe independence 1980"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0058",
+      "ctl:id": "CTL-E-0058",
+      "type": "ctl:Event",
+      "name": "South Africa first democratic election 1994"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0059",
+      "ctl:id": "CTL-E-0059",
+      "type": "ctl:Event",
+      "name": "Truth and Reconciliation Commission hearings"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0060",
+      "ctl:id": "CTL-E-0060",
+      "type": "ctl:Event",
+      "name": "OAU founding 1963"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0061",
+      "ctl:id": "CTL-E-0061",
+      "type": "ctl:Event",
+      "name": "African Union launch 2002"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0062",
+      "ctl:id": "CTL-E-0062",
+      "type": "ctl:Event",
+      "name": "Haile Selassie UN address 1963"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0063",
+      "ctl:id": "CTL-E-0063",
+      "type": "ctl:Event",
+      "name": "Fela Kuti funeral 1997"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0064",
+      "ctl:id": "CTL-E-0064",
+      "type": "ctl:Event",
+      "name": "Miriam Makeba funeral 2008"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0065",
+      "ctl:id": "CTL-E-0065",
+      "type": "ctl:Event",
+      "name": "Hugh Masekela funeral 2018"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0066",
+      "ctl:id": "CTL-E-0066",
+      "type": "ctl:Event",
+      "name": "Felabration"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0067",
+      "ctl:id": "CTL-E-0067",
+      "type": "ctl:Event",
+      "name": "Sauti za Busara"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0068",
+      "ctl:id": "CTL-E-0068",
+      "type": "ctl:Event",
+      "name": "Cape Town International Jazz Festival"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0069",
+      "ctl:id": "CTL-E-0069",
+      "type": "ctl:Event",
+      "name": "Gnaoua World Music Festival"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0070",
+      "ctl:id": "CTL-E-0070",
+      "type": "ctl:Event",
+      "name": "Festival au Désert"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0071",
+      "ctl:id": "CTL-E-0071",
+      "type": "ctl:Event",
+      "name": "Dak'Art Biennale"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0072",
+      "ctl:id": "CTL-E-0072",
+      "type": "ctl:Event",
+      "name": "Lake of Stars"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0073",
+      "ctl:id": "CTL-E-0073",
+      "type": "ctl:Event",
+      "name": "AfroFuture"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0074",
+      "ctl:id": "CTL-E-0074",
+      "type": "ctl:Event",
+      "name": "Soul Train Awards 2026"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0075",
+      "ctl:id": "CTL-E-0075",
+      "type": "ctl:Event",
+      "name": "Riot Fest"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0076",
+      "ctl:id": "CTL-E-0076",
+      "type": "ctl:Event",
+      "name": "Suenos Festival"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0077",
+      "ctl:id": "CTL-E-0077",
+      "type": "ctl:Event",
+      "name": "Arc Music Festival"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0078",
+      "ctl:id": "CTL-E-0078",
+      "type": "ctl:Event",
+      "name": "Ruido Fest"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0079",
+      "ctl:id": "CTL-E-0079",
+      "type": "ctl:Event",
+      "name": "Spring Awakening"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0080",
+      "ctl:id": "CTL-E-0080",
+      "type": "ctl:Event",
+      "name": "African Festival of the Arts"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0081",
+      "ctl:id": "CTL-E-0081",
+      "type": "ctl:Event",
+      "name": "Black Women's Expo"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0082",
+      "ctl:id": "CTL-E-0082",
+      "type": "ctl:Event",
+      "name": "WGCI Big Jam"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0083",
+      "ctl:id": "CTL-E-0083",
+      "type": "ctl:Event",
+      "name": "B96 SummerBash"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0084",
+      "ctl:id": "CTL-E-0084",
+      "type": "ctl:Event",
+      "name": "Bulls first three-peat"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0085",
+      "ctl:id": "CTL-E-0085",
+      "type": "ctl:Event",
+      "name": "Bulls second three-peat"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0086",
+      "ctl:id": "CTL-E-0086",
+      "type": "ctl:Event",
+      "name": "2016 Cubs World Series"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0087",
+      "ctl:id": "CTL-E-0087",
+      "type": "ctl:Event",
+      "name": "2003 NLCS Bartman game"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0088",
+      "ctl:id": "CTL-E-0088",
+      "type": "ctl:Event",
+      "name": "Harold Washington re-election 1987"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0089",
+      "ctl:id": "CTL-E-0089",
+      "type": "ctl:Event",
+      "name": "Obama Grant Park rally 2008"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0090",
+      "ctl:id": "CTL-E-0090",
+      "type": "ctl:Event",
+      "name": "DNC 1996 Chicago"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0091",
+      "ctl:id": "CTL-E-0091",
+      "type": "ctl:Event",
+      "name": "DNC 2024 Chicago"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0092",
+      "ctl:id": "CTL-E-0092",
+      "type": "ctl:Event",
+      "name": "NATO 2012 Chicago protests"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0093",
+      "ctl:id": "CTL-E-0093",
+      "type": "ctl:Event",
+      "name": "2020 George Floyd protests in Chicago"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0094",
+      "ctl:id": "CTL-E-0094",
+      "type": "ctl:Event",
+      "name": "1979 Chicago blizzard"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0095",
+      "ctl:id": "CTL-E-0095",
+      "type": "ctl:Event",
+      "name": "1995 Chicago heat wave"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0096",
+      "ctl:id": "CTL-E-0096",
+      "type": "ctl:Event",
+      "name": "American Airlines Flight 191"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0097",
+      "ctl:id": "CTL-E-0097",
+      "type": "ctl:Event",
+      "name": "E2 nightclub stampede 2003"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0098",
+      "ctl:id": "CTL-E-0098",
+      "type": "ctl:Event",
+      "name": "Our Lady of the Angels fire"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0099",
+      "ctl:id": "CTL-E-0099",
+      "type": "ctl:Event",
+      "name": "S.S. Eastland disaster"
+    },
+    {
+      "@id": "https://culturetechlens.com/graph/CTL-E-0100",
+      "ctl:id": "CTL-E-0100",
+      "type": "ctl:Event",
+      "name": "Iroquois Theatre fire"
+    }
+  ]
+}
