@@ -1,0 +1,47 @@
+name: Data quality
+
+on:
+  push:
+    paths:
+      - "knowledge-graph/**"
+      - "tools/lint_schema.py"
+      - "tools/check_duplicates.py"
+      - "README.md"
+      - "docs/**"
+  pull_request:
+    paths:
+      - "knowledge-graph/**"
+      - "tools/lint_schema.py"
+      - "tools/check_duplicates.py"
+      - "README.md"
+      - "docs/**"
+  workflow_dispatch:
+
+jobs:
+  schema-lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Lint the knowledge-graph slice against CTL-KG-001 conventions
+        run: python3 tools/lint_schema.py
+  duplicates:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Fail on structural duplicates (repeated kg_id or identical edge rows)
+        run: python3 tools/check_duplicates.py
+  link-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check links in the README and docs
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: --no-progress "README.md" "docs/**/*.md"
+          fail: true
