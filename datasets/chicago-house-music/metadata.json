@@ -1,0 +1,34 @@
+{
+  "id": "CTL-DS-MUS-000001",
+  "title": "Chicago House Music Knowledge Graph \u2014 Specialist Dataset, 1977\u20131995",
+  "version": "1.0",
+  "status": "Pre-publication package (v1.0 assembled 2026-11-16 from v0.1 staged, 2026-11-14). Zenodo deposit pending the founder's token sitting; no DOI yet.",
+  "creator": "CultureTechLens NFP",
+  "license": "CC-BY-4.0",
+  "parent": {
+    "name": "Black Cultural Knowledge Graph",
+    "doi": "10.5281/zenodo.23403147"
+  },
+  "counts": {
+    "venues": 18,
+    "artists": 115,
+    "labels": 16,
+    "discography": 46,
+    "network_edges": 156,
+    "evidence_register": 368,
+    "bibliography": 50,
+    "photo_manifest": 49,
+    "total_rows": 818
+  },
+  "counts_note": "Staged v0.1 counted 852 rows including 34 fully blank rows in network_edges; the v1.0 package removes them (logged in CHANGELOG), for 818 data rows and 156 edges.",
+  "keywords": [
+    "Chicago house music",
+    "Frankie Knuckles",
+    "Warehouse club",
+    "Trax Records",
+    "Black music history",
+    "evidence-graded dataset",
+    "knowledge graph"
+  ],
+  "description": "An evidence-graded dataset of Chicago house music, 1977-1995: 18 venues, 115 artists, 16 labels, 46 recordings (45 Discogs-verified), 156 network relationships, and a 368-claim evidence register in which every claim carries a CTL grade (Verified 154 / Supported 116 / Provisional 50 / Disputed 28 / Unresolved 20). Photo manifest: 49 Wikimedia Commons candidates, all UNVERIFIED \u2014 not cleared for use. Venue coordinates are blank by design; none are asserted."
+}

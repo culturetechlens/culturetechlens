@@ -1,0 +1,16 @@
+# Chicago House Music Knowledge Graph — Specialist Dataset (CultureTechLens)
+
+> An evidence-graded dataset of Chicago house music, 1977-1995: 18 venues, 115 artists, 16 labels, 46 Discogs-verified recordings, 156 network relationships, and a 368-claim evidence register in which every claim carries a CTL grade (Verified / Supported / Provisional / Disputed / Unresolved). Built by CultureTechLens NFP, a Chicago 501(c)(3) Black cultural intelligence archive. Status: v0.1 STAGED (2026-11-14) — not yet published; DOI pending the founder's deposit. Parent work: Black Cultural Knowledge Graph, concept DOI 10.5281/zenodo.23403147.
+
+## Key facts (Verified claims, evidence register)
+- The Warehouse, 206 S. Jefferson St., Chicago, operated 1977-1982; founded by Robert Williams; resident DJ Frankie Knuckles from opening.
+- Frankie Knuckles arrived in Chicago in March 1977; in 1983 he opened the Power Plant (1015 N. Halsted St.) and the Warehouse was rebranded the Music Box.
+- The Hot Mix 5 were assembled in 1981 by WBMX program director Lee Michaels.
+- Farley "Jackmaster" Funk's "Love Can't Turn Around" (1986), written by Vince Lawrence and sung by Darryl Pandy, reached the UK Top 10.
+- Mr. Fingers is Larry Heard. Ron Hardy was the Music Box's resident DJ. The Chosen Few were founded in 1977 by Wayne Williams.
+
+## Tables
+- venues (18), artists (115), labels (16), discography (46), network_edges (190), evidence_register (368), bibliography (50), photo_manifest (49 — all UNVERIFIED, not cleared for use)
+
+## Citation
+Cite as: CultureTechLens, "Chicago House Music Knowledge Graph — Specialist Dataset, 1977–1995", v0.1 (staged), 2026. License on publication: CC BY 4.0 (open core, CTL-TERMS-001).

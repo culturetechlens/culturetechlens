@@ -1,0 +1,157 @@
+subject,relationship,object,grade,evidence,provenance,subject_name,object_name
+CTL-E-MUS2-026,gave_name_to,CTL-E-MUS2-039,Verified,The Warehouse,CTL-RB-MUS-000002,,
+CTL-E-MUS2-001,resident_dj_at,CTL-E-MUS2-026,Verified,from March 1977,CTL-RB-MUS-000002,Frankie Knuckles,
+CTL-E-MUS2-003,founded_and_promoted,CTL-E-MUS2-026,Verified,,CTL-RB-MUS-000002,Robert Williams,
+CTL-E-MUS2-003,offered_residency_to,CTL-E-MUS2-004,Verified,1976; declined,CTL-RB-MUS-000002,Robert Williams,Larry Levan
+CTL-E-MUS2-004,recommended,CTL-E-MUS2-001,Verified,for the Warehouse residency,CTL-RB-MUS-000002,Larry Levan,Frankie Knuckles
+CTL-E-MUS2-001,developed_dj_practice_with,CTL-E-MUS2-004,Verified,"Continental Baths, NYC",CTL-RB-MUS-000002,Frankie Knuckles,Larry Levan
+CTL-E-MUS2-003,rebranded_as,CTL-E-MUS2-027,Verified,1983,CTL-RB-MUS-000002,Robert Williams,
+CTL-E-MUS2-002,resident_dj_at,CTL-E-MUS2-027,Verified,from 1983,CTL-RB-MUS-000002,Ron Hardy,
+CTL-E-MUS2-001,opened,CTL-E-MUS2-028,Verified,"1983, after Warehouse split",CTL-RB-MUS-000002,Frankie Knuckles,
+CTL-E-MUS2-020,assembled,CTL-E-MUS2-029,Verified,1981,CTL-RB-MUS-000002,Lee Michaels,
+CTL-E-MUS2-029,broadcast_on,CTL-E-MUS2-033,Verified,,CTL-RB-MUS-000002,,
+CTL-E-MUS2-005,co_created_with,CTL-E-MUS2-006,Supported,'On & On' (1984),CTL-RB-MUS-000002,Jesse Saunders,Vince Lawrence
+CTL-E-MUS2-005,pressed_on,CTL-E-MUS2-036,Supported,Jan 1984,CTL-RB-MUS-000002,Jesse Saunders,
+CTL-E-MUS2-006,wrote,CTL-E-MUS2-043,Verified,(Vince Lawrence wrote 'Love Can't Turn Around'),CTL-RB-MUS-000002,Vince Lawrence,
+CTL-E-MUS2-012,sang_on,CTL-E-MUS2-043,Verified,,CTL-RB-MUS-000002,Darryl Pandy,
+CTL-E-MUS2-011,released,CTL-E-MUS2-043,Verified,1986,CTL-RB-MUS-000002,Farley 'Jackmaster' Funk,
+CTL-E-MUS2-007,authored,CTL-E-MUS2-040,Supported,,CTL-RB-MUS-000002,Jamie Principle,
+CTL-E-MUS2-001,credited_on,CTL-E-MUS2-040,Supported,1987 Trax version; contested authorship,CTL-RB-MUS-000002,Frankie Knuckles,
+CTL-E-MUS2-008,produced,CTL-E-MUS2-042,Supported,1986,CTL-RB-MUS-000002,Marshall Jefferson,
+CTL-E-MUS2-013,created,CTL-E-MUS2-041,Supported,recorded to tape; club-tested by Hardy,CTL-RB-MUS-000002,,
+CTL-E-MUS2-002,club_tested,CTL-E-MUS2-041,Supported,at the Music Box,CTL-RB-MUS-000002,Ron Hardy,
+CTL-E-MUS2-031,pressed,CTL-E-MUS2-041,Supported,1987,CTL-RB-MUS-000002,,
+CTL-E-MUS2-031,pressed,CTL-E-MUS2-042,Supported,1986; first-label question unresolved,CTL-RB-MUS-000002,,
+CTL-E-MUS2-009,produced_as,CTL-E-MUS2-010,Verified,Mr. Fingers / Fingers Inc.,CTL-RB-MUS-000002,Larry Heard (Mr. Fingers),Robert Owens
+CTL-E-MUS2-021,co_founded_with,CTL-E-MUS2-022,Supported,DJ International (1985),CTL-RB-MUS-000002,Rocky Jones,Benji Espinoza
+CTL-E-MUS2-011,member_of,CTL-E-MUS2-029,Verified,,CTL-RB-MUS-000002,Farley 'Jackmaster' Funk,
+CTL-E-MUS2-017,founded,CTL-E-MUS2-030,Verified,1977,CTL-RB-MUS-000002,Wayne Williams,
+CTL-E-MUS2-018,member_of,CTL-E-MUS2-048,Supported,,CTL-RB-MUS-000002,Celeste Alexander (DJ Celeste),
+CTL-E-MUS2-025,promoted,CTL-E-MUS2-038,Verified,"July 12, 1979",CTL-RB-MUS-000002,Steve Dahl,
+CTL-E-MUS2-044,enabled,CTL-E-MUS2-041,Supported,acid bassline,CTL-RB-MUS-000002,,
+CTL-E-MUS2-024,designed,CTL-E-MUS2-044,Supported,1981,CTL-RB-MUS-000002,Tadao Kikumoto,
+CTL-E-MUS2-045,used_on,CTL-E-MUS2-041,Supported,,CTL-RB-MUS-000002,,
+CTL-E-MUS2-001,used,CTL-E-MUS2-046,Verified,re-edits of disco/soul,CTL-RB-MUS-000002,Frankie Knuckles,
+CTL-E-MUS2-004,used,CTL-E-MUS2-046,Verified,,CTL-RB-MUS-000002,Larry Levan,
+CTL-E-MUS2-026,hosted,CTL-E-MUS2-047,Verified,the dance community,CTL-RB-MUS-000002,,
+CTL-E-MUS2-043,charted_in,United Kingdom,Verified,"UK Top 10, 1986",CTL-RB-MUS-000002,,United Kingdom
+CTL-E-MUS2-038,context_not_cause_for,house music,Disputed,disco continuity frame,CTL-RB-MUS-000002,,house music
+CTL-E-MUS2-034,connected_scene_to,Detroit techno,Supported,Detroit producers encountered house at Imports Etc.,CTL-RB-MUS-000002,,Detroit techno
+CTL-E-MUS2-037,released,Z-Factor 'Fantasy',Provisional,March 1984,CTL-RB-MUS-000002,,Z-Factor 'Fantasy'
+Leonard Chess,bought,WVON,Verified,,CTL-RB-MUS-000004,Leonard Chess,WVON
+Phil Chess,bought,WVON,Verified,,CTL-RB-MUS-000004,Phil Chess,WVON
+WVON launch lineup,employed,WVON,Verified,,CTL-RB-MUS-000004,WVON launch lineup,WVON
+Chess family,sold_to,WVON,Verified,,CTL-RB-MUS-000004,Chess family,WVON
+1390 AM,renamed,WVON,Verified,,CTL-RB-MUS-000004,1390 AM,WVON
+1450 AM (Midway),renamed,WVON,Verified,,CTL-RB-MUS-000004,1450 AM (Midway),WVON
+Lu Palmer,mobilized_election_of,Harold Washington,Verified,,CTL-RB-MUS-000004,Lu Palmer,Harold Washington
+Midway Broadcasting,converted_to_talk,WVON,Verified,,CTL-RB-MUS-000004,Midway Broadcasting,WVON
+Ralph Atlass corporation,bought,WGRT,Supported,,CTL-RB-MUS-000004,Ralph Atlass corporation,WGRT
+Johnson Publishing Company,bought,WJPC,Supported,,CTL-RB-MUS-000004,Johnson Publishing Company,WJPC
+Tom Joyner,performed_on,WJPC,Supported,,CTL-RB-MUS-000004,Tom Joyner,WJPC
+LaDonna Tittle,performed_on,WJPC,Supported,,CTL-RB-MUS-000004,LaDonna Tittle,WJPC
+Al Benson,performed_on,1390 AM,Supported,,CTL-RB-MUS-000004,Al Benson,1390 AM
+McLendon interests,bought,WYNR,Supported,,CTL-RB-MUS-000004,McLendon interests,WYNR
+1390 AM,renamed,WNUS,Supported,,CTL-RB-MUS-000004,1390 AM,WNUS
+Globetrotter Communications,bought,WGCI-FM,Supported,,CTL-RB-MUS-000004,Globetrotter Communications,WGCI-FM
+Tom Joyner,performed_on,WGCI-FM,Supported,,CTL-RB-MUS-000004,Tom Joyner,WGCI-FM
+Marv Dyson,hired,WGCI-FM,Supported,,CTL-RB-MUS-000004,Marv Dyson,WGCI-FM
+Hot Mix 5,broadcast,WBMX,Supported,,CTL-RB-MUS-000004,Hot Mix 5,WBMX
+Lee Michaels,created_show,WBMX,Supported,,CTL-RB-MUS-000004,Lee Michaels,WBMX
+Don Cornelius,created,Soul Train,Supported,,CTL-RB-MUS-000004,Don Cornelius,Soul Train
+WVON,worked_at,Herb Kent,Supported,,CTL-RB-MUS-000004,WVON,Herb Kent
+Pervis Spann,founded,WXOL,Supported,,CTL-RB-MUS-000004,Pervis Spann,WXOL
+Wesley South,founded,WXOL,Supported,,CTL-RB-MUS-000004,Wesley South,WXOL
+Jack Cooper,used_economically,race records,Supported,,CTL-RB-MUS-000004,Jack Cooper,race records
+Richard Durham,wrote,Democracy–USA,Supported,,CTL-RB-MUS-000004,Richard Durham,Democracy–USA
+Federal Communications Act (1960 amendments),regulated,pay-for-play promotion,Supported,,CTL-RB-MUS-000004,Federal Communications Act (1960 amendments),pay-for-play promotion
+FCC 1978 minority-ownership policy,enabled_by,minority station ownership,Supported,,CTL-RB-MUS-000004,FCC 1978 minority-ownership policy,minority station ownership
+CTL-E-0134,founded_by,CTL-E-2339,Verified,,CTL-RB-MUS-000006,Soul Train Music Awards 2003,
+CTL-E-0046,played,CTL-E-0134,Verified,,CTL-RB-MUS-000006,Rumble in the Jungle 1974,Soul Train Music Awards 2003
+CTL-E-0046,hired_by,CTL-E-2339,Verified,,CTL-RB-MUS-000006,Rumble in the Jungle 1974,
+CTL-E-0134,located_in,CTL-E-5222 (proposed),Verified,,CTL-RB-MUS-000006,Soul Train Music Awards 2003,
+CTL-E-2339,founded,CTL-E-5223 (proposed),Verified,,CTL-RB-MUS-000006,,
+CTL-E-0047,played,CTL-E-1191,Verified,,CTL-RB-MUS-000006,FESTAC 77,
+CTL-E-0046,played,CTL-E-0135,Verified,,CTL-RB-MUS-000006,Rumble in the Jungle 1974,Soul Train Music Awards 2004
+CTL-E-0046,collaborated_with,CTL-E-5218 (proposed),Supported,,CTL-RB-MUS-000006,Rumble in the Jungle 1974,
+CTL-E-5218 (proposed),played,CTL-E-5220 (proposed),Supported,,CTL-RB-MUS-000006,,
+CTL-E-0612,authored_by,CTL-E-0050,Verified,,CTL-RB-MUS-000010,,Rwandan genocide 1994
+CTL-E-0612,released_by,CTL-E-4075,Supported,,CTL-RB-MUS-000010,,
+CTL-E-5882,authored_by,CTL-E-0051,Verified,,CTL-RB-MUS-000010,,Nigeria independence 1960
+CTL-E-5882,released_by,CTL-E-6389 (proposed),Supported,,CTL-RB-MUS-000010,,
+CTL-E-0485,released_by,CTL-E-6389 (proposed),Verified,,CTL-RB-MUS-000010,,
+CTL-E-6393 (proposed),authored_by,CTL-E-6387 (proposed),Supported,,CTL-RB-MUS-000010,,
+CTL-E-6393 (proposed),released_by,CTL-E-4075,Supported,,CTL-RB-MUS-000010,,
+CTL-E-0609,authored_by,CTL-E-0048,Supported,,CTL-RB-MUS-000010,,Mandela release 1990
+CTL-E-5258,authored_by,CTL-E-0049,Supported,,CTL-RB-MUS-000010,,Sharpeville massacre 1960
+CTL-E-0050,recorded_for,CTL-E-4075,Supported,,CTL-RB-MUS-000010,Rwandan genocide 1994,
+CTL-E-0051,recorded_for,CTL-E-4075,Supported,,CTL-RB-MUS-000010,Nigeria independence 1960,
+CTL-E-0048,recorded_for,CTL-E-0169,Supported,,CTL-RB-MUS-000010,Mandela release 1990,Tony Awards 1984
+CTL-E-6387 (proposed),recorded_for,CTL-E-4075,Supported,,CTL-RB-MUS-000010,,
+CTL-E-6388 (proposed),affiliated_with,CTL-E-6389 (proposed),Supported,,CTL-RB-MUS-000010,,
+CTL-E-0169,distributed_by,CTL-E-3492,Supported,,CTL-RB-MUS-000010,Tony Awards 1984,
+CTL-E-6390 (proposed),founded_by,CTL-E-6391 (proposed),Verified,,CTL-RB-MUS-000010,,
+CTL-E-6391 (proposed),played,CTL-E-6390 (proposed),Supported,,CTL-RB-MUS-000010,,
+CTL-E-6387 (proposed),collaborated_with,CTL-E-0051,Supported,,CTL-RB-MUS-000010,,Nigeria independence 1960
+Roland Corporation,invented,Roland TB-303,Verified,,CTL-RB-TECH-000001,Roland Corporation,Roland TB-303
+Roland Corporation,invented,Roland TR-808,Verified,,CTL-RB-TECH-000001,Roland Corporation,Roland TR-808
+Roland Corporation,invented,Roland TR-909,Verified,,CTL-RB-TECH-000001,Roland Corporation,Roland TR-909
+Tadao Kikumoto,chief-engineered,Roland TR-808,Verified,,CTL-RB-TECH-000001,Tadao Kikumoto,Roland TR-808
+Tadao Kikumoto,designed,Roland TB-303,Verified,,CTL-RB-TECH-000001,Tadao Kikumoto,Roland TB-303
+Tadao Kikumoto,designed,Roland TR-909,Verified,,CTL-RB-TECH-000001,Tadao Kikumoto,Roland TR-909
+Ikutaro Kakehashi,founded,Roland Corporation,Verified,,CTL-RB-TECH-000001,Ikutaro Kakehashi,Roland Corporation
+Matsushita Electric (Panasonic) / Technics,manufactured,Technics SL-1200,Verified,,CTL-RB-TECH-000001,Matsushita Electric (Panasonic) / Technics,Technics SL-1200
+Shuichi Obata,designed,Technics SL-1200,Verified,,CTL-RB-TECH-000001,Shuichi Obata,Technics SL-1200
+DJ Pierre,culturally-transformed,Roland TB-303,Verified,"Adoption, not invention: DJ Pierre did not invent the TB-303.",CTL-RB-TECH-000001,DJ Pierre,Roland TB-303
+Phuture,created-with,'Acid Tracks' (Phuture),Verified,,CTL-RB-TECH-000001,Phuture,'Acid Tracks' (Phuture)
+Jesse Saunders,produced,'On & On' (Jesse Saunders),Verified,,CTL-RB-TECH-000001,Jesse Saunders,'On & On' (Jesse Saunders)
+Vince Lawrence,co-produced,'On & On' (Jesse Saunders),Verified,,CTL-RB-TECH-000001,Vince Lawrence,'On & On' (Jesse Saunders)
+Jes Say Records,released,'On & On' (Jesse Saunders),Verified,,CTL-RB-TECH-000001,Jes Say Records,'On & On' (Jesse Saunders)
+Frankie Knuckles,operated,quarter-inch Pioneer reel-to-reel (edit bench),Verified,,CTL-RB-TECH-000001,Frankie Knuckles,quarter-inch Pioneer reel-to-reel (edit bench)
+Frankie Knuckles,wired-into-club-mixer,Roland TR-909,Verified,Transfer itself VERIFIED; transaction terms DISPUTED (C-D2).,CTL-RB-TECH-000001,Frankie Knuckles,Roland TR-909
+Derrick May,transferred-TR-909-to,Frankie Knuckles,Verified,Transaction terms (sale vs gift) DISPUTED; transfer VERIFIED.,CTL-RB-TECH-000001,Derrick May,Frankie Knuckles
+Larry Heard,played-bassline-on,'Can You Feel It' (Mr. Fingers),Verified,,CTL-RB-TECH-000001,Larry Heard,'Can You Feel It' (Mr. Fingers)
+Larry Sherman,acquired,Musical Products pressing plant,Verified,,CTL-RB-TECH-000001,Larry Sherman,Musical Products pressing plant
+Larry Sherman,launched,Trax Records,Verified,,CTL-RB-TECH-000001,Larry Sherman,Trax Records
+Trax Records,pressed,'Acid Tracks' (Phuture),Verified,,CTL-RB-TECH-000001,Trax Records,'Acid Tracks' (Phuture)
+Hot Mix 5,broadcast-on-WBMX,2M+ listener broadcast platform,Verified,,CTL-RB-TECH-000001,Hot Mix 5,2M+ listener broadcast platform
+Ron Hardy,club-tested-from-cassette,'Acid Tracks' (Phuture),Supported,SUPPORTED edge — grade attached per policy.,CTL-RB-TECH-000001,Ron Hardy,'Acid Tracks' (Phuture)
+Derrick May,sold-to-Knuckles,Roland TR-909,Supported,SUPPORTED edge — secondhand quote; terms DISPUTED (C-D2).,CTL-RB-TECH-000001,Derrick May,Roland TR-909
+Marshall Jefferson,produced-on-credit-financed-rig,'Move Your Body' (Marshall Jefferson),Supported,SUPPORTED edge; sequencer model name PROVISIONAL (C-033).,CTL-RB-TECH-000001,Marshall Jefferson,'Move Your Body' (Marshall Jefferson)
+Larry Heard,cut-acetate-for,Frankie Knuckles,Supported,SUPPORTED edge — grade attached per policy.,CTL-RB-TECH-000001,Larry Heard,Frankie Knuckles
+Larry Heard,cut-acetate-for,Ron Hardy,Supported,SUPPORTED edge — grade attached per policy.,CTL-RB-TECH-000001,Larry Heard,Ron Hardy
+Adonis,club-tested-for,Ron Hardy,Supported,SUPPORTED edge — grade attached per policy.,CTL-RB-TECH-000001,Adonis,Ron Hardy
+CTL-E-5075,founded,CTL-E-5076,Verified,Jones founded Cajual Records in 1992.,STAGED-HOUSEMUSIC-2026-10-07,Green Velvet,Cajual Records
+CTL-E-5075,founded,CTL-E-5077,Verified,Jones founded Relief Records in 1993.,STAGED-HOUSEMUSIC-2026-10-07,Green Velvet,Relief Records
+CTL-E-5076,founded_by,CTL-E-5075,Verified,Cajual Records founded in 1992 by Curtis Jones (Green Velvet/Cajmere).,STAGED-HOUSEMUSIC-2026-10-07,Cajual Records,Green Velvet
+CTL-E-5077,founded_by,CTL-E-5075,Verified,Relief Records founded in 1993 by Curtis Jones as a Cajual sublabel.,STAGED-HOUSEMUSIC-2026-10-07,Relief Records,Green Velvet
+CTL-E-5081,authored_by,CTL-E-5080,Verified,Joe Smooth credited as songwriter and producer of 'Promised Land' (1987).,STAGED-HOUSEMUSIC-2026-10-07,,Joe Smooth
+CTL-E-5088,authored_by,CTL-E-0049,Verified,"'Can You Feel It' (1986) by Mr. Fingers, the alias of Larry Heard.",STAGED-HOUSEMUSIC-2026-10-07,,Sharpeville massacre 1960
+CTL-E-5089,authored_by,CTL-E-0055,Verified,"'Your Love' (1986) written, composed, and recorded by Jamie Principle.",STAGED-HOUSEMUSIC-2026-10-07,,Senegal independence 1960
+CTL-E-5090,authored_by,CTL-E-4204,Verified,"'No Way Back' (1986): 'Producer, Written-By – Adonis.'",STAGED-HOUSEMUSIC-2026-10-07,,
+CTL-E-4241,member_of_organization,CTL-E-5086,Verified,"Ten City lineup: vocalist Byron Stingily, guitarist Herb Lawson, keyboardist Byron Burke.",STAGED-HOUSEMUSIC-2026-10-07,,
+CTL-E-0049,member_of_organization,CTL-E-5087,Verified,"Fingers Inc. members: producer Larry Heard, vocalists Robert Owens and Ron Wilson.",STAGED-HOUSEMUSIC-2026-10-07,Sharpeville massacre 1960,
+CTL-E-0519,member_of_organization,CTL-E-5087,Verified,"Fingers Inc. members: producer Larry Heard, vocalists Robert Owens and Ron Wilson.",STAGED-HOUSEMUSIC-2026-10-07,,
+CTL-E-0048,affiliated_with,CTL-E-5086,Verified,"Producer Marshall Jefferson augmented Ten City and produced their records, including 'That's the Way Love Is.'",STAGED-HOUSEMUSIC-2026-10-07,Mandela release 1990,
+CTL-E-5080,affiliated_with,CTL-E-0170,Verified,Joe Smooth joined DJ International Records in 1985; helped write/produce Chip E's 'Jack Trax' EP.,STAGED-HOUSEMUSIC-2026-10-07,Joe Smooth,Tony Awards 1985
+CTL-E-5084,affiliated_with,CTL-E-0170,Verified,Tyree Cooper originally released on DJ International Records ('I Fear the Night' 1986; 'Turn Up the Bass' 1988).,STAGED-HOUSEMUSIC-2026-10-07,Tyree Cooper,Tony Awards 1985
+CTL-E-5083,affiliated_with,CTL-E-0170,Verified,Fast Eddie's 'Acid Thunder' (1988) released on DJ International Records.,STAGED-HOUSEMUSIC-2026-10-07,Fast Eddie,Tony Awards 1985
+CTL-E-5085,affiliated_with,CTL-E-5076,Verified,Dajae's 'Brighter Days' (1992) released on Cajual Records (CAJ 204-1); follow-ups and album Higher Power (1995) also on Cajual.,STAGED-HOUSEMUSIC-2026-10-07,Dajae,Cajual Records
+CTL-E-5085,collaborated_with,CTL-E-5075,Verified,'Brighter Days' (1992) billed 'Cajmere Featuring Dajae'; produced by Cajmere (Curtis Jones).,STAGED-HOUSEMUSIC-2026-10-07,Dajae,Green Velvet
+CTL-E-5082,collaborated_with,CTL-E-0048,Verified,Kym Mazelle's 1987 debut 'Taste My Love' made with Marshall Jefferson (billed as House To House); he produced 'Useless' and 'Was That All It Was.',STAGED-HOUSEMUSIC-2026-10-07,Kym Mazelle,Mandela release 1990
+CTL-E-5092,collaborated_with,CTL-E-5094,Verified,Lidell Townsell co-wrote the original 1988 version of Maurice Joshua's 'This Is Acid' (Trax TX169 B-side).,STAGED-HOUSEMUSIC-2026-10-07,Maurice Joshua,Lidell Townsell
+CTL-E-0593,hosted,CTL-E-5079,Verified,"Bad Boy Bill was a regular mix-show DJ on WBMX 102.7 FM (also WGCI, B96); worked with and opened for the Hot Mix 5.",STAGED-HOUSEMUSIC-2026-10-07,,Bad Boy Bill
+CTL-E-0593,hosted,CTL-E-5083,Verified,Fast Eddie held radio spots on WGCI-FM and WBMX in the early Chicago house movement.,STAGED-HOUSEMUSIC-2026-10-07,,Fast Eddie
+CTL-E-5080,played,CTL-E-2590,Verified,"Joe Smooth held a residency at Smart Bar, 1983–1985.",STAGED-HOUSEMUSIC-2026-10-07,Joe Smooth,
+CTL-E-5075,based_in,CTL-E-1475,Verified,Born Chicago; returned 1991; Chicago-rooted house music figure.,STAGED-HOUSEMUSIC-2026-10-07,Green Velvet,
+CTL-E-5078,based_in,CTL-E-1475,Verified,Chicago DJ from Englewood; Chicago-rooted house music figure.,STAGED-HOUSEMUSIC-2026-10-07,Mike Dunn,
+CTL-E-5079,based_in,CTL-E-1475,Verified,Chicago house DJ; Chicago-rooted house music figure.,STAGED-HOUSEMUSIC-2026-10-07,Bad Boy Bill,
+CTL-E-5080,based_in,CTL-E-1475,Verified,Chicago house DJ/producer; Chicago-rooted house music figure.,STAGED-HOUSEMUSIC-2026-10-07,Joe Smooth,
+CTL-E-5082,based_in,CTL-E-1475,Verified,Moved to Chicago; Columbia College graduate; Chicago-rooted house music figure.,STAGED-HOUSEMUSIC-2026-10-07,Kym Mazelle,
+CTL-E-5083,based_in,CTL-E-1475,Verified,Chicago house producer/DJ; Chicago-rooted house music figure.,STAGED-HOUSEMUSIC-2026-10-07,Fast Eddie,
+CTL-E-5084,based_in,CTL-E-1475,Verified,"From Chicago, Illinois; Chicago-rooted house music figure.",STAGED-HOUSEMUSIC-2026-10-07,Tyree Cooper,
+CTL-E-5085,based_in,CTL-E-1475,Verified,Chicago-born vocalist; Chicago-rooted house music figure.,STAGED-HOUSEMUSIC-2026-10-07,Dajae,
+CTL-E-5092,based_in,CTL-E-1475,Verified,Chicago-born DJ/producer; Chicago-rooted house music figure.,STAGED-HOUSEMUSIC-2026-10-07,Maurice Joshua,
+CTL-E-5094,based_in,CTL-E-1475,Verified,"House musician from Chicago, Illinois; Chicago-rooted house music figure.",STAGED-HOUSEMUSIC-2026-10-07,Lidell Townsell,
+CTL-E-5096,founded,CTL-E-5095,Verified,Mirani founded 5 Magazine in Chicago in August 2005.,STAGED-HOUSEMUSIC-2026-10-07,Czarina Mirani,
+CTL-E-5096,played,CTL-E-2590,Verified,Mirani (as Czboogie) has held DJ residencies at Smart Bar.,STAGED-HOUSEMUSIC-2026-10-07,Czarina Mirani,

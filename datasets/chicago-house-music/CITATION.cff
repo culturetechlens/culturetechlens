@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "Chicago House Music Knowledge Graph — Specialist Dataset, 1977–1995"
+version: 1.0
+date-released: 2026-11-16
+abstract: "An evidence-graded dataset of Chicago house music, 1977-1995: 18 venues, 115 artists, 16 labels, 46 recordings (45 Discogs-verified), 156 network relationships, and a 368-claim evidence register in which every claim carries a CTL grade (Verified 154 / Supported 116 / Provisional 50 / Disputed 28 / Unresolved 20). Photo manifest: 49 Wikimedia Commons candidates, all UNVERIFIED — not cleared for use. Venue coordinates are blank by design; none are asserted."
+authors:
+  - name: "CultureTechLens NFP"
+license: CC-BY-4.0
+identifiers:
+  - type: other
+    value: "CTL-DS-MUS-000001"
+    description: "CTL dataset registry ID (ruled by William Maxey, 2026-11-16). DOI is assigned at Zenodo deposit."
+preferred-citation:
+  type: dataset
+  title: "Chicago House Music Knowledge Graph — Specialist Dataset, 1977–1995 (CTL-DS-MUS-000001)"
+  authors:
+    - name: "CultureTechLens"
+  year: 2026

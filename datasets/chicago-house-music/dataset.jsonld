@@ -1,0 +1,40 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Chicago House Music Knowledge Graph \u2014 Specialist Dataset, 1977\u20131995",
+  "identifier": "CTL-DS-MUS-000001",
+  "creator": {
+    "@type": "Organization",
+    "name": "CultureTechLens NFP"
+  },
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "description": "An evidence-graded dataset of Chicago house music, 1977-1995: 18 venues, 115 artists, 16 labels, 46 recordings (45 Discogs-verified), 156 network relationships, and a 368-claim evidence register in which every claim carries a CTL grade (Verified 154 / Supported 116 / Provisional 50 / Disputed 28 / Unresolved 20). Photo manifest: 49 Wikimedia Commons candidates, all UNVERIFIED \u2014 not cleared for use. Venue coordinates are blank by design; none are asserted.",
+  "keywords": [
+    "Chicago house music",
+    "Frankie Knuckles",
+    "Warehouse club",
+    "Trax Records",
+    "Black music history",
+    "evidence-graded dataset",
+    "knowledge graph"
+  ],
+  "isPartOf": {
+    "@type": "Dataset",
+    "name": "Black Cultural Knowledge Graph",
+    "identifier": "https://doi.org/10.5281/zenodo.23403147"
+  },
+  "distribution": [
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "application/json"
+    },
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "application/x-sqlite3"
+    }
+  ]
+}

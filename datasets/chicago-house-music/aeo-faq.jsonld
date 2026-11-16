@@ -1,0 +1,406 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Where was the Warehouse, and when did it operate?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Warehouse occupied 206 S. Jefferson St., Chicago, from 1977 to 1982. [Evidence E01 / C01 \u2014 Verified]"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who founded the Warehouse, and who was its resident DJ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Promoter Robert Williams founded the Warehouse. He first offered the residency to Larry Levan in 1976, who declined; Frankie Knuckles became resident DJ from opening. [Evidence E02 / CL-03 \u2014 Verified]"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When did Frankie Knuckles come to Chicago?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Frankie Knuckles arrived in Chicago in March 1977 and became the Warehouse's resident DJ. [Evidence CL-04 / C05 \u2014 Verified]"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where does the name \"house music\" come from?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The name \"house music\" derives from the Warehouse \u2014 a shortening of \"Warehouse music.\" [Evidence C13 \u2014 Verified]"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What was the Warehouse like inside?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A members' club that served fruit juice instead of alcohol and ran once a week from midnight Saturday to Sunday afternoon, across three levels \u2014 basement, main floor with the dancefloor, upstairs lounge \u2014 the main floor sparsely furnished: a dancefloor, dark-painted walls, a wall of speakers, and strobe lights. [Evidence C04 / C09 / C10 \u2014 Verified]"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who designed the Warehouse sound system?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sound designer Richard Long, who also designed systems for Paradise Garage and Studio 54 in New York. [Evidence C07 \u2014 Verified]"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What technique did Frankie Knuckles use in his Warehouse sets?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "He re-edited disco and soul records on reel-to-reel tape, extending intros and breaks \u2014 a core technique of his sets. [Evidence C11 \u2014 Verified]"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who was Robert Williams before the Warehouse?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Williams came to Chicago in 1973 and ran US Studios DJ-led dance parties in former industrial venues in the West Loop and South Loop in the mid-1970s. [Evidence C03 \u2014 Verified]"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What happened when Frankie Knuckles left the Warehouse?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In 1983 Knuckles parted ways with Williams and opened the Power Plant at 1015 N. Halsted St.; Williams rebranded the Warehouse as the Music Box at a new location. [Evidence CL-08 / C12 \u2014 Verified]"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is the Warehouse building protected?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes \u2014 the building at 206 S. Jefferson was designated a Chicago Landmark on June 21, 2023; the designation protects its facade and roofline elevations. It had been sold in December 2022 with no landmark protections, after which Preservation Chicago responded with a landmark petition. [Evidence C02 / C34 \u2014 Verified]"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When was the Warehouse landmark celebrated?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The landmark dedication block party was held October 5, 2024, on the 200 block of S. Jefferson Street \u2014 honorary Frankie Knuckles Way. [Evidence C38 \u2014 Verified]"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where did Frankie Knuckles learn to DJ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Knuckles and Larry Levan learned their craft together at the Continental Baths in New York, experimenting with mixing and re-presenting records. [Evidence CL-07 \u2014 Verified]"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who were the Hot Mix 5?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Farley Keith, Mickey Oliver, Ralphi Rosario, Kenny Jason, and Scott Silz \u2014 assembled in 1981 by WBMX program director Lee Michaels for the \"Saturday Night Live, Ain't No Jive\" show, broadcasting live DJ mixes. [Evidence CL-10 / C-013 \u2014 Verified]"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When was Disco Demolition Night?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "July 12, 1979, at Comiskey Park \u2014 a WLUP/Steve Dahl anti-disco promotion that ended in a riot and field destruction. [Evidence CL-14 / C35 \u2014 Verified]"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which early Chicago house record reached the UK Top 10?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Farley \"Jackmaster\" Funk's \"Love Can't Turn Around\" (with Jesse Saunders; vocals by Darryl Pandy; written by Vince Lawrence) reached No. 10 in the UK Singles Chart in September 1986. [Evidence CL-20 / C01 \u2014 Verified]"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What was the first house record to top the UK chart?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Steve \"Silk\" Hurley's \"Jack Your Body\" (as J.M. Silk) reached No. 1 on the UK Singles Chart for two weeks in January\u2013February 1987 \u2014 the UK's first house-music chart-topper. [Evidence C02 \u2014 Verified]"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What compilation introduced Chicago house to the UK?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "London Records' \"The House Sound of Chicago\" (1986), organized by A&R representative Pete Tong after he met the owners of DJ International. [Evidence C03 \u2014 Verified]"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is \"Acid Tracks\"?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Phuture's \"Acid Tracks\" \u2014 created in 1985 around a secondhand Roland TB-303, club-tested by Ron Hardy from cassette at the Music Box in 1985, and pressed on Trax in 1987 \u2014 was the earliest acid-house release on vinyl, built on the TB-303. [Evidence C12 / C-007 \u2014 Verified]"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How was Jesse Saunders' \"On & On\" made?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "\"On & On\" (Jesse Saunders, written and produced with Vince Lawrence) was recorded in 1983 on a Tascam 4-track using a Roland TR-808, a Korg Poly-61, and a Roland TB-303. [Evidence C-008 \u2014 Verified]"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which machines define the early house sound?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Roland's drum and bass machines: the TR-808 Rhythm Composer (1980\u20131983, fully analog, one of the first programmable drum machines), the TB-303 Bass Line (1981\u20131984), and the TR-909 (1983, analog voices with digitally sampled cymbals) \u2014 designed at Roland under chief engineer Tadao Kikumoto. [Evidence C-001 / C-002 / C-004 / C-005 \u2014 Verified]"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much did DJ Pierre pay for his TB-303?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "About $40 \u2014 \"somebody took it to a secondhand store, and they put a $40 price tag on it.\" [Evidence C-016 \u2014 Verified]"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What did Frankie Knuckles do with a TR-909 at the Power Plant?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In the mid-1980s he wired the Roland TR-909 he obtained from Derrick May directly into his DJ mixer and ran it underneath every record he played. [Evidence C-010 \u2014 Verified]"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What instrument made the \"Can You Feel It\" bassline?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A Roland Jupiter-6, identified by Larry Heard: \"it's not like a stock sound\u2026 it was more a case of experimentation.\" [Evidence C-011 \u2014 Verified]"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How did Marshall Jefferson record \"Move Your Body\"?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "He recorded the piano and bass parts slowly and sped the tape up to final tempo \u2014 speed manipulation as a production technique. [Evidence C-015 \u2014 Verified]"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who built Trax Records' pressing plant?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Larry Sherman, a vintage-jukebox collector, bought the Musical Products pressing plant in Chicago's Bridgeport neighborhood in 1983 and began pressing records \u2014 the plant from which Trax operated. [Evidence C-012 \u2014 Verified]"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who founded the Chosen Few DJs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Chosen Few Disco Corp. was founded in 1977 by Wayne Williams with South Side DJs, part of the first wave that created house music. [Evidence CL-25 \u2014 Verified]"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who is Mr. Fingers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Mr. Fingers is Larry Heard, who produced deep-house landmarks including \"Washing Machine,\" \"Can You Feel It,\" and \"Beyond the Clouds\" from a South Side basement. [Evidence CL-30 \u2014 Verified]"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who was Ron Hardy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ron Hardy was resident DJ at the Music Box (and earlier Den One), known for experimental mixing and editing that pushed house in a harder direction \u2014 and the DJ who first broke \"Acid Tracks\" at the Music Box. [Evidence CL-34 / C12 \u2014 Verified]"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What was Imports Etc.?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Imports Etc. was a Printers Row record store dealing exclusively in dance music, frequented by DJs and by early Detroit techno innovators. [Evidence CL-28 \u2014 Verified]"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What was Shoom?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Shoom, founded by Danny Rampling and his wife Jenni, opened in London in November 1987 and was one of the first clubs to introduce acid house to the English clubbing public. [Evidence C05 \u2014 Verified]"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who is Green Velvet?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Green Velvet is the stage name of Curtis Alan Jones (also recording as Cajmere), born April 26, 1968, in Chicago, Illinois. [Evidence CTL-CLM-94869 \u2014 Verified]"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What labels did Curtis Jones found?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cajual Records in 1992 and Relief Records in 1993 \u2014 Relief as a sublabel of Cajual and the home of his Green Velvet releases, including \"Preacher Man\" and \"Flash.\" [Evidence CTL-CLM-94870 / CTL-CLM-94876 / CTL-CLM-94877 \u2014 Verified]"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who is Joe Smooth?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A Chicago house DJ and producer \u2014 one of the contributors to the original house movement. He joined DJ International Records in 1985 and helped write and produce Chip E's landmark \"Jack Trax\" EP. [Evidence CTL-CLM-94887 / CTL-CLM-94889 \u2014 Verified]"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is \"Promised Land\"?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Joe Smooth's 1987 record featuring vocalist Anthony Thomas \u2014 written and produced by Smooth, inspired by classic Motown after touring \u2014 released in the US on D.J. International Records. [Evidence CTL-CLM-94890 / CTL-CLM-94891 \u2014 Verified]"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who is Mike Dunn?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A Chicago DJ and producer from Englewood on the South Side, active since the early 1980s; in 1995 he founded the Darkside label with Greg Bush. His \"God Made Me Phunky\" (1994) appeared in multiple concurrent international editions. [Evidence CTL-CLM-94879 / CTL-CLM-94880 / CTL-CLM-94882 \u2014 Verified]"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who is Kym Mazelle?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Kym Mazelle (born Kymberly Grigsby, August 10, 1960, Gary, Indiana), credited as \"The First Lady of House Music\"; her Chicago-era recording debut was the 1987 single \"Taste My Love,\" made with Marshall Jefferson. [Evidence CTL-CLM-94894 / CTL-CLM-94895 \u2014 Verified]"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who is Fast Eddie?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Fast Eddie, born Edwin A. Smith, is a Chicago house producer and early-movement DJ who popularized hip-house; his 1988 single \"Acid Thunder\" (DJ International) is regarded as an acid-house classic. [Evidence CTL-CLM-94898 / CTL-CLM-94899 / CTL-CLM-94900 \u2014 Verified]"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who is Bad Boy Bill?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Bad Boy Bill is William Renkosik, a Chicago house DJ who began his career in 1985 as a teenager, won the 1988 Midwest division of the DMC Battle DJ competition, and was a regular mix-show DJ on WBMX, WGCI, and B96. [Evidence CTL-CLM-94883 / CTL-CLM-94884 / CTL-CLM-94885 \u2014 Verified]"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who is Tyree Cooper?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Tyree Cooper (also credited simply as Tyree), from Chicago, is a house and hip-house record producer active from 1986. [Evidence CTL-CLM-94902 \u2014 Verified]"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What was George's Music Room?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "George Daniels' Chicago record shop \u2014 he assumed ownership in 1969 \u2014 which became an in-store promotional stop for recording artists and a North Lawndale institution. [Evidence C02 / C03 \u2014 Verified]"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What did George Daniels build for Black record retailers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Daniels founded the National United Independent Retailers, an organization dedicated to protecting African American-owned independent retailers. [Evidence C04 / C52 \u2014 Verified]"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who founded Vee-Jay Records?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Vivian Carter and James Bracken founded Vee-Jay Records in 1953; they owned a record store in Gary, Indiana, and Carter was also a DJ. [Evidence C14 \u2014 Verified]"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who founded Delmark Records?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Bob Koester founded Delmark Records in 1953 (originally \"Delmar\") and relocated the label to Chicago in 1958. [Evidence C06 \u2014 Verified]"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What was the Jazz Record Mart?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In 1959 Bob Koester took over Seymour's Jazz Mart at 439 S. Wabash Ave. and renamed it Jazz Record Mart; its final address was 27 E. Illinois St., and the store closed in 2016. [Evidence C07 / C09 \u2014 Verified]"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How many Black-owned record stores were there?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Davis (2011) reports that close to 1,000 African American-owned record stores operated in the South during their heyday \u2014 and that Black owners often had difficulty securing supplier credit and had to pay cash for inventory. [Evidence C12 / C13 \u2014 Verified]"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What happened to neighborhood record stores after 1980?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Calkins (2019) finds that between 1980 and 1990, record stores outside majority-white areas had significantly higher failure probabilities than stores in other areas, and that stores were once more clustered in predominantly Black areas than they were by 2010. [Evidence C10 / C11 \u2014 Verified]"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When was the Technics SL-1200 released?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Technics SL-1200 direct-drive turntable was released in October 1972 by Matsushita Electric under the Technics brand. [Evidence C-006 \u2014 Verified]"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who invented the TR-808, TB-303, and TR-909?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Roland Corporation \u2014 founded in Osaka in 1972 by Ikutaro Kakehashi \u2014 with engineers Tadao Kikumoto, Makoto Muroi, Hiro Nakamura, and Hisanori Matsuoka. Kakehashi won a Technical Grammy for MIDI development in 2013. [Evidence C-001 / C-014 \u2014 Verified]"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How did DJs make edits before digital tools?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Frankie Knuckles, before producing original tracks, cut and spliced disco and pop records on a quarter-inch Pioneer reel-to-reel machine in the late 1970s and early 1980s. [Evidence C-009 \u2014 Verified]"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is this dataset?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Chicago House Music Knowledge Graph (CTL-DS-MUS-000001) is CultureTechLens' evidence-graded dataset of Chicago house, 1977\u20131995: 18 venues, 115 artists, 16 labels, 46 recordings, 156 network relationships, and 368 graded evidence claims \u2014 every claim graded, every source named. [Dataset metadata \u2014 v1.0 package, 2026-11-16]"
+      }
+    }
+  ]
+}

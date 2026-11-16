@@ -1,0 +1,1562 @@
+[
+ {
+  "subject": "CTL-E-MUS2-026",
+  "relationship": "gave_name_to",
+  "object": "CTL-E-MUS2-039",
+  "grade": "Verified",
+  "evidence": "The Warehouse",
+  "provenance": "CTL-RB-MUS-000002",
+  "subject_name": "",
+  "object_name": ""
+ },
+ {
+  "subject": "CTL-E-MUS2-001",
+  "relationship": "resident_dj_at",
+  "object": "CTL-E-MUS2-026",
+  "grade": "Verified",
+  "evidence": "from March 1977",
+  "provenance": "CTL-RB-MUS-000002",
+  "subject_name": "Frankie Knuckles",
+  "object_name": ""
+ },
+ {
+  "subject": "CTL-E-MUS2-003",
+  "relationship": "founded_and_promoted",
+  "object": "CTL-E-MUS2-026",
+  "grade": "Verified",
+  "evidence": "",
+  "provenance": "CTL-RB-MUS-000002",
+  "subject_name": "Robert Williams",
+  "object_name": ""
+ },
+ {
+  "subject": "CTL-E-MUS2-003",
+  "relationship": "offered_residency_to",
+  "object": "CTL-E-MUS2-004",
+  "grade": "Verified",
+  "evidence": "1976; declined",
+  "provenance": "CTL-RB-MUS-000002",
+  "subject_name": "Robert Williams",
+  "object_name": "Larry Levan"
+ },
+ {
+  "subject": "CTL-E-MUS2-004",
+  "relationship": "recommended",
+  "object": "CTL-E-MUS2-001",
+  "grade": "Verified",
+  "evidence": "for the Warehouse residency",
+  "provenance": "CTL-RB-MUS-000002",
+  "subject_name": "Larry Levan",
+  "object_name": "Frankie Knuckles"
+ },
+ {
+  "subject": "CTL-E-MUS2-001",
+  "relationship": "developed_dj_practice_with",
+  "object": "CTL-E-MUS2-004",
+  "grade": "Verified",
+  "evidence": "Continental Baths, NYC",
+  "provenance": "CTL-RB-MUS-000002",
+  "subject_name": "Frankie Knuckles",
+  "object_name": "Larry Levan"
+ },
+ {
+  "subject": "CTL-E-MUS2-003",
+  "relationship": "rebranded_as",
+  "object": "CTL-E-MUS2-027",
+  "grade": "Verified",
+  "evidence": "1983",
+  "provenance": "CTL-RB-MUS-000002",
+  "subject_name": "Robert Williams",
+  "object_name": ""
+ },
+ {
+  "subject": "CTL-E-MUS2-002",
+  "relationship": "resident_dj_at",
+  "object": "CTL-E-MUS2-027",
+  "grade": "Verified",
+  "evidence": "from 1983",
+  "provenance": "CTL-RB-MUS-000002",
+  "subject_name": "Ron Hardy",
+  "object_name": ""
+ },
+ {
+  "subject": "CTL-E-MUS2-001",
+  "relationship": "opened",
+  "object": "CTL-E-MUS2-028",
+  "grade": "Verified",
+  "evidence": "1983, after Warehouse split",
+  "provenance": "CTL-RB-MUS-000002",
+  "subject_name": "Frankie Knuckles",
+  "object_name": ""
+ },
+ {
+  "subject": "CTL-E-MUS2-020",
+  "relationship": "assembled",
+  "object": "CTL-E-MUS2-029",
+  "grade": "Verified",
+  "evidence": "1981",
+  "provenance": "CTL-RB-MUS-000002",
+  "subject_name": "Lee Michaels",
+  "object_name": ""
+ },
+ {
+  "subject": "CTL-E-MUS2-029",
+  "relationship": "broadcast_on",
+  "object": "CTL-E-MUS2-033",
+  "grade": "Verified",
+  "evidence": "",
+  "provenance": "CTL-RB-MUS-000002",
+  "subject_name": "",
+  "object_name": ""
+ },
+ {
+  "subject": "CTL-E-MUS2-005",
+  "relationship": "co_created_with",
+  "object": "CTL-E-MUS2-006",
+  "grade": "Supported",
+  "evidence": "'On & On' (1984)",
+  "provenance": "CTL-RB-MUS-000002",
+  "subject_name": "Jesse Saunders",
+  "object_name": "Vince Lawrence"
+ },
+ {
+  "subject": "CTL-E-MUS2-005",
+  "relationship": "pressed_on",
+  "object": "CTL-E-MUS2-036",
+  "grade": "Supported",
+  "evidence": "Jan 1984",
+  "provenance": "CTL-RB-MUS-000002",
+  "subject_name": "Jesse Saunders",
+  "object_name": ""
+ },
+ {
+  "subject": "CTL-E-MUS2-006",
+  "relationship": "wrote",
+  "object": "CTL-E-MUS2-043",
+  "grade": "Verified",
+  "evidence": "(Vince Lawrence wrote 'Love Can't Turn Around')",
+  "provenance": "CTL-RB-MUS-000002",
+  "subject_name": "Vince Lawrence",
+  "object_name": ""
+ },
+ {
+  "subject": "CTL-E-MUS2-012",
+  "relationship": "sang_on",
+  "object": "CTL-E-MUS2-043",
+  "grade": "Verified",
+  "evidence": "",
+  "provenance": "CTL-RB-MUS-000002",
+  "subject_name": "Darryl Pandy",
+  "object_name": ""
+ },
+ {
+  "subject": "CTL-E-MUS2-011",
+  "relationship": "released",
+  "object": "CTL-E-MUS2-043",
+  "grade": "Verified",
+  "evidence": "1986",
+  "provenance": "CTL-RB-MUS-000002",
+  "subject_name": "Farley 'Jackmaster' Funk",
+  "object_name": ""
+ },
+ {
+  "subject": "CTL-E-MUS2-007",
+  "relationship": "authored",
+  "object": "CTL-E-MUS2-040",
+  "grade": "Supported",
+  "evidence": "",
+  "provenance": "CTL-RB-MUS-000002",
+  "subject_name": "Jamie Principle",
+  "object_name": ""
+ },
+ {
+  "subject": "CTL-E-MUS2-001",
+  "relationship": "credited_on",
+  "object": "CTL-E-MUS2-040",
+  "grade": "Supported",
+  "evidence": "1987 Trax version; contested authorship",
+  "provenance": "CTL-RB-MUS-000002",
+  "subject_name": "Frankie Knuckles",
+  "object_name": ""
+ },
+ {
+  "subject": "CTL-E-MUS2-008",
+  "relationship": "produced",
+  "object": "CTL-E-MUS2-042",
+  "grade": "Supported",
+  "evidence": "1986",
+  "provenance": "CTL-RB-MUS-000002",
+  "subject_name": "Marshall Jefferson",
+  "object_name": ""
+ },
+ {
+  "subject": "CTL-E-MUS2-013",
+  "relationship": "created",
+  "object": "CTL-E-MUS2-041",
+  "grade": "Supported",
+  "evidence": "recorded to tape; club-tested by Hardy",
+  "provenance": "CTL-RB-MUS-000002",
+  "subject_name": "",
+  "object_name": ""
+ },
+ {
+  "subject": "CTL-E-MUS2-002",
+  "relationship": "club_tested",
+  "object": "CTL-E-MUS2-041",
+  "grade": "Supported",
+  "evidence": "at the Music Box",
+  "provenance": "CTL-RB-MUS-000002",
+  "subject_name": "Ron Hardy",
+  "object_name": ""
+ },
+ {
+  "subject": "CTL-E-MUS2-031",
+  "relationship": "pressed",
+  "object": "CTL-E-MUS2-041",
+  "grade": "Supported",
+  "evidence": "1987",
+  "provenance": "CTL-RB-MUS-000002",
+  "subject_name": "",
+  "object_name": ""
+ },
+ {
+  "subject": "CTL-E-MUS2-031",
+  "relationship": "pressed",
+  "object": "CTL-E-MUS2-042",
+  "grade": "Supported",
+  "evidence": "1986; first-label question unresolved",
+  "provenance": "CTL-RB-MUS-000002",
+  "subject_name": "",
+  "object_name": ""
+ },
+ {
+  "subject": "CTL-E-MUS2-009",
+  "relationship": "produced_as",
+  "object": "CTL-E-MUS2-010",
+  "grade": "Verified",
+  "evidence": "Mr. Fingers / Fingers Inc.",
+  "provenance": "CTL-RB-MUS-000002",
+  "subject_name": "Larry Heard (Mr. Fingers)",
+  "object_name": "Robert Owens"
+ },
+ {
+  "subject": "CTL-E-MUS2-021",
+  "relationship": "co_founded_with",
+  "object": "CTL-E-MUS2-022",
+  "grade": "Supported",
+  "evidence": "DJ International (1985)",
+  "provenance": "CTL-RB-MUS-000002",
+  "subject_name": "Rocky Jones",
+  "object_name": "Benji Espinoza"
+ },
+ {
+  "subject": "CTL-E-MUS2-011",
+  "relationship": "member_of",
+  "object": "CTL-E-MUS2-029",
+  "grade": "Verified",
+  "evidence": "",
+  "provenance": "CTL-RB-MUS-000002",
+  "subject_name": "Farley 'Jackmaster' Funk",
+  "object_name": ""
+ },
+ {
+  "subject": "CTL-E-MUS2-017",
+  "relationship": "founded",
+  "object": "CTL-E-MUS2-030",
+  "grade": "Verified",
+  "evidence": "1977",
+  "provenance": "CTL-RB-MUS-000002",
+  "subject_name": "Wayne Williams",
+  "object_name": ""
+ },
+ {
+  "subject": "CTL-E-MUS2-018",
+  "relationship": "member_of",
+  "object": "CTL-E-MUS2-048",
+  "grade": "Supported",
+  "evidence": "",
+  "provenance": "CTL-RB-MUS-000002",
+  "subject_name": "Celeste Alexander (DJ Celeste)",
+  "object_name": ""
+ },
+ {
+  "subject": "CTL-E-MUS2-025",
+  "relationship": "promoted",
+  "object": "CTL-E-MUS2-038",
+  "grade": "Verified",
+  "evidence": "July 12, 1979",
+  "provenance": "CTL-RB-MUS-000002",
+  "subject_name": "Steve Dahl",
+  "object_name": ""
+ },
+ {
+  "subject": "CTL-E-MUS2-044",
+  "relationship": "enabled",
+  "object": "CTL-E-MUS2-041",
+  "grade": "Supported",
+  "evidence": "acid bassline",
+  "provenance": "CTL-RB-MUS-000002",
+  "subject_name": "",
+  "object_name": ""
+ },
+ {
+  "subject": "CTL-E-MUS2-024",
+  "relationship": "designed",
+  "object": "CTL-E-MUS2-044",
+  "grade": "Supported",
+  "evidence": "1981",
+  "provenance": "CTL-RB-MUS-000002",
+  "subject_name": "Tadao Kikumoto",
+  "object_name": ""
+ },
+ {
+  "subject": "CTL-E-MUS2-045",
+  "relationship": "used_on",
+  "object": "CTL-E-MUS2-041",
+  "grade": "Supported",
+  "evidence": "",
+  "provenance": "CTL-RB-MUS-000002",
+  "subject_name": "",
+  "object_name": ""
+ },
+ {
+  "subject": "CTL-E-MUS2-001",
+  "relationship": "used",
+  "object": "CTL-E-MUS2-046",
+  "grade": "Verified",
+  "evidence": "re-edits of disco/soul",
+  "provenance": "CTL-RB-MUS-000002",
+  "subject_name": "Frankie Knuckles",
+  "object_name": ""
+ },
+ {
+  "subject": "CTL-E-MUS2-004",
+  "relationship": "used",
+  "object": "CTL-E-MUS2-046",
+  "grade": "Verified",
+  "evidence": "",
+  "provenance": "CTL-RB-MUS-000002",
+  "subject_name": "Larry Levan",
+  "object_name": ""
+ },
+ {
+  "subject": "CTL-E-MUS2-026",
+  "relationship": "hosted",
+  "object": "CTL-E-MUS2-047",
+  "grade": "Verified",
+  "evidence": "the dance community",
+  "provenance": "CTL-RB-MUS-000002",
+  "subject_name": "",
+  "object_name": ""
+ },
+ {
+  "subject": "CTL-E-MUS2-043",
+  "relationship": "charted_in",
+  "object": "United Kingdom",
+  "grade": "Verified",
+  "evidence": "UK Top 10, 1986",
+  "provenance": "CTL-RB-MUS-000002",
+  "subject_name": "",
+  "object_name": "United Kingdom"
+ },
+ {
+  "subject": "CTL-E-MUS2-038",
+  "relationship": "context_not_cause_for",
+  "object": "house music",
+  "grade": "Disputed",
+  "evidence": "disco continuity frame",
+  "provenance": "CTL-RB-MUS-000002",
+  "subject_name": "",
+  "object_name": "house music"
+ },
+ {
+  "subject": "CTL-E-MUS2-034",
+  "relationship": "connected_scene_to",
+  "object": "Detroit techno",
+  "grade": "Supported",
+  "evidence": "Detroit producers encountered house at Imports Etc.",
+  "provenance": "CTL-RB-MUS-000002",
+  "subject_name": "",
+  "object_name": "Detroit techno"
+ },
+ {
+  "subject": "CTL-E-MUS2-037",
+  "relationship": "released",
+  "object": "Z-Factor 'Fantasy'",
+  "grade": "Provisional",
+  "evidence": "March 1984",
+  "provenance": "CTL-RB-MUS-000002",
+  "subject_name": "",
+  "object_name": "Z-Factor 'Fantasy'"
+ },
+ {
+  "subject": "Leonard Chess",
+  "relationship": "bought",
+  "object": "WVON",
+  "grade": "Verified",
+  "evidence": "",
+  "provenance": "CTL-RB-MUS-000004",
+  "subject_name": "Leonard Chess",
+  "object_name": "WVON"
+ },
+ {
+  "subject": "Phil Chess",
+  "relationship": "bought",
+  "object": "WVON",
+  "grade": "Verified",
+  "evidence": "",
+  "provenance": "CTL-RB-MUS-000004",
+  "subject_name": "Phil Chess",
+  "object_name": "WVON"
+ },
+ {
+  "subject": "WVON launch lineup",
+  "relationship": "employed",
+  "object": "WVON",
+  "grade": "Verified",
+  "evidence": "",
+  "provenance": "CTL-RB-MUS-000004",
+  "subject_name": "WVON launch lineup",
+  "object_name": "WVON"
+ },
+ {
+  "subject": "Chess family",
+  "relationship": "sold_to",
+  "object": "WVON",
+  "grade": "Verified",
+  "evidence": "",
+  "provenance": "CTL-RB-MUS-000004",
+  "subject_name": "Chess family",
+  "object_name": "WVON"
+ },
+ {
+  "subject": "1390 AM",
+  "relationship": "renamed",
+  "object": "WVON",
+  "grade": "Verified",
+  "evidence": "",
+  "provenance": "CTL-RB-MUS-000004",
+  "subject_name": "1390 AM",
+  "object_name": "WVON"
+ },
+ {
+  "subject": "1450 AM (Midway)",
+  "relationship": "renamed",
+  "object": "WVON",
+  "grade": "Verified",
+  "evidence": "",
+  "provenance": "CTL-RB-MUS-000004",
+  "subject_name": "1450 AM (Midway)",
+  "object_name": "WVON"
+ },
+ {
+  "subject": "Lu Palmer",
+  "relationship": "mobilized_election_of",
+  "object": "Harold Washington",
+  "grade": "Verified",
+  "evidence": "",
+  "provenance": "CTL-RB-MUS-000004",
+  "subject_name": "Lu Palmer",
+  "object_name": "Harold Washington"
+ },
+ {
+  "subject": "Midway Broadcasting",
+  "relationship": "converted_to_talk",
+  "object": "WVON",
+  "grade": "Verified",
+  "evidence": "",
+  "provenance": "CTL-RB-MUS-000004",
+  "subject_name": "Midway Broadcasting",
+  "object_name": "WVON"
+ },
+ {
+  "subject": "Ralph Atlass corporation",
+  "relationship": "bought",
+  "object": "WGRT",
+  "grade": "Supported",
+  "evidence": "",
+  "provenance": "CTL-RB-MUS-000004",
+  "subject_name": "Ralph Atlass corporation",
+  "object_name": "WGRT"
+ },
+ {
+  "subject": "Johnson Publishing Company",
+  "relationship": "bought",
+  "object": "WJPC",
+  "grade": "Supported",
+  "evidence": "",
+  "provenance": "CTL-RB-MUS-000004",
+  "subject_name": "Johnson Publishing Company",
+  "object_name": "WJPC"
+ },
+ {
+  "subject": "Tom Joyner",
+  "relationship": "performed_on",
+  "object": "WJPC",
+  "grade": "Supported",
+  "evidence": "",
+  "provenance": "CTL-RB-MUS-000004",
+  "subject_name": "Tom Joyner",
+  "object_name": "WJPC"
+ },
+ {
+  "subject": "LaDonna Tittle",
+  "relationship": "performed_on",
+  "object": "WJPC",
+  "grade": "Supported",
+  "evidence": "",
+  "provenance": "CTL-RB-MUS-000004",
+  "subject_name": "LaDonna Tittle",
+  "object_name": "WJPC"
+ },
+ {
+  "subject": "Al Benson",
+  "relationship": "performed_on",
+  "object": "1390 AM",
+  "grade": "Supported",
+  "evidence": "",
+  "provenance": "CTL-RB-MUS-000004",
+  "subject_name": "Al Benson",
+  "object_name": "1390 AM"
+ },
+ {
+  "subject": "McLendon interests",
+  "relationship": "bought",
+  "object": "WYNR",
+  "grade": "Supported",
+  "evidence": "",
+  "provenance": "CTL-RB-MUS-000004",
+  "subject_name": "McLendon interests",
+  "object_name": "WYNR"
+ },
+ {
+  "subject": "1390 AM",
+  "relationship": "renamed",
+  "object": "WNUS",
+  "grade": "Supported",
+  "evidence": "",
+  "provenance": "CTL-RB-MUS-000004",
+  "subject_name": "1390 AM",
+  "object_name": "WNUS"
+ },
+ {
+  "subject": "Globetrotter Communications",
+  "relationship": "bought",
+  "object": "WGCI-FM",
+  "grade": "Supported",
+  "evidence": "",
+  "provenance": "CTL-RB-MUS-000004",
+  "subject_name": "Globetrotter Communications",
+  "object_name": "WGCI-FM"
+ },
+ {
+  "subject": "Tom Joyner",
+  "relationship": "performed_on",
+  "object": "WGCI-FM",
+  "grade": "Supported",
+  "evidence": "",
+  "provenance": "CTL-RB-MUS-000004",
+  "subject_name": "Tom Joyner",
+  "object_name": "WGCI-FM"
+ },
+ {
+  "subject": "Marv Dyson",
+  "relationship": "hired",
+  "object": "WGCI-FM",
+  "grade": "Supported",
+  "evidence": "",
+  "provenance": "CTL-RB-MUS-000004",
+  "subject_name": "Marv Dyson",
+  "object_name": "WGCI-FM"
+ },
+ {
+  "subject": "Hot Mix 5",
+  "relationship": "broadcast",
+  "object": "WBMX",
+  "grade": "Supported",
+  "evidence": "",
+  "provenance": "CTL-RB-MUS-000004",
+  "subject_name": "Hot Mix 5",
+  "object_name": "WBMX"
+ },
+ {
+  "subject": "Lee Michaels",
+  "relationship": "created_show",
+  "object": "WBMX",
+  "grade": "Supported",
+  "evidence": "",
+  "provenance": "CTL-RB-MUS-000004",
+  "subject_name": "Lee Michaels",
+  "object_name": "WBMX"
+ },
+ {
+  "subject": "Don Cornelius",
+  "relationship": "created",
+  "object": "Soul Train",
+  "grade": "Supported",
+  "evidence": "",
+  "provenance": "CTL-RB-MUS-000004",
+  "subject_name": "Don Cornelius",
+  "object_name": "Soul Train"
+ },
+ {
+  "subject": "WVON",
+  "relationship": "worked_at",
+  "object": "Herb Kent",
+  "grade": "Supported",
+  "evidence": "",
+  "provenance": "CTL-RB-MUS-000004",
+  "subject_name": "WVON",
+  "object_name": "Herb Kent"
+ },
+ {
+  "subject": "Pervis Spann",
+  "relationship": "founded",
+  "object": "WXOL",
+  "grade": "Supported",
+  "evidence": "",
+  "provenance": "CTL-RB-MUS-000004",
+  "subject_name": "Pervis Spann",
+  "object_name": "WXOL"
+ },
+ {
+  "subject": "Wesley South",
+  "relationship": "founded",
+  "object": "WXOL",
+  "grade": "Supported",
+  "evidence": "",
+  "provenance": "CTL-RB-MUS-000004",
+  "subject_name": "Wesley South",
+  "object_name": "WXOL"
+ },
+ {
+  "subject": "Jack Cooper",
+  "relationship": "used_economically",
+  "object": "race records",
+  "grade": "Supported",
+  "evidence": "",
+  "provenance": "CTL-RB-MUS-000004",
+  "subject_name": "Jack Cooper",
+  "object_name": "race records"
+ },
+ {
+  "subject": "Richard Durham",
+  "relationship": "wrote",
+  "object": "Democracy\u2013USA",
+  "grade": "Supported",
+  "evidence": "",
+  "provenance": "CTL-RB-MUS-000004",
+  "subject_name": "Richard Durham",
+  "object_name": "Democracy\u2013USA"
+ },
+ {
+  "subject": "Federal Communications Act (1960 amendments)",
+  "relationship": "regulated",
+  "object": "pay-for-play promotion",
+  "grade": "Supported",
+  "evidence": "",
+  "provenance": "CTL-RB-MUS-000004",
+  "subject_name": "Federal Communications Act (1960 amendments)",
+  "object_name": "pay-for-play promotion"
+ },
+ {
+  "subject": "FCC 1978 minority-ownership policy",
+  "relationship": "enabled_by",
+  "object": "minority station ownership",
+  "grade": "Supported",
+  "evidence": "",
+  "provenance": "CTL-RB-MUS-000004",
+  "subject_name": "FCC 1978 minority-ownership policy",
+  "object_name": "minority station ownership"
+ },
+ {
+  "subject": "CTL-E-0134",
+  "relationship": "founded_by",
+  "object": "CTL-E-2339",
+  "grade": "Verified",
+  "evidence": "",
+  "provenance": "CTL-RB-MUS-000006",
+  "subject_name": "Soul Train Music Awards 2003",
+  "object_name": ""
+ },
+ {
+  "subject": "CTL-E-0046",
+  "relationship": "played",
+  "object": "CTL-E-0134",
+  "grade": "Verified",
+  "evidence": "",
+  "provenance": "CTL-RB-MUS-000006",
+  "subject_name": "Rumble in the Jungle 1974",
+  "object_name": "Soul Train Music Awards 2003"
+ },
+ {
+  "subject": "CTL-E-0046",
+  "relationship": "hired_by",
+  "object": "CTL-E-2339",
+  "grade": "Verified",
+  "evidence": "",
+  "provenance": "CTL-RB-MUS-000006",
+  "subject_name": "Rumble in the Jungle 1974",
+  "object_name": ""
+ },
+ {
+  "subject": "CTL-E-0134",
+  "relationship": "located_in",
+  "object": "CTL-E-5222 (proposed)",
+  "grade": "Verified",
+  "evidence": "",
+  "provenance": "CTL-RB-MUS-000006",
+  "subject_name": "Soul Train Music Awards 2003",
+  "object_name": ""
+ },
+ {
+  "subject": "CTL-E-2339",
+  "relationship": "founded",
+  "object": "CTL-E-5223 (proposed)",
+  "grade": "Verified",
+  "evidence": "",
+  "provenance": "CTL-RB-MUS-000006",
+  "subject_name": "",
+  "object_name": ""
+ },
+ {
+  "subject": "CTL-E-0047",
+  "relationship": "played",
+  "object": "CTL-E-1191",
+  "grade": "Verified",
+  "evidence": "",
+  "provenance": "CTL-RB-MUS-000006",
+  "subject_name": "FESTAC 77",
+  "object_name": ""
+ },
+ {
+  "subject": "CTL-E-0046",
+  "relationship": "played",
+  "object": "CTL-E-0135",
+  "grade": "Verified",
+  "evidence": "",
+  "provenance": "CTL-RB-MUS-000006",
+  "subject_name": "Rumble in the Jungle 1974",
+  "object_name": "Soul Train Music Awards 2004"
+ },
+ {
+  "subject": "CTL-E-0046",
+  "relationship": "collaborated_with",
+  "object": "CTL-E-5218 (proposed)",
+  "grade": "Supported",
+  "evidence": "",
+  "provenance": "CTL-RB-MUS-000006",
+  "subject_name": "Rumble in the Jungle 1974",
+  "object_name": ""
+ },
+ {
+  "subject": "CTL-E-5218 (proposed)",
+  "relationship": "played",
+  "object": "CTL-E-5220 (proposed)",
+  "grade": "Supported",
+  "evidence": "",
+  "provenance": "CTL-RB-MUS-000006",
+  "subject_name": "",
+  "object_name": ""
+ },
+ {
+  "subject": "CTL-E-0612",
+  "relationship": "authored_by",
+  "object": "CTL-E-0050",
+  "grade": "Verified",
+  "evidence": "",
+  "provenance": "CTL-RB-MUS-000010",
+  "subject_name": "",
+  "object_name": "Rwandan genocide 1994"
+ },
+ {
+  "subject": "CTL-E-0612",
+  "relationship": "released_by",
+  "object": "CTL-E-4075",
+  "grade": "Supported",
+  "evidence": "",
+  "provenance": "CTL-RB-MUS-000010",
+  "subject_name": "",
+  "object_name": ""
+ },
+ {
+  "subject": "CTL-E-5882",
+  "relationship": "authored_by",
+  "object": "CTL-E-0051",
+  "grade": "Verified",
+  "evidence": "",
+  "provenance": "CTL-RB-MUS-000010",
+  "subject_name": "",
+  "object_name": "Nigeria independence 1960"
+ },
+ {
+  "subject": "CTL-E-5882",
+  "relationship": "released_by",
+  "object": "CTL-E-6389 (proposed)",
+  "grade": "Supported",
+  "evidence": "",
+  "provenance": "CTL-RB-MUS-000010",
+  "subject_name": "",
+  "object_name": ""
+ },
+ {
+  "subject": "CTL-E-0485",
+  "relationship": "released_by",
+  "object": "CTL-E-6389 (proposed)",
+  "grade": "Verified",
+  "evidence": "",
+  "provenance": "CTL-RB-MUS-000010",
+  "subject_name": "",
+  "object_name": ""
+ },
+ {
+  "subject": "CTL-E-6393 (proposed)",
+  "relationship": "authored_by",
+  "object": "CTL-E-6387 (proposed)",
+  "grade": "Supported",
+  "evidence": "",
+  "provenance": "CTL-RB-MUS-000010",
+  "subject_name": "",
+  "object_name": ""
+ },
+ {
+  "subject": "CTL-E-6393 (proposed)",
+  "relationship": "released_by",
+  "object": "CTL-E-4075",
+  "grade": "Supported",
+  "evidence": "",
+  "provenance": "CTL-RB-MUS-000010",
+  "subject_name": "",
+  "object_name": ""
+ },
+ {
+  "subject": "CTL-E-0609",
+  "relationship": "authored_by",
+  "object": "CTL-E-0048",
+  "grade": "Supported",
+  "evidence": "",
+  "provenance": "CTL-RB-MUS-000010",
+  "subject_name": "",
+  "object_name": "Mandela release 1990"
+ },
+ {
+  "subject": "CTL-E-5258",
+  "relationship": "authored_by",
+  "object": "CTL-E-0049",
+  "grade": "Supported",
+  "evidence": "",
+  "provenance": "CTL-RB-MUS-000010",
+  "subject_name": "",
+  "object_name": "Sharpeville massacre 1960"
+ },
+ {
+  "subject": "CTL-E-0050",
+  "relationship": "recorded_for",
+  "object": "CTL-E-4075",
+  "grade": "Supported",
+  "evidence": "",
+  "provenance": "CTL-RB-MUS-000010",
+  "subject_name": "Rwandan genocide 1994",
+  "object_name": ""
+ },
+ {
+  "subject": "CTL-E-0051",
+  "relationship": "recorded_for",
+  "object": "CTL-E-4075",
+  "grade": "Supported",
+  "evidence": "",
+  "provenance": "CTL-RB-MUS-000010",
+  "subject_name": "Nigeria independence 1960",
+  "object_name": ""
+ },
+ {
+  "subject": "CTL-E-0048",
+  "relationship": "recorded_for",
+  "object": "CTL-E-0169",
+  "grade": "Supported",
+  "evidence": "",
+  "provenance": "CTL-RB-MUS-000010",
+  "subject_name": "Mandela release 1990",
+  "object_name": "Tony Awards 1984"
+ },
+ {
+  "subject": "CTL-E-6387 (proposed)",
+  "relationship": "recorded_for",
+  "object": "CTL-E-4075",
+  "grade": "Supported",
+  "evidence": "",
+  "provenance": "CTL-RB-MUS-000010",
+  "subject_name": "",
+  "object_name": ""
+ },
+ {
+  "subject": "CTL-E-6388 (proposed)",
+  "relationship": "affiliated_with",
+  "object": "CTL-E-6389 (proposed)",
+  "grade": "Supported",
+  "evidence": "",
+  "provenance": "CTL-RB-MUS-000010",
+  "subject_name": "",
+  "object_name": ""
+ },
+ {
+  "subject": "CTL-E-0169",
+  "relationship": "distributed_by",
+  "object": "CTL-E-3492",
+  "grade": "Supported",
+  "evidence": "",
+  "provenance": "CTL-RB-MUS-000010",
+  "subject_name": "Tony Awards 1984",
+  "object_name": ""
+ },
+ {
+  "subject": "CTL-E-6390 (proposed)",
+  "relationship": "founded_by",
+  "object": "CTL-E-6391 (proposed)",
+  "grade": "Verified",
+  "evidence": "",
+  "provenance": "CTL-RB-MUS-000010",
+  "subject_name": "",
+  "object_name": ""
+ },
+ {
+  "subject": "CTL-E-6391 (proposed)",
+  "relationship": "played",
+  "object": "CTL-E-6390 (proposed)",
+  "grade": "Supported",
+  "evidence": "",
+  "provenance": "CTL-RB-MUS-000010",
+  "subject_name": "",
+  "object_name": ""
+ },
+ {
+  "subject": "CTL-E-6387 (proposed)",
+  "relationship": "collaborated_with",
+  "object": "CTL-E-0051",
+  "grade": "Supported",
+  "evidence": "",
+  "provenance": "CTL-RB-MUS-000010",
+  "subject_name": "",
+  "object_name": "Nigeria independence 1960"
+ },
+ {
+  "subject": "Roland Corporation",
+  "relationship": "invented",
+  "object": "Roland TB-303",
+  "grade": "Verified",
+  "evidence": "",
+  "provenance": "CTL-RB-TECH-000001",
+  "subject_name": "Roland Corporation",
+  "object_name": "Roland TB-303"
+ },
+ {
+  "subject": "Roland Corporation",
+  "relationship": "invented",
+  "object": "Roland TR-808",
+  "grade": "Verified",
+  "evidence": "",
+  "provenance": "CTL-RB-TECH-000001",
+  "subject_name": "Roland Corporation",
+  "object_name": "Roland TR-808"
+ },
+ {
+  "subject": "Roland Corporation",
+  "relationship": "invented",
+  "object": "Roland TR-909",
+  "grade": "Verified",
+  "evidence": "",
+  "provenance": "CTL-RB-TECH-000001",
+  "subject_name": "Roland Corporation",
+  "object_name": "Roland TR-909"
+ },
+ {
+  "subject": "Tadao Kikumoto",
+  "relationship": "chief-engineered",
+  "object": "Roland TR-808",
+  "grade": "Verified",
+  "evidence": "",
+  "provenance": "CTL-RB-TECH-000001",
+  "subject_name": "Tadao Kikumoto",
+  "object_name": "Roland TR-808"
+ },
+ {
+  "subject": "Tadao Kikumoto",
+  "relationship": "designed",
+  "object": "Roland TB-303",
+  "grade": "Verified",
+  "evidence": "",
+  "provenance": "CTL-RB-TECH-000001",
+  "subject_name": "Tadao Kikumoto",
+  "object_name": "Roland TB-303"
+ },
+ {
+  "subject": "Tadao Kikumoto",
+  "relationship": "designed",
+  "object": "Roland TR-909",
+  "grade": "Verified",
+  "evidence": "",
+  "provenance": "CTL-RB-TECH-000001",
+  "subject_name": "Tadao Kikumoto",
+  "object_name": "Roland TR-909"
+ },
+ {
+  "subject": "Ikutaro Kakehashi",
+  "relationship": "founded",
+  "object": "Roland Corporation",
+  "grade": "Verified",
+  "evidence": "",
+  "provenance": "CTL-RB-TECH-000001",
+  "subject_name": "Ikutaro Kakehashi",
+  "object_name": "Roland Corporation"
+ },
+ {
+  "subject": "Matsushita Electric (Panasonic) / Technics",
+  "relationship": "manufactured",
+  "object": "Technics SL-1200",
+  "grade": "Verified",
+  "evidence": "",
+  "provenance": "CTL-RB-TECH-000001",
+  "subject_name": "Matsushita Electric (Panasonic) / Technics",
+  "object_name": "Technics SL-1200"
+ },
+ {
+  "subject": "Shuichi Obata",
+  "relationship": "designed",
+  "object": "Technics SL-1200",
+  "grade": "Verified",
+  "evidence": "",
+  "provenance": "CTL-RB-TECH-000001",
+  "subject_name": "Shuichi Obata",
+  "object_name": "Technics SL-1200"
+ },
+ {
+  "subject": "DJ Pierre",
+  "relationship": "culturally-transformed",
+  "object": "Roland TB-303",
+  "grade": "Verified",
+  "evidence": "Adoption, not invention: DJ Pierre did not invent the TB-303.",
+  "provenance": "CTL-RB-TECH-000001",
+  "subject_name": "DJ Pierre",
+  "object_name": "Roland TB-303"
+ },
+ {
+  "subject": "Phuture",
+  "relationship": "created-with",
+  "object": "'Acid Tracks' (Phuture)",
+  "grade": "Verified",
+  "evidence": "",
+  "provenance": "CTL-RB-TECH-000001",
+  "subject_name": "Phuture",
+  "object_name": "'Acid Tracks' (Phuture)"
+ },
+ {
+  "subject": "Jesse Saunders",
+  "relationship": "produced",
+  "object": "'On & On' (Jesse Saunders)",
+  "grade": "Verified",
+  "evidence": "",
+  "provenance": "CTL-RB-TECH-000001",
+  "subject_name": "Jesse Saunders",
+  "object_name": "'On & On' (Jesse Saunders)"
+ },
+ {
+  "subject": "Vince Lawrence",
+  "relationship": "co-produced",
+  "object": "'On & On' (Jesse Saunders)",
+  "grade": "Verified",
+  "evidence": "",
+  "provenance": "CTL-RB-TECH-000001",
+  "subject_name": "Vince Lawrence",
+  "object_name": "'On & On' (Jesse Saunders)"
+ },
+ {
+  "subject": "Jes Say Records",
+  "relationship": "released",
+  "object": "'On & On' (Jesse Saunders)",
+  "grade": "Verified",
+  "evidence": "",
+  "provenance": "CTL-RB-TECH-000001",
+  "subject_name": "Jes Say Records",
+  "object_name": "'On & On' (Jesse Saunders)"
+ },
+ {
+  "subject": "Frankie Knuckles",
+  "relationship": "operated",
+  "object": "quarter-inch Pioneer reel-to-reel (edit bench)",
+  "grade": "Verified",
+  "evidence": "",
+  "provenance": "CTL-RB-TECH-000001",
+  "subject_name": "Frankie Knuckles",
+  "object_name": "quarter-inch Pioneer reel-to-reel (edit bench)"
+ },
+ {
+  "subject": "Frankie Knuckles",
+  "relationship": "wired-into-club-mixer",
+  "object": "Roland TR-909",
+  "grade": "Verified",
+  "evidence": "Transfer itself VERIFIED; transaction terms DISPUTED (C-D2).",
+  "provenance": "CTL-RB-TECH-000001",
+  "subject_name": "Frankie Knuckles",
+  "object_name": "Roland TR-909"
+ },
+ {
+  "subject": "Derrick May",
+  "relationship": "transferred-TR-909-to",
+  "object": "Frankie Knuckles",
+  "grade": "Verified",
+  "evidence": "Transaction terms (sale vs gift) DISPUTED; transfer VERIFIED.",
+  "provenance": "CTL-RB-TECH-000001",
+  "subject_name": "Derrick May",
+  "object_name": "Frankie Knuckles"
+ },
+ {
+  "subject": "Larry Heard",
+  "relationship": "played-bassline-on",
+  "object": "'Can You Feel It' (Mr. Fingers)",
+  "grade": "Verified",
+  "evidence": "",
+  "provenance": "CTL-RB-TECH-000001",
+  "subject_name": "Larry Heard",
+  "object_name": "'Can You Feel It' (Mr. Fingers)"
+ },
+ {
+  "subject": "Larry Sherman",
+  "relationship": "acquired",
+  "object": "Musical Products pressing plant",
+  "grade": "Verified",
+  "evidence": "",
+  "provenance": "CTL-RB-TECH-000001",
+  "subject_name": "Larry Sherman",
+  "object_name": "Musical Products pressing plant"
+ },
+ {
+  "subject": "Larry Sherman",
+  "relationship": "launched",
+  "object": "Trax Records",
+  "grade": "Verified",
+  "evidence": "",
+  "provenance": "CTL-RB-TECH-000001",
+  "subject_name": "Larry Sherman",
+  "object_name": "Trax Records"
+ },
+ {
+  "subject": "Trax Records",
+  "relationship": "pressed",
+  "object": "'Acid Tracks' (Phuture)",
+  "grade": "Verified",
+  "evidence": "",
+  "provenance": "CTL-RB-TECH-000001",
+  "subject_name": "Trax Records",
+  "object_name": "'Acid Tracks' (Phuture)"
+ },
+ {
+  "subject": "Hot Mix 5",
+  "relationship": "broadcast-on-WBMX",
+  "object": "2M+ listener broadcast platform",
+  "grade": "Verified",
+  "evidence": "",
+  "provenance": "CTL-RB-TECH-000001",
+  "subject_name": "Hot Mix 5",
+  "object_name": "2M+ listener broadcast platform"
+ },
+ {
+  "subject": "Ron Hardy",
+  "relationship": "club-tested-from-cassette",
+  "object": "'Acid Tracks' (Phuture)",
+  "grade": "Supported",
+  "evidence": "SUPPORTED edge \u2014 grade attached per policy.",
+  "provenance": "CTL-RB-TECH-000001",
+  "subject_name": "Ron Hardy",
+  "object_name": "'Acid Tracks' (Phuture)"
+ },
+ {
+  "subject": "Derrick May",
+  "relationship": "sold-to-Knuckles",
+  "object": "Roland TR-909",
+  "grade": "Supported",
+  "evidence": "SUPPORTED edge \u2014 secondhand quote; terms DISPUTED (C-D2).",
+  "provenance": "CTL-RB-TECH-000001",
+  "subject_name": "Derrick May",
+  "object_name": "Roland TR-909"
+ },
+ {
+  "subject": "Marshall Jefferson",
+  "relationship": "produced-on-credit-financed-rig",
+  "object": "'Move Your Body' (Marshall Jefferson)",
+  "grade": "Supported",
+  "evidence": "SUPPORTED edge; sequencer model name PROVISIONAL (C-033).",
+  "provenance": "CTL-RB-TECH-000001",
+  "subject_name": "Marshall Jefferson",
+  "object_name": "'Move Your Body' (Marshall Jefferson)"
+ },
+ {
+  "subject": "Larry Heard",
+  "relationship": "cut-acetate-for",
+  "object": "Frankie Knuckles",
+  "grade": "Supported",
+  "evidence": "SUPPORTED edge \u2014 grade attached per policy.",
+  "provenance": "CTL-RB-TECH-000001",
+  "subject_name": "Larry Heard",
+  "object_name": "Frankie Knuckles"
+ },
+ {
+  "subject": "Larry Heard",
+  "relationship": "cut-acetate-for",
+  "object": "Ron Hardy",
+  "grade": "Supported",
+  "evidence": "SUPPORTED edge \u2014 grade attached per policy.",
+  "provenance": "CTL-RB-TECH-000001",
+  "subject_name": "Larry Heard",
+  "object_name": "Ron Hardy"
+ },
+ {
+  "subject": "Adonis",
+  "relationship": "club-tested-for",
+  "object": "Ron Hardy",
+  "grade": "Supported",
+  "evidence": "SUPPORTED edge \u2014 grade attached per policy.",
+  "provenance": "CTL-RB-TECH-000001",
+  "subject_name": "Adonis",
+  "object_name": "Ron Hardy"
+ },
+ {
+  "subject": "CTL-E-5075",
+  "relationship": "founded",
+  "object": "CTL-E-5076",
+  "grade": "Verified",
+  "evidence": "Jones founded Cajual Records in 1992.",
+  "provenance": "STAGED-HOUSEMUSIC-2026-10-07",
+  "subject_name": "Green Velvet",
+  "object_name": "Cajual Records"
+ },
+ {
+  "subject": "CTL-E-5075",
+  "relationship": "founded",
+  "object": "CTL-E-5077",
+  "grade": "Verified",
+  "evidence": "Jones founded Relief Records in 1993.",
+  "provenance": "STAGED-HOUSEMUSIC-2026-10-07",
+  "subject_name": "Green Velvet",
+  "object_name": "Relief Records"
+ },
+ {
+  "subject": "CTL-E-5076",
+  "relationship": "founded_by",
+  "object": "CTL-E-5075",
+  "grade": "Verified",
+  "evidence": "Cajual Records founded in 1992 by Curtis Jones (Green Velvet/Cajmere).",
+  "provenance": "STAGED-HOUSEMUSIC-2026-10-07",
+  "subject_name": "Cajual Records",
+  "object_name": "Green Velvet"
+ },
+ {
+  "subject": "CTL-E-5077",
+  "relationship": "founded_by",
+  "object": "CTL-E-5075",
+  "grade": "Verified",
+  "evidence": "Relief Records founded in 1993 by Curtis Jones as a Cajual sublabel.",
+  "provenance": "STAGED-HOUSEMUSIC-2026-10-07",
+  "subject_name": "Relief Records",
+  "object_name": "Green Velvet"
+ },
+ {
+  "subject": "CTL-E-5081",
+  "relationship": "authored_by",
+  "object": "CTL-E-5080",
+  "grade": "Verified",
+  "evidence": "Joe Smooth credited as songwriter and producer of 'Promised Land' (1987).",
+  "provenance": "STAGED-HOUSEMUSIC-2026-10-07",
+  "subject_name": "",
+  "object_name": "Joe Smooth"
+ },
+ {
+  "subject": "CTL-E-5088",
+  "relationship": "authored_by",
+  "object": "CTL-E-0049",
+  "grade": "Verified",
+  "evidence": "'Can You Feel It' (1986) by Mr. Fingers, the alias of Larry Heard.",
+  "provenance": "STAGED-HOUSEMUSIC-2026-10-07",
+  "subject_name": "",
+  "object_name": "Sharpeville massacre 1960"
+ },
+ {
+  "subject": "CTL-E-5089",
+  "relationship": "authored_by",
+  "object": "CTL-E-0055",
+  "grade": "Verified",
+  "evidence": "'Your Love' (1986) written, composed, and recorded by Jamie Principle.",
+  "provenance": "STAGED-HOUSEMUSIC-2026-10-07",
+  "subject_name": "",
+  "object_name": "Senegal independence 1960"
+ },
+ {
+  "subject": "CTL-E-5090",
+  "relationship": "authored_by",
+  "object": "CTL-E-4204",
+  "grade": "Verified",
+  "evidence": "'No Way Back' (1986): 'Producer, Written-By \u2013 Adonis.'",
+  "provenance": "STAGED-HOUSEMUSIC-2026-10-07",
+  "subject_name": "",
+  "object_name": ""
+ },
+ {
+  "subject": "CTL-E-4241",
+  "relationship": "member_of_organization",
+  "object": "CTL-E-5086",
+  "grade": "Verified",
+  "evidence": "Ten City lineup: vocalist Byron Stingily, guitarist Herb Lawson, keyboardist Byron Burke.",
+  "provenance": "STAGED-HOUSEMUSIC-2026-10-07",
+  "subject_name": "",
+  "object_name": ""
+ },
+ {
+  "subject": "CTL-E-0049",
+  "relationship": "member_of_organization",
+  "object": "CTL-E-5087",
+  "grade": "Verified",
+  "evidence": "Fingers Inc. members: producer Larry Heard, vocalists Robert Owens and Ron Wilson.",
+  "provenance": "STAGED-HOUSEMUSIC-2026-10-07",
+  "subject_name": "Sharpeville massacre 1960",
+  "object_name": ""
+ },
+ {
+  "subject": "CTL-E-0519",
+  "relationship": "member_of_organization",
+  "object": "CTL-E-5087",
+  "grade": "Verified",
+  "evidence": "Fingers Inc. members: producer Larry Heard, vocalists Robert Owens and Ron Wilson.",
+  "provenance": "STAGED-HOUSEMUSIC-2026-10-07",
+  "subject_name": "",
+  "object_name": ""
+ },
+ {
+  "subject": "CTL-E-0048",
+  "relationship": "affiliated_with",
+  "object": "CTL-E-5086",
+  "grade": "Verified",
+  "evidence": "Producer Marshall Jefferson augmented Ten City and produced their records, including 'That's the Way Love Is.'",
+  "provenance": "STAGED-HOUSEMUSIC-2026-10-07",
+  "subject_name": "Mandela release 1990",
+  "object_name": ""
+ },
+ {
+  "subject": "CTL-E-5080",
+  "relationship": "affiliated_with",
+  "object": "CTL-E-0170",
+  "grade": "Verified",
+  "evidence": "Joe Smooth joined DJ International Records in 1985; helped write/produce Chip E's 'Jack Trax' EP.",
+  "provenance": "STAGED-HOUSEMUSIC-2026-10-07",
+  "subject_name": "Joe Smooth",
+  "object_name": "Tony Awards 1985"
+ },
+ {
+  "subject": "CTL-E-5084",
+  "relationship": "affiliated_with",
+  "object": "CTL-E-0170",
+  "grade": "Verified",
+  "evidence": "Tyree Cooper originally released on DJ International Records ('I Fear the Night' 1986; 'Turn Up the Bass' 1988).",
+  "provenance": "STAGED-HOUSEMUSIC-2026-10-07",
+  "subject_name": "Tyree Cooper",
+  "object_name": "Tony Awards 1985"
+ },
+ {
+  "subject": "CTL-E-5083",
+  "relationship": "affiliated_with",
+  "object": "CTL-E-0170",
+  "grade": "Verified",
+  "evidence": "Fast Eddie's 'Acid Thunder' (1988) released on DJ International Records.",
+  "provenance": "STAGED-HOUSEMUSIC-2026-10-07",
+  "subject_name": "Fast Eddie",
+  "object_name": "Tony Awards 1985"
+ },
+ {
+  "subject": "CTL-E-5085",
+  "relationship": "affiliated_with",
+  "object": "CTL-E-5076",
+  "grade": "Verified",
+  "evidence": "Dajae's 'Brighter Days' (1992) released on Cajual Records (CAJ 204-1); follow-ups and album Higher Power (1995) also on Cajual.",
+  "provenance": "STAGED-HOUSEMUSIC-2026-10-07",
+  "subject_name": "Dajae",
+  "object_name": "Cajual Records"
+ },
+ {
+  "subject": "CTL-E-5085",
+  "relationship": "collaborated_with",
+  "object": "CTL-E-5075",
+  "grade": "Verified",
+  "evidence": "'Brighter Days' (1992) billed 'Cajmere Featuring Dajae'; produced by Cajmere (Curtis Jones).",
+  "provenance": "STAGED-HOUSEMUSIC-2026-10-07",
+  "subject_name": "Dajae",
+  "object_name": "Green Velvet"
+ },
+ {
+  "subject": "CTL-E-5082",
+  "relationship": "collaborated_with",
+  "object": "CTL-E-0048",
+  "grade": "Verified",
+  "evidence": "Kym Mazelle's 1987 debut 'Taste My Love' made with Marshall Jefferson (billed as House To House); he produced 'Useless' and 'Was That All It Was.'",
+  "provenance": "STAGED-HOUSEMUSIC-2026-10-07",
+  "subject_name": "Kym Mazelle",
+  "object_name": "Mandela release 1990"
+ },
+ {
+  "subject": "CTL-E-5092",
+  "relationship": "collaborated_with",
+  "object": "CTL-E-5094",
+  "grade": "Verified",
+  "evidence": "Lidell Townsell co-wrote the original 1988 version of Maurice Joshua's 'This Is Acid' (Trax TX169 B-side).",
+  "provenance": "STAGED-HOUSEMUSIC-2026-10-07",
+  "subject_name": "Maurice Joshua",
+  "object_name": "Lidell Townsell"
+ },
+ {
+  "subject": "CTL-E-0593",
+  "relationship": "hosted",
+  "object": "CTL-E-5079",
+  "grade": "Verified",
+  "evidence": "Bad Boy Bill was a regular mix-show DJ on WBMX 102.7 FM (also WGCI, B96); worked with and opened for the Hot Mix 5.",
+  "provenance": "STAGED-HOUSEMUSIC-2026-10-07",
+  "subject_name": "",
+  "object_name": "Bad Boy Bill"
+ },
+ {
+  "subject": "CTL-E-0593",
+  "relationship": "hosted",
+  "object": "CTL-E-5083",
+  "grade": "Verified",
+  "evidence": "Fast Eddie held radio spots on WGCI-FM and WBMX in the early Chicago house movement.",
+  "provenance": "STAGED-HOUSEMUSIC-2026-10-07",
+  "subject_name": "",
+  "object_name": "Fast Eddie"
+ },
+ {
+  "subject": "CTL-E-5080",
+  "relationship": "played",
+  "object": "CTL-E-2590",
+  "grade": "Verified",
+  "evidence": "Joe Smooth held a residency at Smart Bar, 1983\u20131985.",
+  "provenance": "STAGED-HOUSEMUSIC-2026-10-07",
+  "subject_name": "Joe Smooth",
+  "object_name": ""
+ },
+ {
+  "subject": "CTL-E-5075",
+  "relationship": "based_in",
+  "object": "CTL-E-1475",
+  "grade": "Verified",
+  "evidence": "Born Chicago; returned 1991; Chicago-rooted house music figure.",
+  "provenance": "STAGED-HOUSEMUSIC-2026-10-07",
+  "subject_name": "Green Velvet",
+  "object_name": ""
+ },
+ {
+  "subject": "CTL-E-5078",
+  "relationship": "based_in",
+  "object": "CTL-E-1475",
+  "grade": "Verified",
+  "evidence": "Chicago DJ from Englewood; Chicago-rooted house music figure.",
+  "provenance": "STAGED-HOUSEMUSIC-2026-10-07",
+  "subject_name": "Mike Dunn",
+  "object_name": ""
+ },
+ {
+  "subject": "CTL-E-5079",
+  "relationship": "based_in",
+  "object": "CTL-E-1475",
+  "grade": "Verified",
+  "evidence": "Chicago house DJ; Chicago-rooted house music figure.",
+  "provenance": "STAGED-HOUSEMUSIC-2026-10-07",
+  "subject_name": "Bad Boy Bill",
+  "object_name": ""
+ },
+ {
+  "subject": "CTL-E-5080",
+  "relationship": "based_in",
+  "object": "CTL-E-1475",
+  "grade": "Verified",
+  "evidence": "Chicago house DJ/producer; Chicago-rooted house music figure.",
+  "provenance": "STAGED-HOUSEMUSIC-2026-10-07",
+  "subject_name": "Joe Smooth",
+  "object_name": ""
+ },
+ {
+  "subject": "CTL-E-5082",
+  "relationship": "based_in",
+  "object": "CTL-E-1475",
+  "grade": "Verified",
+  "evidence": "Moved to Chicago; Columbia College graduate; Chicago-rooted house music figure.",
+  "provenance": "STAGED-HOUSEMUSIC-2026-10-07",
+  "subject_name": "Kym Mazelle",
+  "object_name": ""
+ },
+ {
+  "subject": "CTL-E-5083",
+  "relationship": "based_in",
+  "object": "CTL-E-1475",
+  "grade": "Verified",
+  "evidence": "Chicago house producer/DJ; Chicago-rooted house music figure.",
+  "provenance": "STAGED-HOUSEMUSIC-2026-10-07",
+  "subject_name": "Fast Eddie",
+  "object_name": ""
+ },
+ {
+  "subject": "CTL-E-5084",
+  "relationship": "based_in",
+  "object": "CTL-E-1475",
+  "grade": "Verified",
+  "evidence": "From Chicago, Illinois; Chicago-rooted house music figure.",
+  "provenance": "STAGED-HOUSEMUSIC-2026-10-07",
+  "subject_name": "Tyree Cooper",
+  "object_name": ""
+ },
+ {
+  "subject": "CTL-E-5085",
+  "relationship": "based_in",
+  "object": "CTL-E-1475",
+  "grade": "Verified",
+  "evidence": "Chicago-born vocalist; Chicago-rooted house music figure.",
+  "provenance": "STAGED-HOUSEMUSIC-2026-10-07",
+  "subject_name": "Dajae",
+  "object_name": ""
+ },
+ {
+  "subject": "CTL-E-5092",
+  "relationship": "based_in",
+  "object": "CTL-E-1475",
+  "grade": "Verified",
+  "evidence": "Chicago-born DJ/producer; Chicago-rooted house music figure.",
+  "provenance": "STAGED-HOUSEMUSIC-2026-10-07",
+  "subject_name": "Maurice Joshua",
+  "object_name": ""
+ },
+ {
+  "subject": "CTL-E-5094",
+  "relationship": "based_in",
+  "object": "CTL-E-1475",
+  "grade": "Verified",
+  "evidence": "House musician from Chicago, Illinois; Chicago-rooted house music figure.",
+  "provenance": "STAGED-HOUSEMUSIC-2026-10-07",
+  "subject_name": "Lidell Townsell",
+  "object_name": ""
+ },
+ {
+  "subject": "CTL-E-5096",
+  "relationship": "founded",
+  "object": "CTL-E-5095",
+  "grade": "Verified",
+  "evidence": "Mirani founded 5 Magazine in Chicago in August 2005.",
+  "provenance": "STAGED-HOUSEMUSIC-2026-10-07",
+  "subject_name": "Czarina Mirani",
+  "object_name": ""
+ },
+ {
+  "subject": "CTL-E-5096",
+  "relationship": "played",
+  "object": "CTL-E-2590",
+  "grade": "Verified",
+  "evidence": "Mirani (as Czboogie) has held DJ residencies at Smart Bar.",
+  "provenance": "STAGED-HOUSEMUSIC-2026-10-07",
+  "subject_name": "Czarina Mirani",
+  "object_name": ""
+ }
+]
