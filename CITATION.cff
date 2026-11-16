@@ -19,8 +19,8 @@ keywords:
   - open-data
 identifiers:
   - type: doi
-    value: "10.5281/zenodo.23081630"
-    description: "The CultureTechLens Index — Edition 2026-10"
+    value: "10.5281/zenodo.23081629"
+    description: "The CultureTechLens Index — Edition 2026-10 (concept DOI — cite this; v1 10.5281/zenodo.23081630 · v2 10.5281/zenodo.23612639)"
   - type: doi
     value: "10.5281/zenodo.23403147"
     description: "CultureTechLens Black Cultural Knowledge Graph v1.3 (snapshot, 2026-10-16)"
