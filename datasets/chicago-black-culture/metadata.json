@@ -1,0 +1,40 @@
+{
+  "id": "CTL-DS-CHI-000001",
+  "legacy_alias": "CTL-DATA-CHI-001",
+  "title": "Chicago Black Culture \u2014 Churches, Clubs, Theaters, Venues, Banks",
+  "version": "1.0",
+  "status": "Pre-publication package (v1.0 merge assembled 2026-11-16 from the two October 2026 builds). Zenodo deposit pending the founder's token sitting; no DOI yet.",
+  "creator": "CultureTechLens NFP",
+  "license": "CC-BY-4.0",
+  "counts": {
+    "merged_rows": 199,
+    "build01_rows": 183,
+    "build02_rows": 124,
+    "joined": 108,
+    "categories": {
+      "Church": 62,
+      "Club": 48,
+      "Venue": 45,
+      "Theater": 32,
+      "Bank": 12
+    },
+    "grades": {
+      "Verified": 161,
+      "Supported": 8,
+      "Provisional": 29,
+      "Unresolved": 1
+    }
+  },
+  "description": "199 Black Chicago places \u2014 churches (62), clubs (48), venues (45), theaters (32), banks (12) \u2014 reconciled from two October 2026 builds (a 183-row graph union file and a 124-row editorial seed; 108 joined on exact normalized name, full merge log published). Grades were base-mapped from a legacy vocabulary (STRONG EVIDENCE \u2192 Supported) with source text preserved and the lowest grade taken where builds disagreed; nothing was upgraded. No coordinates are included and no map is claimed. The FAQ layer was generated mechanically from row fields on 2026-11-16 and is labeled as generated.",
+  "keywords": [
+    "Chicago",
+    "Black culture",
+    "Bronzeville",
+    "churches",
+    "nightclubs",
+    "theaters",
+    "Black banks",
+    "dataset",
+    "CultureTechLens"
+  ]
+}

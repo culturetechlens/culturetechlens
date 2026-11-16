@@ -1,0 +1,22 @@
+# MANIFEST — CTL-DS-CHI-000001 v1.0 merge package (2026-11-16)
+
+19d89c620774d79b8744ac1dbb42ae63738f16eb7d15f88ff21cc7daa08d7ead  ./CHANGELOG.md
+81e76f6f71fdd87b2a67811bd2ec252ec64dd07b445175fde48dfc4646c3d421  ./CITATION.cff
+89c8e18f434cad54a8ae809bc78989ab818bb2ab95b6df9c27cd4c72809872af  ./DATA-DICTIONARY.md
+b45c7e70f7c802e5b1f3398917624428dc09a32358d352c07ee568657eaa4868  ./LICENSE.txt
+a42ded0c6bb264962235a04db62ff646d0a63d8bbe31ca18393a5e64d974c96e  ./MERGE-LOG.md
+92a006c476bf85b811593098569cc47f06ce09a026b19e170b35eba383a17d15  ./README-dataset-card.md
+5ab4eea0c09e0ee2fcacbffc3636e6d942442bfc1796a9f3bb5f492b1547398d  ./aeo-faq-GENERATED.jsonld
+78e46b1f9870e25f477054bcd6d556cf86b8413c83895d91db30365c9a9c7ee6  ./data/chicago-black-culture-merged.csv
+a1bb2d33851d44219a51d8986ffee476745f6b7d8873a722a03cef21bb387982  ./data/chicago-black-culture-merged.json
+a2534e306883e8b4b108d8a780039847c641bf4e2f2e07431b3098dc334708fa  ./data/chicago-black-culture.sqlite
+3308cc8fce121f9ba2ab00920d842ec32aac5a9f817d600ed005a00a4a5797a1  ./data/sample-30.csv
+541687fb1ea8e2e7414c0577064834dfa8fac6d2957cf31e3d96c82702e26e91  ./dataset.jsonld
+2e34b292d74d2e0646d07007c6576c4e27463089a276295066420879d4c91c26  ./llms.txt
+12524a9e86dda09f65e161e89bd4ae8c98079c2cda7cafc5dd294bc8ab484b21  ./metadata.json
+c8cedf70261e142e26b607dce80fb04cdf4785a07203b8f0758a4c6745f3396b  ./sources/build01-union.csv
+ab95fcc6b98619223b7661ba9652ae154b877831ef59377ae435b9b738698b71  ./sources/build02-v0-seed.csv
+6bc7055ab9d632679a4627356befd962bfcce08ba13fa32557e7a91ec736f0ef  ./visuals/board-ultrawide-chicago.png
+f908e76d4dd577ca5b63f35293b2feee4c830220b26e422862ccd5ea1f8b8e50  ./visuals/chart-categories.png
+1af906e5157877c4fdb48a9cb51266fc0789a2b428af0fc1f073f0041f75b3d5  ./visuals/chart-grades.png
+f66b138f20e6cdf448f314c57693596da9ec8e369f41dff20632dcf2989937ba  ./zenodo-metadata.json

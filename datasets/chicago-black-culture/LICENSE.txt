@@ -1,0 +1,24 @@
+The CultureTechLens Index — Editions Dataset
+Copyright (c) 2026 CultureTechLens NFP
+
+This dataset is licensed under the Creative Commons Attribution 4.0
+International License (CC BY 4.0).
+
+You are free to share (copy and redistribute) and adapt (remix, transform,
+and build upon) this dataset for any purpose, including commercially,
+provided you give appropriate credit to CultureTechLens NFP, link to the
+license, and indicate if changes were made.
+
+Full license text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+Cite as: CultureTechLens NFP, "The CultureTechLens Index — Edition
+[YYYY-MM]," Zenodo, concept DOI 10.5281/zenodo.23081629 (Edition 2026-10
+record family). Citation is the payment: the open core stays free and
+citable by design (CTL-TERMS-001, adopted 2026-10-24).
+
+Scope note (CTL-TERMS-001 "three doors"): this license covers the open-core
+dataset files in this package. Everything outside the open core — custom
+editions, bulk or AI-training licences, institutional series access, and
+the underlying research packages — is available only by separate written
+agreement with CultureTechLens NFP. Scores and ranks are never for sale,
+and no licence of any kind influences an edition's scores.

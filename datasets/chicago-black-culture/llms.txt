@@ -1,0 +1,20 @@
+# Chicago Black Culture (CultureTechLens)
+
+ > 199 Black Chicago places — churches (62), clubs (48), venues (45), theaters (32), banks (12) — reconciled from two October 2026 builds (a 183-row graph union file and a 124-row editorial seed; 108 joined on exact normalized name, full merge log published). Grades were base-mapped from a legacy vocabulary (STRONG EVIDENCE → Supported) with source text preserved and the lowest grade taken where builds disagreed; nothing was upgraded. No coordinates are included and no map is claimed. The FAQ layer was generated mechanically from row fields on 2026-11-16 and is labeled as generated.
+
+## Examples
+- **Binga Bank (Binga State Bank)** (Bank) — Chicago's first Black-owned bank: founded as a private bank by Jesse Binga in 1908 (drawing $200,000+ in deposits on opening day) 
+- **Binga State Bank** (Bank) — Jesse Binga's pioneering Black-owned Chicago bank
+- **Community Bank of Lawndale / Covenant Bank** (Bank) — First Black-owned bank on Chicago's West Side (1977), founded by Rev. Shelvin Jerome Hall; bought in 2008 by Living Word Christian
+- **Covenant Bank** (Bank) — Faith-capitalized Black community bank on Chicago's West Side (2008-2013); bought from Community Bank of Lawndale by Rev. Bill Win
+- **Douglass National Bank** (Bank) — Douglass National Bank was a Black-owned bank founded by Anthony Overton and named for Frederick Douglass, operating from the Over
+- **Highland Community Bank** (Bank) — Black-owned community bank on Chicago's South Side (1970-2015); closed January 23, 2015 by Illinois regulators for operating in an
+- **Illinois Service Federal Savings & Loan Association** (Bank) — Black-owned Chicago thrift founded 1934 when 13 Black South Side leaders pooled $7,000 to make mortgages where white-owned banks w
+- **Illinois Service Federal Savings and Loan / ISF Bank / GN Bank** (Bank) — Illinois Service Federal Savings and Loan — founded 1934 by 13 Black men during the Great Migration — was Chicago's historic Black
+- **Independence Bank of Chicago** (Bank) — Black-owned bank founded 1964 to serve the Chatham-Avalon community
+- **Seaway National Bank** (Bank) — Black-owned South Side bank serving Chatham and the South Side
+- **Washington Park National Bank** (Bank) — Historic South Side bank whose 1924 Neoclassical headquarters at 63rd & Cottage Grove (Albert A. Schwartz, architect) is the Washi
+- **All Nations Pentecostal Church** (Church) — Bronzeville Pentecostal congregation founded by a formerly enslaved-generation Georgia migrant woman; healing ministry, interracia
+
+## Citation
+Cite as: CultureTechLens, "Chicago Black Culture (CTL-DS-CHI-000001; legacy alias CTL-DATA-CHI-001)", v1.0, 2026. License on publication: CC BY 4.0 (open core, CTL-TERMS-001).

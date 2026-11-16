@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "Chicago Black Culture — Churches, Clubs, Theaters, Venues, Banks"
+version: 1.0
+date-released: 2026-11-16
+abstract: "199 Black Chicago places — churches (62), clubs (48), venues (45), theaters (32), banks (12) — reconciled from two October 2026 builds (a 183-row graph union file and a 124-row editorial seed; 108 joined on exact normalized name, full merge log published). Grades were base-mapped from a legacy vocabulary (STRONG EVIDENCE → Supported) with source text preserved and the lowest grade taken where builds disagreed; nothing was upgraded. No coordinates are included and no map is claimed. The FAQ layer was generated mechanically from row fields on 2026-11-16 and is labeled as generated."
+authors:
+  - name: "CultureTechLens NFP"
+license: CC-BY-4.0
+identifiers:
+  - type: other
+    value: "CTL-DS-CHI-000001"
+    description: "CTL dataset registry ID (ruled by William Maxey, 2026-11-16). Legacy alias: CTL-DATA-CHI-001. DOI is assigned at Zenodo deposit."
+preferred-citation:
+  type: dataset
+  title: "Chicago Black Culture — Churches, Clubs, Theaters, Venues, Banks (CTL-DS-CHI-000001)"
+  authors:
+    - name: "CultureTechLens"
+  year: 2026
