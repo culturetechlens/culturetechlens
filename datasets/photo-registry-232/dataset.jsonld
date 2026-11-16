@@ -1,0 +1,35 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Cited Photo Archive Registry \u2014 Photo Registry 232",
+  "identifier": "CTL-DS-PHO-000001",
+  "creator": {
+    "@type": "Organization",
+    "name": "CultureTechLens NFP"
+  },
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "description": "The registry of CultureTechLens' 232 published Cited Photo Archive evidence cards: per photo, registry ID, title, photographer, source, rights statement, what it documents, the citation as published, page/file URLs, and an AEO question and answer. All 232 rows are rights-stated (119 public domain; the rest CC and CC0); none uncleared. Extracted verbatim from culturetechlens.com/photos/ on 2026-11-04 and governed by CTL-PHOTO-001/002. Distinct from the internal Photo Rights Log v4 \u2014 the two are never merged.",
+  "keywords": [
+    "photography",
+    "photo archive",
+    "Black history",
+    "rights-cleared",
+    "Wikimedia Commons",
+    "Library of Congress",
+    "CultureTechLens"
+  ],
+  "distribution": [
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "application/json"
+    },
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "application/x-sqlite3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "Cited Photo Archive Registry — Photo Registry 232"
+version: 1.0
+date-released: 2026-11-16
+abstract: "The registry of CultureTechLens' 232 published Cited Photo Archive evidence cards: per photo, registry ID, title, photographer, source, rights statement, what it documents, the citation as published, page/file URLs, and an AEO question and answer. All 232 rows are rights-stated (119 public domain; the rest CC and CC0); none uncleared. Extracted verbatim from culturetechlens.com/photos/ on 2026-11-04 and governed by CTL-PHOTO-001/002. Distinct from the internal Photo Rights Log v4 — the two are never merged."
+authors:
+  - name: "CultureTechLens NFP"
+license: CC-BY-4.0
+identifiers:
+  - type: other
+    value: "CTL-DS-PHO-000001"
+    description: "CTL dataset registry ID (ruled by William Maxey, 2026-11-16). DOI is assigned at Zenodo deposit."
+preferred-citation:
+  type: dataset
+  title: "Cited Photo Archive Registry — Photo Registry 232 (CTL-DS-PHO-000001)"
+  authors:
+    - name: "CultureTechLens"
+  year: 2026
