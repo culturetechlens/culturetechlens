@@ -1,0 +1,20 @@
+{
+  "title": "KG333 \u2014 Black Americans Registry",
+  "upload_type": "dataset",
+  "description": "333 ranked Black Americans and Black places (306 people, 27 places, 23 categories), each Wikidata-verified on 2026-11-04 (322 with QIDs, 22 of them corrected on the record after first-hit errors) and each carrying a full AEO layer: primary question, direct answer, 5-question cluster, keywords, entity page slug, schema. 11 GAP rows have no Wikidata entity \u2014 subjects where CultureTechLens' record leads. Grown from 100 to 333 by documented snapshots and four addenda; the 333 AEO CSV is the canonical file (spec ruling 2026-11-16). Source registry for AEO-500's KG half.",
+  "creators": [
+    {
+      "name": "CultureTechLens NFP"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "Black Americans",
+    "Wikidata",
+    "knowledge graph",
+    "AEO",
+    "entity registry",
+    "CultureTechLens"
+  ],
+  "notes": "Pre-publication package (v1.0 assembled 2026-11-16 from the canonical 2026-11-04 file). Zenodo deposit pending the founder's token sitting; no DOI yet."
+}

@@ -1,0 +1,36 @@
+# KG333 — Black Americans Registry (CultureTechLens)
+
+ > 333 ranked Black Americans and Black places (306 people, 27 places, 23 categories), each Wikidata-verified on 2026-11-04 (322 with QIDs, 22 of them corrected on the record after first-hit errors) and each carrying a full AEO layer: primary question, direct answer, 5-question cluster, keywords, entity page slug, schema. 11 GAP rows have no Wikidata entity — subjects where CultureTechLens' record leads. Grown from 100 to 333 by documented snapshots and four addenda; the 333 AEO CSV is the canonical file (spec ruling 2026-11-16). Source registry for AEO-500's KG half.
+
+## Top-ranked entities
+- **Martin Luther King Jr.** (Civil Rights, Politics & Law) — American Baptist minister and civil rights leader (1929–1968) [Q8027]
+- **Rosa Parks** (Civil Rights, Politics & Law) — civil rights activist [Q41921]
+- **Harriet Tubman** (Civil Rights, Politics & Law) — African-American abolitionist (1822–1913) [Q102870]
+- **Frederick Douglass** (Civil Rights, Politics & Law) — African-American social reformer, writer, and abolitionist (c. 1818–1895) [Q215562]
+- **Sojourner Truth** (Civil Rights, Politics & Law) — abolitionist and African-American activist for women's rights (1797–1883) [Q105180]
+- **Barack Obama** (Civil Rights, Politics & Law) — 44th President of the United States (2009–2017) [Q76]
+- **Kamala Harris** (Civil Rights, Politics & Law) — Vice President of the United States from 2021 to 2025 [Q10853588]
+- **Thurgood Marshall** (Civil Rights, Politics & Law) — Associate Justice of the Supreme Court of the United States from 1967 to 1991 (1908–1993) [Q312348]
+- **John Lewis** (Civil Rights, Politics & Law) — American politician and civil rights leader (1940–2020) [Q45380]
+- **Shirley Chisholm** (Civil Rights, Politics & Law) — first black woman elected to the United States Congress (1924-2005) [Q239657]
+- **Malcolm X** (Civil Rights, Politics & Law) — American Black rights activist (1925–1965) [Q43303]
+- **W.E.B. Du Bois** (Civil Rights, Politics & Law) — American sociologist and activist (1868–1963) [Q158060]
+- **Ida B. Wells** (Civil Rights, Politics & Law) — American journalist and civil rights activist (1862–1931) [Q289428]
+- **Claudette Colvin** (Civil Rights, Politics & Law) — African-American civil rights activist (1939–2026) [Q468897]
+- **Ruby Bridges** (Civil Rights, Politics & Law) — American civil rights activist (born 1954) [Q469860]
+
+## The GAP class — no Wikidata entity exists (CTL leads)
+- **Howard-John Wesley** (Religion & Faith Leaders) — Howard-John Wesley (born 1972) is the senior pastor of Alfred Street Baptist Church in Alexandria, Virginia, one of America's historic Black Baptist churches. His sermons circulate widely on YouTube, making him one of the most watched preachers of the digital era.
+- **Frederick D. Haynes III** (Religion & Faith Leaders) — Frederick D. Haynes III (born 1960) has pastored Friendship-West Baptist Church in Dallas since 1983, growing it into a megachurch known for social justice preaching. His sermons regularly go viral, and he briefly ran for Congress in 2024.
+- **Phillip Scott** (YouTube & Digital Newscasters) — Phillip Scott is a YouTube news host who founded the African Diaspora News Channel, which covers news about Black people in America, Africa, and around the world for a large online audience. He is a leading example of independent Black digital journalism.
+- **Jason Black** (YouTube & Digital Newscasters) — Jason Black, known online as Professor BlackTruth, is a YouTube commentator who hosts The Black Authority, a long-running channel of news analysis and interviews from a Black empowerment perspective, and has authored books and produced films for his audience.
+- **Janai Norman** (Journalists & YouTube Newscasters — More) — Janai Norman is an ABC News journalist who co-anchors the weekend edition of Good Morning America and anchors on ABC News Live. Known for warm, family-centered segments on parenting and wellness, she is one of morning TV's rising Black anchors — with no Wikidata entity yet.
+- **Reecie Colbert** (Journalists & YouTube Newscasters — More) — Reecie Colbert is a political commentator and strategist who hosts The Reecie Colbert Show on YouTube and SiriusXM, known for data-driven breakdowns of Black voter behavior and election maps. A former federal budget analyst, she is one of independent Black media's fastest-growing voices — with no Wikidata entity yet.
+- **F.D Signifier** (Journalists & YouTube Newscasters — More) — F.D Signifier, born Fiqh Daniels, is a YouTube video essayist whose long-form essays on Black masculinity, hip-hop, film, and media — made from his background as a sociology educator in Atlanta — draw millions of views. He has no Wikidata entity or Wikipedia page yet: a clear Knowledge Graph gap.
+- **Mary McLeod Bethune Statue** (Statues & Monuments) — The statue of educator and civil rights leader Mary McLeod Bethune, unveiled in the US Capitol's National Statuary Hall in July 2022 representing Florida, made her the first African American honored with a state statue in the collection — sculpted by Nilda Comas from Italian marble.
+- **The Ark of Return** (Statues & Monuments) — The Ark of Return, unveiled at United Nations headquarters in New York in 2015, is the UN's permanent memorial to the victims of slavery and the transatlantic slave trade — a triangular marble monument by Haitian-American architect Rodney Leon, sited where the world's diplomats must pass it.
+- **Harriet Tubman Memorial (Swing Low)** (Statues & Monuments) — Swing Low, Alison Saar's 13-foot bronze of Harriet Tubman, dedicated in 2008 in Harlem, New York, depicts Tubman striding forward with the roots of slavery pulling at her skirt — the first statue of a Black woman in a New York City public space in decades of monument building.
+- **Nelson Mandela Statue, Parliament Square** (Statues & Monuments) — The bronze statue of Nelson Mandela in London's Parliament Square, unveiled in 2007 while Mandela still lived — he joked he had become 'a tourist attraction' — places the South African freedom leader among Britain's statesmen, facing the Parliament he once petitioned from prison.
+
+## Citation
+Cite as: CultureTechLens, "KG333 — Black Americans Registry (CTL-DS-KG3-000001)", v1.0, 2026. License on publication: CC BY 4.0 (open core, CTL-TERMS-001).
