@@ -1,0 +1,154 @@
+entry_id,name,kind,context,graph_union_id,sources,annotation,status,notes
+CTL-AAES-0001,"""Be Like Mike""",subject,Basketball — NBA,,listal:List 2,"The Gatorade campaign that turned a fadeaway, a tongue, and a shrug into the most imitated iconography on earth.",stub,
+CTL-AAES-0002,13–37,subject,Basketball — NBA,,listal:List 2,The season after the dynasty: the lockout Bulls went 13–37 and lost 82–49 to Miami. This is what breaking up the dynasty bought.,stub,
+CTL-AAES-0003,Air Jordan,subject,Basketball — NBA,,listal:List 2,$126M in year one against a $3M projection; by 1991 the brand did $1.3B. Fortune (1998) estimated Jordan's U.S. economic impact at $10 billion. A Black kid from Wilmington's sneakers became the world's uniform.,stub,
+CTL-AAES-0004,Allen Iverson,person,,U-07161,graph:played_for,,roster,played_for Detroit Pistons
+CTL-AAES-0005,Allie Quigley,subject,Basketball — WNBA,,listal:List 3,"Franchise scoring leader until Vandersloot passed her (3,723 points). #14 retired July 9, 2025 — her wife Vandersloot, on crutches, gave the center-court speech.",stub,
+CTL-AAES-0006,"Andrew ""Rube"" Foster",subject,Baseball — Negro leagues,,listal:List 1,"The founder. Outpitched white star Rube Waddell in 1902 and took his name; founded the Negro National League at Kansas City's Paseo YMCA on February 13, 1920, and ran it from Chicago. Committed to the Kankakee asylum in 1926, dead at 51 in 1930 — never seeing the back-to-back titles his team won without him. 3,000 mourners stood in snow and rain in Bronzeville.",stub,
+CTL-AAES-0007,Angel Reese,subject,Basketball — WNBA,,listal:List 3,"Drafted #7 in 2024, two All-Star seasons in Chicago, traded to Atlanta in April 2026 — then won 2026 Defensive Player of the Year with the Dream, setting single-season rebounding records. The one that stings.",stub,
+CTL-AAES-0008,Anthony Davis,person,,U-06882,graph:played_for,,roster,played_for Los Angeles Lakers
+CTL-AAES-0009,Antoine Walker,person,,U-06876,graph:played_for,,roster,played_for Miami Heat
+CTL-AAES-0010,Antonio Brown,person,,U-07207,graph:played_for,,roster,played_for Pittsburgh Steelers
+CTL-AAES-0011,Ayo Dosunmu,person,,U-06886,graph:played_for,,roster,played_for Chicago Bulls
+CTL-AAES-0012,Bernie Custis,subject,Football — NFL,,listal:List 5,"The first Black quarterback to start professionally, for Hamilton in the CFL, 1951. America wouldn't; Canada would.",stub,
+CTL-AAES-0013,Birmingham Black Barons,team,,,graph:played_for_target,,roster,
+CTL-AAES-0014,Bishop Bernard Sheil,subject,Baseball — integration,,listal:List 4,"Chicago's auxiliary bishop, who lent the Catholic Church's weight to the campaign in the Defender's pages, June 1942.",stub,
+CTL-AAES-0015,Bo Jackson,person,,U-07212,graph:played_for,,roster,played_for Chicago White Sox
+CTL-AAES-0016,Bobby Simmons,person,,CTL-E-5512,packet:sports-bench-6,,roster,
+CTL-AAES-0017,Branch Rickey,subject,Baseball — integration,,listal:List 4,Signed Robinson to Montreal in October 1945. The executive who acted; the press corps who made acting unavoidable.,stub,
+CTL-AAES-0018,Bronny James,person,,U-07141,graph:played_for,,roster,played_for Los Angeles Lakers
+CTL-AAES-0019,Buffalo Bills,team,,,graph:played_for_target,,roster,
+CTL-AAES-0020,Caleb Williams,subject,Football — NFL,,listal:List 5,"#1 overall, 2024. Seventy-one years after Thrower relieved Blanda at Wrigley, Chicago used the first pick in the draft on a Black quarterback.",stub,
+CTL-AAES-0021,Candace Parker,subject,Basketball — WNBA,,listal:List 3,"Naperville native, 13 seasons in LA, signed home in June 2021 and delivered the title. ""I remember watching the Chicago Bulls' parade on TV and dreaming of bringing a title to your hometown."" #3 retired August 25, 2025. Now Adidas president of women's basketball.",stub,
+CTL-AAES-0022,Cazzie Russell,person,,U-06821,graph:played_for; packet:sports-bench-6,,roster,played_for Chicago Bulls
+CTL-AAES-0023,Channing Crowder,person,,U-06648,graph:played_for,,roster,played_for Miami Dolphins
+CTL-AAES-0024,Chicago American Gears,team,,,graph:played_for_target,,roster,
+CTL-AAES-0025,Chicago Bears,team,,,graph:played_for_target,,roster,
+CTL-AAES-0026,Chicago Bulls,team,,,graph:played_for_target,,roster,
+CTL-AAES-0027,Chicago Cubs,team,,,graph:played_for_target,,roster,
+CTL-AAES-0028,Chicago White Sox,team,,,graph:played_for_target,,roster,
+CTL-AAES-0029,Cleveland Browns,team,,,graph:played_for_target,,roster,
+CTL-AAES-0030,Colorado Buffaloes football,team,,,graph:played_for_target,,roster,
+CTL-AAES-0031,Cool Papa Bell,person,Baseball — Negro leagues,U-07259,graph:played_for; listal:List 1,"Center fielder, American Giants 1942. One of the fastest men to ever play the game, and one of thirteen Cooperstown plaques to wear this uniform. Hall of Fame, 1974.",stub,played_for St. Louis Stars · played_for Homestead Grays · played_for Kansas City Monarchs
+CTL-AAES-0032,Corey Maggette,person,,U-06946,graph:played_for,,roster,played_for Detroit Pistons
+CTL-AAES-0033,Courtney Vandersloot,subject,Basketball — WNBA,,listal:List 3,"Drafted #3 overall in 2011; twelve seasons in Chicago, franchise assists queen five times over. Left, won a title in New York, came home in February 2025 — tore her ACL seven games in, but not before becoming the franchise's all-time scorer (3,745 points). Came back from the ACL at 37.",stub,
+CTL-AAES-0034,Cristóbal Torriente,subject,Baseball — Negro leagues,,listal:List 1,"Outfielder, 1919–1925; led the 1920 championship team with a .393 average. The Cuban star at the heart of the first dynasty. Hall of Fame, 2006.",stub,
+CTL-AAES-0035,Cuban X-Giants,team,,,graph:played_for_target,,roster,
+CTL-AAES-0036,Damar Hamlin,person,,U-07166,graph:played_for,,roster,played_for Buffalo Bills
+CTL-AAES-0037,"Dave ""Gentleman Dave"" Malarcher",subject,Baseball — Negro leagues,,listal:List 1,"Foster's protégé who took over on-field management in 1926 and won both Colored World Series titles (1926, 1927) running Foster's pitching-and-defense pattern. The dynasty's second architect.",stub,
+CTL-AAES-0038,Dennis Rodman,person,Basketball — NBA,U-07155,graph:played_for; listal:List 2,Acquired before 1995–96; seven straight rebounding titles; the second three-peat's defensive engine and its cultural lightning rod. Exported his own model of Black masculinity entirely.,stub,played_for Detroit Pistons · played_for Chicago Bulls · played_for Los Angeles Lakers
+CTL-AAES-0039,DePaul Blue Demons men's basketball,team,,,graph:played_for_target,,roster,
+CTL-AAES-0040,Derrick Rose,person,,U-00115,graph:played_for; packet:sports-core-10,,roster,played_for Chicago Bulls
+CTL-AAES-0041,Detroit Pistons,team,,,graph:played_for_target,,roster,
+CTL-AAES-0042,Dick Allen,person,,U-06808,graph:played_for; packet:sports-core-10,,roster,played_for Chicago White Sox
+CTL-AAES-0043,Doc Rivers,person,,CTL-E-5511,packet:sports-bench-6,,roster,
+CTL-AAES-0044,Donovan McNabb,subject,Football — NFL,,listal:List 5,Started Super Bowl XXXIX (2005). Six Pro Bowls; the sustained-excellence case.,stub,
+CTL-AAES-0045,Doug Williams,subject,Football — NFL,,listal:List 5,"Grambling; 17th overall in 1978, the first Black QB taken in the first round. Super Bowl XXII: 18 of 29, 340 yards, 4 TDs — all in the second quarter. 35 points in one quarter. First Black quarterback to start and win a Super Bowl.",stub,
+CTL-AAES-0046,Draymond Green,person,,U-06894,graph:played_for,,roster,played_for Golden State Warriors
+CTL-AAES-0047,Dwyane Wade,person,,U-00394,graph:played_for; packet:sports-core-10,,roster,played_for Chicago Bulls · played_for Miami Heat
+CTL-AAES-0048,Eddy Curry,person,,U-06983,graph:played_for,,roster,played_for Chicago Bulls · played_for Miami Heat
+CTL-AAES-0049,Elena Delle Donne,subject,Basketball — WNBA,,listal:List 3,"Drafted 2013; the 24–10 season, the franchise's first playoff run, the climb out of the 5–29 inaugural years.",stub,
+CTL-AAES-0050,Ernie Banks,person,,U-00112,graph:played_for; packet:sports-core-10,,roster,played_for Chicago Cubs
+CTL-AAES-0051,Fay Young,subject,Baseball — integration,,listal:List 4,"The Chicago Defender's sports editor across five decades, credited as the first full-time Black sportswriter in America. Covered the Negro National League from its 1920 inception, built the Defender's sports page, and spent the 1940s demanding the majors open up. The Dean of Negro Sportswriters.",stub,
+CTL-AAES-0052,Frank Wickware,subject,Baseball — Negro leagues,,listal:List 1,"Threw a no-hitter on August 26, 1914, beating Indianapolis 1–0: walked the leadoff man, who was caught stealing, then retired 26 straight. The single-game masterpiece in franchise history.",stub,
+CTL-AAES-0053,Fred Taylor,person,,U-06649,graph:played_for,,roster,played_for Jacksonville Jaguars
+CTL-AAES-0054,Fritz Pollard,subject,Football — NFL,,listal:List 5,"Brown, Rose Bowl 1916; led Akron to the 1920 league title; the NFL's first Black head coach (1921) and, with Hammond in 1923, its first Black quarterback. Purged with the color line; Hall of Fame finally in 2005, nineteen years after his death, on his son's dying quest: ""Don't forget your quest.""",stub,
+CTL-AAES-0055,Gale Sayers,person,,U-00113,graph:played_for; packet:sports-core-10,,roster,played_for Chicago Bears
+CTL-AAES-0056,George Mikan,person,,U-06849,graph:played_for,,roster,played_for DePaul Blue Demons men's basketball · played_for Chicago American Gears
+CTL-AAES-0057,Giannis Antetokounmpo,person,,U-07148,graph:played_for,,roster,played_for Miami Heat
+CTL-AAES-0058,Golden State Warriors,team,,,graph:played_for_target,,roster,
+CTL-AAES-0059,Homestead Grays,team,,,graph:played_for_target,,roster,
+CTL-AAES-0060,Houston Texans,team,,,graph:played_for_target,,roster,
+CTL-AAES-0061,Isiah Thomas,person,,U-00395,graph:played_for; packet:sports-core-10,,roster,played_for Detroit Pistons
+CTL-AAES-0062,Jabari Parker,person,,U-06883,graph:played_for,,roster,played_for Chicago Bulls
+CTL-AAES-0063,Jack Johnson,person,,CTL-E-5508,packet:sports-bench-6,,roster,
+CTL-AAES-0064,Jackie Robinson,subject,Baseball — integration,,listal:List 4,".376 for the Kansas City Monarchs in 1945; went 0-for-5 at Comiskey Park's East-West All-Star Game months before Rickey's call. Signed October 23, 1945; debuted April 15, 1947. The man the campaign was for.",stub,
+CTL-AAES-0065,Jacksonville Jaguars,team,,,graph:played_for_target,,roster,
+CTL-AAES-0066,Jalen Hurts,subject,Football — NFL,,listal:List 5,"February 12, 2023: with Mahomes, the first Super Bowl with two Black starting quarterbacks — 100 years after Pollard.",stub,
+CTL-AAES-0067,"James ""Shack"" Harris",subject,Football — NFL,,listal:List 5,"1969: first Black quarterback to start a season opener; the Times called him the ""Negro passer."" Roomed at a $6-a-night Buffalo YMCA while O.J. Simpson got the Hilton. 1974: first Black QB to start an NFL playoff game; Pro Bowl MVP.",stub,
+CTL-AAES-0068,James Wade,subject,Basketball — WNBA,,listal:List 3,Head coach and GM 2019–2023; the third Black male coach to win a WNBA championship.,stub,
+CTL-AAES-0069,Jason Taylor,person,,U-07162,graph:played_for,,roster,played_for Miami Dolphins
+CTL-AAES-0070,Jerry Krause,subject,Basketball — NBA,,listal:List 2,"The GM who built everything around Jordan: drafted Pippen, traded for Rodman, hired Jackson. Said ""players and coaches alone don't win championships"" — Jordan quoted it back at him in his 2009 Hall of Fame speech.",stub,
+CTL-AAES-0071,Joe Bostic,subject,Baseball — integration,,listal:List 4,People's Voice sportswriter; brought Black players to unscheduled tryouts at spring training centers.,stub,
+CTL-AAES-0072,John H. Sengstacke,subject,Baseball — integration,,listal:List 4,"Took over the Defender in 1940, walked into the owners' meetings as a publisher to make the integration case in person, and per a Congressional tribute helped arrange the Robeson meeting that preceded Robinson's hiring.",stub,
+CTL-AAES-0073,"John Henry ""Pop"" Lloyd",subject,Baseball — Negro leagues,,listal:List 1,"Shortstop, 1914–1917, on the legendary 1910 Leland Giants team that reportedly went 123–6. The Black Wagner. Hall of Fame, 1977.",stub,
+CTL-AAES-0074,Josh Gibson,person,,U-07268,graph:played_for,,roster,played_for Homestead Grays
+CTL-AAES-0075,Juan Soto,person,,U-07215,graph:played_for,,roster,played_for New York Mets
+CTL-AAES-0076,Justin Fields,person,Football — NFL,U-07309,graph:played_for; listal:List 5,"2021: the Bears' first Black starting quarterback in 68 years. The franchise's ledger, finally with a new entry.",stub,played_for Chicago Bears · played_for Pittsburgh Steelers · played_for Ohio State Buckeyes football
+CTL-AAES-0077,Kahleah Copper,subject,Basketball — WNBA,,listal:List 3,2021 Finals MVP. Game 4's closer alongside Quigley's 26 and Parker's 13 rebounds in the 80–74 title clincher.,stub,
+CTL-AAES-0078,Kansas City Monarchs,team,,,graph:played_for_target,,roster,
+CTL-AAES-0079,Ken Griffey Jr.,person,,U-07221,graph:played_for,,roster,played_for Chicago White Sox
+CTL-AAES-0080,Kendall Gill,person,,U-06888,graph:played_for,,roster,played_for Chicago Bulls
+CTL-AAES-0081,Kendrick Nunn,person,,U-06885,graph:played_for,,roster,played_for Miami Heat · played_for Los Angeles Lakers
+CTL-AAES-0082,Kevin Durant,person,,U-07143,graph:played_for,,roster,played_for Golden State Warriors
+CTL-AAES-0083,Kobe Bryant,person,,U-07139,graph:played_for,,roster,played_for Los Angeles Lakers
+CTL-AAES-0084,Lamar Jackson,subject,Football — NFL,,listal:List 5,"Heisman winner told by a Hall of Fame GM to switch to receiver; refused to run the 40 at the Combine, forcing evaluators to watch him throw. 2019 MVP. After five TDs against Miami: ""not bad for a running back.""",stub,
+CTL-AAES-0085,Lamar Odom,person,,U-07153,graph:played_for,,roster,played_for Los Angeles Lakers · played_for Miami Heat
+CTL-AAES-0086,LeBron James,person,,U-03022,graph:played_for,,roster,played_for Los Angeles Lakers
+CTL-AAES-0087,Leland Giants,team,,,graph:played_for_target,,roster,
+CTL-AAES-0088,Lester Rodney,subject,Baseball — integration,,listal:List 4,Sports editor of the Communist Daily Worker; the white press's rare ally in the campaign.,stub,
+CTL-AAES-0089,Lonzo Ball,person,,U-07150,graph:played_for,,roster,played_for Chicago Bulls · played_for Los Angeles Lakers
+CTL-AAES-0090,Los Angeles Lakers,team,,,graph:played_for_target,,roster,
+CTL-AAES-0091,Magic Johnson,person,,U-03019,graph:played_for,,roster,played_for Los Angeles Lakers
+CTL-AAES-0092,Marcus Louis Freeman,person,,U-05214,graph:played_for,,roster,played_for Ohio State Buckeyes football
+CTL-AAES-0093,Mark Aguirre,person,,U-06889,graph:played_for,,roster,played_for Detroit Pistons
+CTL-AAES-0094,Marlin Briscoe,person,Football — NFL,U-07129,graph:played_for; listal:List 5,"""The Magician."" October 6, 1968: first Black starting quarterback in modern pro football. 14 touchdowns as a Broncos rookie — then Denver wouldn't let him compete at QB in 1969. Won two Super Bowls as a receiver instead.",stub,played_for Miami Dolphins · played_for Buffalo Bills
+CTL-AAES-0095,Mel Tucker,person,,U-05230,graph:played_for,,roster,played_for Wisconsin Badgers football
+CTL-AAES-0096,Miami Dolphins,team,,,graph:played_for_target,,roster,
+CTL-AAES-0097,Miami Heat,team,,,graph:played_for_target,,roster,
+CTL-AAES-0098,Michael J. Alter,subject,Basketball — WNBA,,listal:List 3,Principal owner since inception; with Nadia Rawlinson (2023) steered the $85M valuation round — then the second-highest in the league.,stub,
+CTL-AAES-0099,Michael Jordan,person,Basketball — NBA,U-00110,graph:played_for; packet:sports-core-10; listal:List 2,"Drafted 3rd overall in 1984. Five MVPs, six Finals MVPs, ten scoring titles, 63 points in a playoff game (still the record). Retired at 30 at the absolute peak, hit .202 for the Birmingham Barons, came back with two words — ""I'm back"" — and won three more rings.",stub,played_for Chicago Bulls
+CTL-AAES-0100,Mule Suttles,person,Baseball — Negro leagues,U-07425,graph:played_for; listal:List 1,"First baseman and left fielder, 1929 and 1933–35; one of the great power hitters of Black baseball. Hall of Fame, 2006.",stub,played_for St. Louis Stars · played_for Birmingham Black Barons
+CTL-AAES-0101,New York Mets,team,,,graph:played_for_target,,roster,
+CTL-AAES-0102,Notre Dame Fighting Irish football (University of Notre Dame),team,,,graph:played_for_target,,roster,
+CTL-AAES-0103,Odell Beckham Jr.,person,,U-07165,graph:played_for,,roster,played_for Miami Dolphins · played_for Cleveland Browns
+CTL-AAES-0104,Ohio State Buckeyes football,team,,,graph:played_for_target,,roster,
+CTL-AAES-0105,Oscar Charleston,person,Baseball — Negro leagues,U-07261,graph:played_for; listal:List 1,"Center fielder, 1919. Called by some the greatest all-around player in Black baseball history. Hall of Fame, 1976.",stub,played_for Homestead Grays
+CTL-AAES-0106,Patrick Beverley,person,,U-06887,graph:played_for,,roster,played_for Chicago Bulls
+CTL-AAES-0107,Patrick Mahomes,subject,Football — NFL,,listal:List 5,Super Bowl LIV MVP; the position's desegregation made dynasty.,stub,
+CTL-AAES-0108,Paul Robeson,subject,Baseball — integration,,listal:List 4,"Addressed baseball's owners at the December 1943 winter meeting urging integration. Under Landis's orders, they ignored him — not one question.",stub,
+CTL-AAES-0109,Pete Hill,person,Baseball — Negro leagues,U-07257,graph:played_for; listal:List 1,"Outfielder, 1911–1918, another pillar of the 1910 Leland Giants. Hall of Fame, 2006.",stub,played_for Leland Giants
+CTL-AAES-0110,Phil Jackson,subject,Basketball — NBA,,listal:List 2,"Head coach for all six titles. Installed the triangle offense and managed the Jordan–Pippen–Rodman–Krause tensions into a dynasty. Told before 1997–98 it would be his last year ""even if you go 82–0.""",stub,
+CTL-AAES-0111,Pittsburgh Steelers,team,,,graph:played_for_target,,roster,
+CTL-AAES-0112,Quentin Richardson,person,,U-06947,graph:played_for,,roster,played_for Miami Heat
+CTL-AAES-0113,Robert Sengstacke Abbott,subject,Baseball — integration,,listal:List 4,"Founded the Defender in 1905 on 25 cents and 300 copies, under the standing headline ""American Race Prejudice Must Be Destroyed."" Every Robinson story ran under that banner.",stub,
+CTL-AAES-0114,Rube Foster,person,Baseball — integration,U-06674,graph:played_for; listal:List 4,The paradox: he built the Negro National League the Defender had spent 25 years covering — and the paper campaigned to integrate the majors knowing it would kill his league. It ran the campaign anyway.,stub,played_for Cuban X-Giants
+CTL-AAES-0115,Russell Westbrook,person,,U-07156,graph:played_for,,roster,played_for Los Angeles Lakers
+CTL-AAES-0116,Ryan Clark,person,,U-06647,graph:played_for,,roster,played_for Pittsburgh Steelers
+CTL-AAES-0117,Sam Lacy,subject,Baseball — integration,,listal:List 4,"Baltimore Afro-American sportswriter, one of the four Black press agitators who ""took the lead in pushing baseball's establishment to hire black players.""",stub,
+CTL-AAES-0118,Sam “Sad Sam” Jones,person,,CTL-E-5513,packet:sports-bench-6,,roster,
+CTL-AAES-0119,Sandy Stephens,subject,Football — NFL,,listal:List 5,1960: first Black quarterback to win a national title and earn All-American honors (Minnesota). Drafted by the Vikings and told he wouldn't play quarterback. Played in Montreal instead.,stub,
+CTL-AAES-0120,Satchel Paige,person,,U-07201,graph:played_for,,roster,played_for Kansas City Monarchs
+CTL-AAES-0121,Scottie Pippen,person,Basketball — NBA,U-00117,graph:played_for; packet:sports-core-10; listal:List 2,"The Robin without whom, by Jordan's own admission, the titles don't happen. Signed a seven-year, $18 million extension in 1991 — in 1996–97, his best season, he made $2.25M while Jordan made $30.14M. The wound that never closed.",stub,played_for Chicago Bulls
+CTL-AAES-0122,Shaquille O'Neal,person,,U-07140,graph:played_for,,roster,played_for Los Angeles Lakers · played_for Miami Heat
+CTL-AAES-0123,Shedeur Sanders,person,,U-06974,graph:played_for,,roster,played_for Colorado Buffaloes football · played_for Cleveland Browns
+CTL-AAES-0124,Simeon Career Academy,school,,CTL-E-5491,packet:sports-core-10,,roster,
+CTL-AAES-0125,"Skytown (October 19, 2021)",subject,Basketball — WNBA,,listal:List 3,"The parade: Wintrust Arena up Michigan Avenue to Pritzker Pavilion. Governor Pritzker declared Chicago ""Skytown"" for the day. Chance the Rapper tried on a gold medal.",stub,
+CTL-AAES-0126,Smokey Joe Williams,subject,Baseball — Negro leagues,,listal:List 1,"Pitcher, 1914. One of the most feared arms of the era. Hall of Fame, 1999.",stub,
+CTL-AAES-0127,Space Jam (1996),subject,Basketball — NBA,,listal:List 2,"$230M box office, 6× platinum soundtrack. A Black athlete headlined a Hollywood film that taught the world's children his name.",stub,
+CTL-AAES-0128,St. Louis Stars,team,,,graph:played_for_target,,roster,
+CTL-AAES-0129,Stefon Diggs,person,,U-07205,graph:played_for,,roster,played_for Buffalo Bills · played_for Houston Texans
+CTL-AAES-0130,Stephen Curry,person,,U-07043,graph:played_for,,roster,played_for Golden State Warriors
+CTL-AAES-0131,Steve McNair,subject,Football — NFL,,listal:List 5,Started Super Bowl XXXIV (2000); co-MVP 2003. The bridge between Williams and the modern era.,stub,
+CTL-AAES-0132,"Ted ""Double Duty"" Radcliffe",subject,Baseball — Negro leagues,,listal:List 1,"Pitcher and catcher, Giants debut 1929; named by writer Damon Runyon in 1932 after catching one game and pitching the next. Moved to the South Side in the Great Migration; died in Chicago at 103 — and at 96 became the oldest man ever to appear in a pro game.",stub,
+CTL-AAES-0133,The 2021 title run,subject,Basketball — WNBA,,listal:List 3,"16–16, the sixth seed. Beat Dallas, Minnesota, then toppled #1 Connecticut 3–1. Finals 3–1 over Phoenix. Chicago's first pro basketball championship since 1998.",stub,
+CTL-AAES-0134,The 72–10 season (1995–96),subject,Basketball — NBA,,listal:List 2,"The first 70-win team in NBA history. Jordan won season MVP, All-Star MVP, and Finals MVP in the same year.",stub,
+CTL-AAES-0135,The Dream Team (Barcelona 1992),subject,Basketball — NBA,,listal:List 2,"Jordan and Pippen on the roster that won gold and globalized basketball, inspiring the generation of international stars who later remade the NBA.",stub,
+CTL-AAES-0136,"The Last Shot (June 14, 1998)",subject,Basketball — NBA,,listal:List 2,Jordan over Bryon Russell to close the sixth title. 6–0 in Finals. No dynasty in modern sports closed cleaner.,stub,
+CTL-AAES-0137,Tim Hardaway Sr.,person,,U-06820,graph:played_for; packet:sports-bench-6,,roster,played_for Miami Heat
+CTL-AAES-0138,Tristan Thompson,person,,U-07151,graph:played_for,,roster,played_for Chicago Bulls · played_for Los Angeles Lakers
+CTL-AAES-0139,Turkey Stearnes,person,Baseball — Negro leagues,U-07428,graph:played_for; listal:List 1,"Outfielder, 1932–35 and 1937–38, carrying the franchise into its later championship years. Hall of Fame, 2000.",stub,played_for Kansas City Monarchs
+CTL-AAES-0140,Tyreek Hill,person,,U-07203,graph:played_for,,roster,played_for Miami Dolphins
+CTL-AAES-0141,Walter Payton,person,,U-00111,graph:played_for; packet:sports-core-10,,roster,played_for Chicago Bears
+CTL-AAES-0142,Warren Moon,subject,Football — NFL,,listal:List 5,"Undrafted 1978, told to switch to tight end. Five straight Grey Cups in Edmonton (1978–82), then the NFL: 1990 Offensive Player of the Year, nine Pro Bowls, both Halls of Fame. The exile cost him his twenties.",stub,
+CTL-AAES-0143,Wayne Edmonds,person,,U-05227,graph:played_for,,roster,played_for Notre Dame Fighting Irish football (University of Notre Dame)
+CTL-AAES-0144,Wendell Smith,subject,Baseball — integration,,listal:List 4,Pittsburgh Courier sportswriter; his 1938 column told Black readers to stop spending money on teams that barred Black players — the boycott-logic template the whole press corps worked from. Later Robinson's traveling companion.,stub,
+CTL-AAES-0145,Will Bynum,person,,U-06984,graph:played_for,,roster,played_for Detroit Pistons
+CTL-AAES-0146,William C. Robinzine Sr.,person,,U-06842,graph:played_for,,roster,played_for DePaul Blue Demons men's basketball
+CTL-AAES-0147,Willie Foster,subject,Baseball — Negro leagues,,listal:List 1,"Rube's younger half-brother and the dynasty's ace: 26 wins in 1926 including 23 straight, then consecutive complete-game shutouts in a playoff doubleheader against the Kansas City Monarchs. Followed it with a 32–3 record in 1927. Hall of Fame, 1996.",stub,
+CTL-AAES-0148,Willie Mays,person,,U-07368,graph:played_for,,roster,played_for Birmingham Black Barons · played_for New York Mets
+CTL-AAES-0149,Willie Thrower,person,Football — NFL,U-07179,graph:played_for; listal:List 5,"October 18, 1953, Wrigley Field: relieved George Blanda for the Bears — the first Black quarterback of the modern NFL era. Two games, then released. ""Everyone knows the Jackie Robinson story; nobody knows the Willie Thrower story"" — his son.",stub,played_for Chicago Bears
+CTL-AAES-0150,Willie Wells,person,Baseball — Negro leagues,U-07430,graph:played_for; listal:List 1,"Shortstop, 1929 and 1933–35, the defensive anchor of the 1930s clubs. Hall of Fame, 1997.",stub,played_for St. Louis Stars
+CTL-AAES-0151,Wilt Chamberlain,person,,U-07152,graph:played_for,,roster,played_for Los Angeles Lakers
+CTL-AAES-0152,Wintrust Arena,subject,Basketball — WNBA,,listal:List 3,"Home since 2018, South Loop's McCormick Square, ~10,000 seats. The first real home after the UIC Pavilion and the Rosemont exile.",stub,
+CTL-AAES-0153,Wisconsin Badgers football,team,,,graph:played_for_target,,roster,

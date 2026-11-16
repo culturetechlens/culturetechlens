@@ -1,0 +1,24 @@
+{
+  "title": "Afro American Encyclopedia of Sports — Roster Foundation",
+  "upload_type": "dataset",
+  "description": "532-entry roster foundation of the Afro American Encyclopedia of Sports, built against the adopted blueprint CTL-SPT-ENC v1.0 (36 sports, target 1,212 — a target, not a count; gap 682). Pre-scour roster v2 (2026-10-29) held 522 entries; a Drive-wide scour on 2026-11-16 added 10 verified entries (7 from the CTL Sports Firsts package, incl. John Matthew Shippen Jr., George Poage and William DeHart Hubbard; 3 KG333/AEO-500 crossovers, incl. Coco Gauff, Sha'Carri Richardson and Noah Lyles) and annexed 54 further verified finds with reasons. Status (verbatim ladder): roster 463, stub 69, full 0, published 0. Baseball, Basketball, Football and Boxing stand exactly at blueprint target. One added first is Disputed (Tia Norfleet — the row records the person and the dispute, never the claim as fact) and one Provisional (Rajo Jack).",
+  "creators": [
+    {
+      "name": "CultureTechLens NFP"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "Black athletes",
+    "sports history",
+    "Negro leagues",
+    "Olympics",
+    "boxing",
+    "baseball",
+    "basketball",
+    "football",
+    "African American firsts",
+    "CultureTechLens"
+  ],
+  "notes": "Pre-publication package (v1.0 assembled 2026-11-16 from canonical roster v2, 2026-10-29, plus the 2026-11-16 Drive-wide scour). Zenodo deposit pending the founder's token sitting; no DOI yet. Registry ID CTL-DS-SPO-000001; legacy alias CTL-DATA-SPORT-001. No prices (CTL-GOV-022)."
+}

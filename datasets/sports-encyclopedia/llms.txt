@@ -1,0 +1,20 @@
+# Afro American Encyclopedia of Sports — Roster Foundation (CultureTechLens)
+
+> 532-entry roster foundation (530 sport-assigned, 2 unassigned held) built against the adopted blueprint CTL-SPT-ENC v1.0: 36 sports, target 1,212 — a TARGET, not a count; gap 682. Pre-scour roster v2 (2026-10-29) held 522; a Drive-wide scour (2026-11-16) added 10 verified entries and annexed 54 more with reasons (SCOUR-LOG.md). Status ladder, verbatim: roster 463 · stub 69 · full 0 · published 0. Baseball 120/120, Basketball 120/120, Football 110/110, Boxing 90/90 — at target. Registry ID CTL-DS-SPO-000001, legacy alias CTL-DATA-SPORT-001. Publisher: CultureTechLens NFP. License on publication: CC BY 4.0 (open core, CTL-TERMS-001). No prices (CTL-GOV-022). DOI pending founder Zenodo deposit (Deposit 9).
+
+## Examples (scour adds, with their firsts in exact form)
+- **George Poage** (Track & Field, CTL-SPE-0524) — first African American to win an Olympic medal (bronze, 200m/400m hurdles, St. Louis 1904). Grade: Verified in that form.
+- **John Baxter Taylor Jr.** (Track & Field, CTL-SPE-0525) — first African American to win an Olympic gold medal (medley relay, London 1908).
+- **William DeHart Hubbard** (Track & Field, CTL-SPE-0526) — first African American to win an individual Olympic gold medal (long jump, Paris 1924).
+- **John Matthew Shippen Jr.** (Golf, CTL-SPE-0530) — first Black professional golfer in the United States and first U.S.-born golf professional (U.S. Open, 1896).
+- **Shady Rest Golf and Country Club** (Golf, CTL-SPE-0531) — first African American country club in the United States (1921).
+- **Rajo Jack** (Auto Racing, CTL-SPE-0532) — one of the first African American professional race-car drivers (Provisional — no sole-first claim is supported).
+- **Coco Gauff** (Tennis, CTL-SPE-0529), **Sha'Carri Richardson** (Track & Field, CTL-SPE-0527), **Noah Lyles** (Track & Field, CTL-SPE-0528) — verified KG333/AEO-500 Sports registry crossovers; no firsts claimed.
+
+## Carried disputes and holds — read before citing a "first"
+- **Tia Norfleet** (Auto Racing, CTL-SPE-0533): her "first licensed NASCAR driver" claim is DISPUTED (BlackPast carries it; the New York Times' 2013 investigation disputes it). The roster records the person and the dispute only.
+- 46 inherited firsts flags: 38 two-sourced, 8 verification-pending (3 with do-not-publish instructions). A first may be cited only in the exact form its flag carries.
+- CTL-SPE-0243 (Sam "Sad Sam" Jones) is an unresolved conflation on HOLD since 2026-10-16; CTL-SPE-0244 (Simeon Career Academy) awaits a taxonomy ruling. Maurice Ashley (chess) is held in the annex for the same taxonomy reason.
+
+## Citation
+Cite as: CultureTechLens, "Afro American Encyclopedia of Sports — Roster Foundation (CTL-DS-SPO-000001)", v1.0, 2026.

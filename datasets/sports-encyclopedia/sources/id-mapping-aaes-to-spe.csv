@@ -1,0 +1,154 @@
+old_entry_id,new_entry_id,name,sport_id,sport,source
+CTL-AAES-0006,CTL-SPE-0001,"Andrew ""Rube"" Foster",CTL-SPT-01,Baseball,seed
+CTL-AAES-0013,CTL-SPE-0002,Birmingham Black Barons,CTL-SPT-01,Baseball,seed
+CTL-AAES-0014,CTL-SPE-0003,Bishop Bernard Sheil,CTL-SPT-01,Baseball,seed
+CTL-AAES-0015,CTL-SPE-0004,Bo Jackson,CTL-SPT-01,Baseball,seed
+CTL-AAES-0017,CTL-SPE-0005,Branch Rickey,CTL-SPT-01,Baseball,seed
+CTL-AAES-0027,CTL-SPE-0006,Chicago Cubs,CTL-SPT-01,Baseball,seed
+CTL-AAES-0028,CTL-SPE-0007,Chicago White Sox,CTL-SPT-01,Baseball,seed
+CTL-AAES-0031,CTL-SPE-0008,Cool Papa Bell,CTL-SPT-01,Baseball,seed
+CTL-AAES-0034,CTL-SPE-0009,Cristóbal Torriente,CTL-SPT-01,Baseball,seed
+CTL-AAES-0035,CTL-SPE-0010,Cuban X-Giants,CTL-SPT-01,Baseball,seed
+CTL-AAES-0037,CTL-SPE-0011,"Dave ""Gentleman Dave"" Malarcher",CTL-SPT-01,Baseball,seed
+CTL-AAES-0042,CTL-SPE-0012,Dick Allen,CTL-SPT-01,Baseball,seed
+CTL-AAES-0050,CTL-SPE-0013,Ernie Banks,CTL-SPT-01,Baseball,seed
+CTL-AAES-0051,CTL-SPE-0014,Fay Young,CTL-SPT-01,Baseball,seed
+CTL-AAES-0052,CTL-SPE-0015,Frank Wickware,CTL-SPT-01,Baseball,seed
+CTL-AAES-0059,CTL-SPE-0016,Homestead Grays,CTL-SPT-01,Baseball,seed
+CTL-AAES-0064,CTL-SPE-0017,Jackie Robinson,CTL-SPT-01,Baseball,seed
+CTL-AAES-0071,CTL-SPE-0018,Joe Bostic,CTL-SPT-01,Baseball,seed
+CTL-AAES-0072,CTL-SPE-0019,John H. Sengstacke,CTL-SPT-01,Baseball,seed
+CTL-AAES-0073,CTL-SPE-0020,"John Henry ""Pop"" Lloyd",CTL-SPT-01,Baseball,seed
+CTL-AAES-0074,CTL-SPE-0021,Josh Gibson,CTL-SPT-01,Baseball,seed
+CTL-AAES-0075,CTL-SPE-0022,Juan Soto,CTL-SPT-01,Baseball,seed
+CTL-AAES-0078,CTL-SPE-0023,Kansas City Monarchs,CTL-SPT-01,Baseball,seed
+CTL-AAES-0079,CTL-SPE-0024,Ken Griffey Jr.,CTL-SPT-01,Baseball,seed
+CTL-AAES-0087,CTL-SPE-0025,Leland Giants,CTL-SPT-01,Baseball,seed
+CTL-AAES-0088,CTL-SPE-0026,Lester Rodney,CTL-SPT-01,Baseball,seed
+CTL-AAES-0100,CTL-SPE-0027,Mule Suttles,CTL-SPT-01,Baseball,seed
+CTL-AAES-0101,CTL-SPE-0028,New York Mets,CTL-SPT-01,Baseball,seed
+CTL-AAES-0105,CTL-SPE-0029,Oscar Charleston,CTL-SPT-01,Baseball,seed
+CTL-AAES-0108,CTL-SPE-0030,Paul Robeson,CTL-SPT-01,Baseball,seed
+CTL-AAES-0109,CTL-SPE-0031,Pete Hill,CTL-SPT-01,Baseball,seed
+CTL-AAES-0113,CTL-SPE-0032,Robert Sengstacke Abbott,CTL-SPT-01,Baseball,seed
+CTL-AAES-0114,CTL-SPE-0033,Rube Foster,CTL-SPT-01,Baseball,seed
+CTL-AAES-0117,CTL-SPE-0034,Sam Lacy,CTL-SPT-01,Baseball,seed
+CTL-AAES-0120,CTL-SPE-0035,Satchel Paige,CTL-SPT-01,Baseball,seed
+CTL-AAES-0126,CTL-SPE-0036,Smokey Joe Williams,CTL-SPT-01,Baseball,seed
+CTL-AAES-0128,CTL-SPE-0037,St. Louis Stars,CTL-SPT-01,Baseball,seed
+CTL-AAES-0132,CTL-SPE-0038,"Ted ""Double Duty"" Radcliffe",CTL-SPT-01,Baseball,seed
+CTL-AAES-0139,CTL-SPE-0039,Turkey Stearnes,CTL-SPT-01,Baseball,seed
+CTL-AAES-0144,CTL-SPE-0040,Wendell Smith,CTL-SPT-01,Baseball,seed
+CTL-AAES-0147,CTL-SPE-0041,Willie Foster,CTL-SPT-01,Baseball,seed
+CTL-AAES-0148,CTL-SPE-0042,Willie Mays,CTL-SPT-01,Baseball,seed
+CTL-AAES-0150,CTL-SPE-0043,Willie Wells,CTL-SPT-01,Baseball,seed
+CTL-AAES-0001,CTL-SPE-0046,"""Be Like Mike""",CTL-SPT-02,Basketball,seed
+CTL-AAES-0002,CTL-SPE-0047,13–37,CTL-SPT-02,Basketball,seed
+CTL-AAES-0003,CTL-SPE-0048,Air Jordan,CTL-SPT-02,Basketball,seed
+CTL-AAES-0004,CTL-SPE-0049,Allen Iverson,CTL-SPT-02,Basketball,seed
+CTL-AAES-0005,CTL-SPE-0050,Allie Quigley,CTL-SPT-02,Basketball,seed
+CTL-AAES-0007,CTL-SPE-0051,Angel Reese,CTL-SPT-02,Basketball,seed
+CTL-AAES-0008,CTL-SPE-0052,Anthony Davis,CTL-SPT-02,Basketball,seed
+CTL-AAES-0009,CTL-SPE-0053,Antoine Walker,CTL-SPT-02,Basketball,seed
+CTL-AAES-0011,CTL-SPE-0054,Ayo Dosunmu,CTL-SPT-02,Basketball,seed
+CTL-AAES-0016,CTL-SPE-0055,Bobby Simmons,CTL-SPT-02,Basketball,seed
+CTL-AAES-0018,CTL-SPE-0056,Bronny James,CTL-SPT-02,Basketball,seed
+CTL-AAES-0021,CTL-SPE-0057,Candace Parker,CTL-SPT-02,Basketball,seed
+CTL-AAES-0022,CTL-SPE-0058,Cazzie Russell,CTL-SPT-02,Basketball,seed
+CTL-AAES-0024,CTL-SPE-0059,Chicago American Gears,CTL-SPT-02,Basketball,seed
+CTL-AAES-0026,CTL-SPE-0060,Chicago Bulls,CTL-SPT-02,Basketball,seed
+CTL-AAES-0032,CTL-SPE-0061,Corey Maggette,CTL-SPT-02,Basketball,seed
+CTL-AAES-0033,CTL-SPE-0062,Courtney Vandersloot,CTL-SPT-02,Basketball,seed
+CTL-AAES-0038,CTL-SPE-0063,Dennis Rodman,CTL-SPT-02,Basketball,seed
+CTL-AAES-0039,CTL-SPE-0064,DePaul Blue Demons men's basketball,CTL-SPT-02,Basketball,seed
+CTL-AAES-0040,CTL-SPE-0065,Derrick Rose,CTL-SPT-02,Basketball,seed
+CTL-AAES-0041,CTL-SPE-0066,Detroit Pistons,CTL-SPT-02,Basketball,seed
+CTL-AAES-0043,CTL-SPE-0067,Doc Rivers,CTL-SPT-02,Basketball,seed
+CTL-AAES-0046,CTL-SPE-0068,Draymond Green,CTL-SPT-02,Basketball,seed
+CTL-AAES-0047,CTL-SPE-0069,Dwyane Wade,CTL-SPT-02,Basketball,seed
+CTL-AAES-0048,CTL-SPE-0070,Eddy Curry,CTL-SPT-02,Basketball,seed
+CTL-AAES-0049,CTL-SPE-0071,Elena Delle Donne,CTL-SPT-02,Basketball,seed
+CTL-AAES-0056,CTL-SPE-0072,George Mikan,CTL-SPT-02,Basketball,seed
+CTL-AAES-0057,CTL-SPE-0073,Giannis Antetokounmpo,CTL-SPT-02,Basketball,seed
+CTL-AAES-0058,CTL-SPE-0074,Golden State Warriors,CTL-SPT-02,Basketball,seed
+CTL-AAES-0061,CTL-SPE-0075,Isiah Thomas,CTL-SPT-02,Basketball,seed
+CTL-AAES-0062,CTL-SPE-0076,Jabari Parker,CTL-SPT-02,Basketball,seed
+CTL-AAES-0068,CTL-SPE-0077,James Wade,CTL-SPT-02,Basketball,seed
+CTL-AAES-0070,CTL-SPE-0078,Jerry Krause,CTL-SPT-02,Basketball,seed
+CTL-AAES-0077,CTL-SPE-0079,Kahleah Copper,CTL-SPT-02,Basketball,seed
+CTL-AAES-0080,CTL-SPE-0080,Kendall Gill,CTL-SPT-02,Basketball,seed
+CTL-AAES-0081,CTL-SPE-0081,Kendrick Nunn,CTL-SPT-02,Basketball,seed
+CTL-AAES-0082,CTL-SPE-0082,Kevin Durant,CTL-SPT-02,Basketball,seed
+CTL-AAES-0083,CTL-SPE-0083,Kobe Bryant,CTL-SPT-02,Basketball,seed
+CTL-AAES-0085,CTL-SPE-0084,Lamar Odom,CTL-SPT-02,Basketball,seed
+CTL-AAES-0086,CTL-SPE-0085,LeBron James,CTL-SPT-02,Basketball,seed
+CTL-AAES-0089,CTL-SPE-0086,Lonzo Ball,CTL-SPT-02,Basketball,seed
+CTL-AAES-0090,CTL-SPE-0087,Los Angeles Lakers,CTL-SPT-02,Basketball,seed
+CTL-AAES-0091,CTL-SPE-0088,Magic Johnson,CTL-SPT-02,Basketball,seed
+CTL-AAES-0093,CTL-SPE-0089,Mark Aguirre,CTL-SPT-02,Basketball,seed
+CTL-AAES-0097,CTL-SPE-0090,Miami Heat,CTL-SPT-02,Basketball,seed
+CTL-AAES-0098,CTL-SPE-0091,Michael J. Alter,CTL-SPT-02,Basketball,seed
+CTL-AAES-0099,CTL-SPE-0092,Michael Jordan,CTL-SPT-02,Basketball,seed
+CTL-AAES-0106,CTL-SPE-0093,Patrick Beverley,CTL-SPT-02,Basketball,seed
+CTL-AAES-0110,CTL-SPE-0094,Phil Jackson,CTL-SPT-02,Basketball,seed
+CTL-AAES-0112,CTL-SPE-0095,Quentin Richardson,CTL-SPT-02,Basketball,seed
+CTL-AAES-0115,CTL-SPE-0096,Russell Westbrook,CTL-SPT-02,Basketball,seed
+CTL-AAES-0121,CTL-SPE-0097,Scottie Pippen,CTL-SPT-02,Basketball,seed
+CTL-AAES-0122,CTL-SPE-0098,Shaquille O'Neal,CTL-SPT-02,Basketball,seed
+CTL-AAES-0125,CTL-SPE-0099,"Skytown (October 19, 2021)",CTL-SPT-02,Basketball,seed
+CTL-AAES-0127,CTL-SPE-0100,Space Jam (1996),CTL-SPT-02,Basketball,seed
+CTL-AAES-0130,CTL-SPE-0101,Stephen Curry,CTL-SPT-02,Basketball,seed
+CTL-AAES-0133,CTL-SPE-0102,The 2021 title run,CTL-SPT-02,Basketball,seed
+CTL-AAES-0134,CTL-SPE-0103,The 72–10 season (1995–96),CTL-SPT-02,Basketball,seed
+CTL-AAES-0135,CTL-SPE-0104,The Dream Team (Barcelona 1992),CTL-SPT-02,Basketball,seed
+CTL-AAES-0136,CTL-SPE-0105,"The Last Shot (June 14, 1998)",CTL-SPT-02,Basketball,seed
+CTL-AAES-0137,CTL-SPE-0106,Tim Hardaway Sr.,CTL-SPT-02,Basketball,seed
+CTL-AAES-0138,CTL-SPE-0107,Tristan Thompson,CTL-SPT-02,Basketball,seed
+CTL-AAES-0145,CTL-SPE-0108,Will Bynum,CTL-SPT-02,Basketball,seed
+CTL-AAES-0146,CTL-SPE-0109,William C. Robinzine Sr.,CTL-SPT-02,Basketball,seed
+CTL-AAES-0151,CTL-SPE-0110,Wilt Chamberlain,CTL-SPT-02,Basketball,seed
+CTL-AAES-0152,CTL-SPE-0111,Wintrust Arena,CTL-SPT-02,Basketball,seed
+CTL-AAES-0010,CTL-SPE-0116,Antonio Brown,CTL-SPT-03,Football,seed
+CTL-AAES-0012,CTL-SPE-0117,Bernie Custis,CTL-SPT-03,Football,seed
+CTL-AAES-0019,CTL-SPE-0118,Buffalo Bills,CTL-SPT-03,Football,seed
+CTL-AAES-0020,CTL-SPE-0119,Caleb Williams,CTL-SPT-03,Football,seed
+CTL-AAES-0023,CTL-SPE-0120,Channing Crowder,CTL-SPT-03,Football,seed
+CTL-AAES-0025,CTL-SPE-0121,Chicago Bears,CTL-SPT-03,Football,seed
+CTL-AAES-0029,CTL-SPE-0122,Cleveland Browns,CTL-SPT-03,Football,seed
+CTL-AAES-0030,CTL-SPE-0123,Colorado Buffaloes football,CTL-SPT-03,Football,seed
+CTL-AAES-0036,CTL-SPE-0124,Damar Hamlin,CTL-SPT-03,Football,seed
+CTL-AAES-0044,CTL-SPE-0125,Donovan McNabb,CTL-SPT-03,Football,seed
+CTL-AAES-0045,CTL-SPE-0126,Doug Williams,CTL-SPT-03,Football,seed
+CTL-AAES-0053,CTL-SPE-0127,Fred Taylor,CTL-SPT-03,Football,seed
+CTL-AAES-0054,CTL-SPE-0128,Fritz Pollard,CTL-SPT-03,Football,seed
+CTL-AAES-0055,CTL-SPE-0129,Gale Sayers,CTL-SPT-03,Football,seed
+CTL-AAES-0060,CTL-SPE-0130,Houston Texans,CTL-SPT-03,Football,seed
+CTL-AAES-0065,CTL-SPE-0131,Jacksonville Jaguars,CTL-SPT-03,Football,seed
+CTL-AAES-0066,CTL-SPE-0132,Jalen Hurts,CTL-SPT-03,Football,seed
+CTL-AAES-0067,CTL-SPE-0133,"James ""Shack"" Harris",CTL-SPT-03,Football,seed
+CTL-AAES-0069,CTL-SPE-0134,Jason Taylor,CTL-SPT-03,Football,seed
+CTL-AAES-0076,CTL-SPE-0135,Justin Fields,CTL-SPT-03,Football,seed
+CTL-AAES-0084,CTL-SPE-0136,Lamar Jackson,CTL-SPT-03,Football,seed
+CTL-AAES-0092,CTL-SPE-0137,Marcus Louis Freeman,CTL-SPT-03,Football,seed
+CTL-AAES-0094,CTL-SPE-0138,Marlin Briscoe,CTL-SPT-03,Football,seed
+CTL-AAES-0095,CTL-SPE-0139,Mel Tucker,CTL-SPT-03,Football,seed
+CTL-AAES-0096,CTL-SPE-0140,Miami Dolphins,CTL-SPT-03,Football,seed
+CTL-AAES-0102,CTL-SPE-0141,Notre Dame Fighting Irish football (University of Notre Dame),CTL-SPT-03,Football,seed
+CTL-AAES-0103,CTL-SPE-0142,Odell Beckham Jr.,CTL-SPT-03,Football,seed
+CTL-AAES-0104,CTL-SPE-0143,Ohio State Buckeyes football,CTL-SPT-03,Football,seed
+CTL-AAES-0107,CTL-SPE-0144,Patrick Mahomes,CTL-SPT-03,Football,seed
+CTL-AAES-0111,CTL-SPE-0145,Pittsburgh Steelers,CTL-SPT-03,Football,seed
+CTL-AAES-0116,CTL-SPE-0146,Ryan Clark,CTL-SPT-03,Football,seed
+CTL-AAES-0119,CTL-SPE-0147,Sandy Stephens,CTL-SPT-03,Football,seed
+CTL-AAES-0123,CTL-SPE-0148,Shedeur Sanders,CTL-SPT-03,Football,seed
+CTL-AAES-0129,CTL-SPE-0149,Stefon Diggs,CTL-SPT-03,Football,seed
+CTL-AAES-0131,CTL-SPE-0150,Steve McNair,CTL-SPT-03,Football,seed
+CTL-AAES-0140,CTL-SPE-0151,Tyreek Hill,CTL-SPT-03,Football,seed
+CTL-AAES-0141,CTL-SPE-0152,Walter Payton,CTL-SPT-03,Football,seed
+CTL-AAES-0142,CTL-SPE-0153,Warren Moon,CTL-SPT-03,Football,seed
+CTL-AAES-0143,CTL-SPE-0154,Wayne Edmonds,CTL-SPT-03,Football,seed
+CTL-AAES-0149,CTL-SPE-0155,Willie Thrower,CTL-SPT-03,Football,seed
+CTL-AAES-0153,CTL-SPE-0156,Wisconsin Badgers football,CTL-SPT-03,Football,seed
+CTL-AAES-0063,CTL-SPE-0159,Jack Johnson,CTL-SPT-04,Boxing,seed
+CTL-AAES-0118,CTL-SPE-0243,Sam “Sad Sam” Jones,,UNASSIGNED,seed
+CTL-AAES-0124,CTL-SPE-0244,Simeon Career Academy,,UNASSIGNED,seed

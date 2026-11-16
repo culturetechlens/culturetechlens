@@ -1,0 +1,15 @@
+# CHANGELOG — Afro American Encyclopedia of Sports (CTL-DS-SPO-000001)
+No silent edits: every change is dated and states what changed.
+
+## v1.0 package (2026-11-16, assembled by Dion under the dataset spec)
+- Dataset ID CTL-DS-SPO-000001 ruled under William Maxey's clone-pattern approval (2026-11-16); legacy alias CTL-DATA-SPORT-001 recorded. Registered the same day: Data Register entry #12 AMENDED (register v1.9; library count stays 25) + Research Registry Type 06 eighth production entry.
+- Canonical succession, stated openly: the package's canonical file succeeds roster v2 (522 rows, 2026-10-29) with 10 scour adds appended (CTL-SPE-0524–0533, each flagged in its notes). Roster v2 ships unmodified in sources/ as roster-v2-pre-scour.csv; seed and roster v1 ship unmodified as version history. **Post-scour count: 532 (assigned 530, unassigned 2). Gap to the 1,212 blueprint target: 682.**
+- SCOUR (William's expanded directive, 2026-11-16): Drive-wide search executed and published as SCOUR-LOG.md — 10 adds (7 Sports Firsts + 3 KG333/AEO-500), 54 annexed with reasons, duplicates/out-of-scope logged (278 Wave 1 candidates, 16 packet entities, 96 blueprint anchors, 14 graph-description persons, 8 PERF crossovers, 18 FC300 fictional characters, photo/Chicago/essay sources).
+- Rulings applied (spec §2): canonical file = roster v2 lineage; status ladder verbatim, no grade relabeling; 1,212 printed only as the blueprint TARGET; over-target verified finds held in the annex, not silently over target.
+- Added: DATA-DICTIONARY.md, SCOUR-LOG.md, JSON + SQLite exports, annex, GAP-TABLE-POST-SCOUR.csv, charts + ultra-wide board, llms.txt, sample-40, CITATION.cff / zenodo-metadata.json from one metadata.json, MANIFEST. 
+- NOT in v1.0: Zenodo deposit/DOI (founder sitting, Deposit 9), any full-entry writing (status full remains 0), resolution of the CTL-SPE-0243 conflation HOLD or the chess taxonomy question, re-download of the source JSON derivatives (spec F-S1).
+
+## Build history (through roster v2)
+- 2026-10-24: Foundation package filed (CTL-DATA-SPORT-001): seed roster 153 counted from the built files; head audit initially found no blueprint in the head record, then the blueprint (CTL-SPT-ENC v1.0) landed the same day and was ADOPTED by William's ruling; Tier targets re-summed exact (A 650 / B 337 / C 225 = 1,212, 36 sports). Roster v1 built at the head: 244 rows (153 seed remapped with a published mapping file + 91 anchors, 5 folded), gap 970.
+- 2026-10-29: Wave 1 merge → roster v2: 522 rows. Rube Foster fold (CTL-SPE-0033 retired into CTL-SPE-0001), Willie McCovey replacement row, Sam "Toothpick" Jones disambiguation; Baseball/Basketball/Football/Boxing filled exactly to target; gap 692. chicago_connection + firsts_flag columns added (46 firsts flags: 38 two-sourced, 8 verification-pending).
+- 2026-11-12 (context, not this dataset): CTL Sports Firsts package built and its 9 staged graph records merged into the canonical graph (CTL-E-7407–7415) — the source of 7 of this package's 10 scour adds.
