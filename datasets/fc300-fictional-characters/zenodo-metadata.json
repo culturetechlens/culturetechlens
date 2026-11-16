@@ -1,0 +1,22 @@
+{
+  "title": "FC300 \u2014 Black Fictional Characters Registry",
+  "upload_type": "dataset",
+  "description": "300 Black fictional characters across seven mediums (Television 70, Film 60, Comics & Superheroes 50, Animation 40, Literature & Books 40, Video Games 25, Theater & Stage 15), each with creator, first appearance, portrayer, coverage status, citation, and a full AEO layer. Only 139 characters have a Wikidata item of their own; 157 (52%) exist solely inside their franchise's page. Coverage Status is the dataset's evidence vocabulary, kept verbatim. Images are link-only by design \u2014 the dataset distributes metadata and citations, never image files.",
+  "creators": [
+    {
+      "name": "CultureTechLens NFP"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "Black fictional characters",
+    "representation",
+    "Wikidata",
+    "AEO",
+    "film",
+    "television",
+    "comics",
+    "CultureTechLens"
+  ],
+  "notes": "Pre-publication package (v1.0 assembled 2026-11-16 from the canonical 2026-11-04 file). Zenodo deposit pending the founder's token sitting; no DOI yet."
+}

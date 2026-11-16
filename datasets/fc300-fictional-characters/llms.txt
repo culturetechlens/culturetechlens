@@ -1,0 +1,26 @@
+# FC300 — Black Fictional Characters Registry (CultureTechLens)
+
+ > 300 Black fictional characters across seven mediums (Television 70, Film 60, Comics & Superheroes 50, Animation 40, Literature & Books 40, Video Games 25, Theater & Stage 15), each with creator, first appearance, portrayer, coverage status, citation, and a full AEO layer. Only 139 characters have a Wikidata item of their own; 157 (52%) exist solely inside their franchise's page. Coverage Status is the dataset's evidence vocabulary, kept verbatim. Images are link-only by design — the dataset distributes metadata and citations, never image files.
+
+## Top-ranked characters
+- **Sam** (Casablanca, Film) — Sam is the piano player at Rick's cafe in Casablanca (1942), played by Dooley Wilson. When Ilsa asks him to play As Time Goes By, his music unlocks the film's central love story and memory.
+- **Noah Cullen** (The Defiant Ones, Film) — Noah Cullen is an escaped prisoner chained to a white fellow prisoner in The Defiant Ones (1958), played by Sidney Poitier. Their forced partnership made the film a landmark statement about racism and dependence.
+- **Buck** (Buck and the Preacher, Film) — Buck is a former Union soldier guiding freed Black families west after the Civil War in Buck and the Preacher (1972), played by Sidney Poitier in the first Western he also directed.
+- **Ben** (Night of the Living Dead, Film) — Ben is the resourceful hero of Night of the Living Dead (1968), played by Duane Jones. He takes charge of strangers barricaded against the undead, making him a landmark Black lead in horror cinema.
+- **Coffy** (Coffy, Film) — Coffy is a nurse who hunts the drug dealers who harmed her young sister in Coffy (1973), played by Pam Grier. The role made Grier the defining action heroine of 1970s Black cinema.
+- **Cleopatra Jones** (Cleopatra Jones, Film) — Cleopatra Jones is a tall, stylish U.S. special agent fighting a drug empire in Cleopatra Jones (1973), played by Tamara Dobson. She brought a fashion model silhouette and martial arts to the action heroine role.
+- **Foxy Brown** (Foxy Brown, Film) — Foxy Brown is a woman who infiltrates a criminal syndicate to avenge her murdered boyfriend in Foxy Brown (1974), played by Pam Grier. The character became one of the most imitated heroines in pop culture.
+- **Youngblood Priest** (Super Fly, Film) — Youngblood Priest is a Harlem cocaine dealer planning one final deal so he can quit the life in Super Fly (1972), played by Ron O'Neal. His style and Curtis Mayfield's soundtrack defined an era.
+- **Sweet Sweetback** (Sweet Sweetback's Baadasssss Song, Film) — Sweet Sweetback is a performer who becomes a fugitive after rescuing a Black Panther from police violence in the 1971 film written, directed by and starring Melvin Van Peebles, a founding work of independent Black cinema.
+- **Tommy Gibbs** (Black Caesar, Film) — Tommy Gibbs rises from a shoeshine boy attacked by a racist cop to Harlem crime boss in Black Caesar (1973), played by Fred Williamson. The film retells a classic gangster rise and fall through Black experience.
+- **Dolemite** (Dolemite, Film) — Dolemite is a flamboyant club owner and martial artist released from prison to expose corrupt officials in Dolemite (1975), created and played by comedian Rudy Ray Moore from his stand-up persona.
+- **Slaughter** (Slaughter, Film) — Slaughter is a former Green Beret who hunts the syndicate that murdered his parents in Slaughter (1972), played by former football star Jim Brown. The hit film helped establish Brown as an action lead.
+- **Apollo Creed** (Rocky, Film) — Apollo Creed is the flamboyant heavyweight champion who gives unknown Rocky Balboa a title shot in Rocky (1976), played by Carl Weathers. Creed's showmanship and heart made him the heart of the Rocky and Creed franchises.
+- **Lando Calrissian** (Star Wars, Film) — Lando Calrissian is the smooth gambler and administrator of Cloud City in The Empire Strikes Back (1980), played by Billy Dee Williams. An old friend of Han Solo, he became the first Black hero of the Star Wars films.
+- **Clubber Lang** (Rocky, Film) — Clubber Lang is the ferocious young challenger who takes Rocky Balboa's title in Rocky III (1982), played by Mr. T in his breakout role. His gold chains, mohawk and pity-the-fool menace made him an 80s icon.
+
+## The coverage finding
+157 of the 300 characters (52%) have no Wikidata item or Wikipedia article of their own — they are covered only inside their franchise's or work's page. This registry gives each one a standalone, citable record.
+
+## Citation
+Cite as: CultureTechLens, "FC300 — Black Fictional Characters Registry (CTL-DS-FC3-000001)", v1.0, 2026. License on publication: CC BY 4.0 (registry metadata; open core, CTL-TERMS-001). Images are never distributed with this dataset.
