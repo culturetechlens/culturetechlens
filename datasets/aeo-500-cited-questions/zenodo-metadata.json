@@ -1,0 +1,21 @@
+{
+  "title": "CTL AEO-500 \u2014 500 Cited AEO Questions on Black Culture",
+  "upload_type": "dataset",
+  "description": "500 answer-engine question units on Black culture \u2014 each with a primary question, a cited direct answer (31-55 words), a 5-question cluster, keywords, a Wikidata QID or an honest NONE marker, and a dated verification note (2026-11-04). Assembled from the verified KG333 (333) and FC300 (167) registries. Citation statuses are the dataset's evidence vocabulary: 321 rows rest on Wikipedia/Wikidata, 88 fictional characters carry franchise coverage only, and 11 rows are GAPs where CultureTechLens is the source of record and no external page exists.",
+  "creators": [
+    {
+      "name": "CultureTechLens NFP"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "AEO",
+    "answer engine optimization",
+    "Black culture",
+    "cited questions",
+    "Wikidata",
+    "FAQ schema",
+    "CultureTechLens"
+  ],
+  "notes": "Pre-publication package (v1.0 assembled 2026-11-16 from the 2026-11-04/05 build). Zenodo deposit pending the founder's token sitting; no DOI yet."
+}

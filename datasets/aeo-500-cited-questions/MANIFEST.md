@@ -1,0 +1,21 @@
+# MANIFEST — CTL-DS-AEO-000001 v1.0 package (2026-11-16)
+
+7f014d2a50d660fe3f8303169f53ee632ce125668f2a6bd68b80c63890481371  ./CHANGELOG.md
+e32057bc64965db65ab1b06945c064f83eb9d52bbb9b78ffc2f96af345b90d21  ./CITATION.cff
+4756ad796aec202ad88bd0e790cc48892a1e7c7fe901355e5bc9a1cff0474dba  ./DATA-DICTIONARY.md
+b45c7e70f7c802e5b1f3398917624428dc09a32358d352c07ee568657eaa4868  ./LICENSE.txt
+c80ed4cb262bfc783cd1b027ca6f14ecc1dfe1aa95662e5cd071623b6902942f  ./README-dataset-card.md
+da436d0f08ad5c22a3c4cdf9fc05a187a2e6d8340d91208792a9d5ab3afbb162  ./aeo-faq.jsonld
+2c5d5fc03ee1222dea501d4b415fef4016b139160ff9341014f9c5ab666db23c  ./data/aeo-500.csv
+16c99ba811d164275f47516dd79423e2c81571b196bbf4860124d17387ca566d  ./data/aeo-500.json
+2ddf7616a7fa8ef053323d9284eed5c9583c5812b1b771c81c8033bea8b62da1  ./data/aeo-500.sqlite
+1d668537fcd917f3951511bb85ff5a50549b42685861da50e38774022d9cdc21  ./data/sample-50.csv
+3bc9d7b7d114da33753385efea4b897359dd491992480b5b35ae5ae4eab497a3  ./dataset.jsonld
+f22f47337102e3a0d20f40ef529b0a27fceb5b103236ab720c2dc67d83029939  ./llms.txt
+3bfded6541ef5690f1572fbda8fadcd0ff8c590fbaa4172e807edfa98062163e  ./metadata.json
+3aa0a599423c91c7360fc050d7bfe5fc4bbb258ea17191c108afd6b62805cda2  ./source-jsonld-CTL-AEO-500.json
+3d57d4045c3ca20dbb679a8b9d173c31bc48f8f82df785ffbf2f65b618f50bd6  ./visuals/board-ultrawide-aeo500.png
+f8ec6bd9cf91d4bff23be8dfe024933235e8df1c2ef10346cf6de53490fb4b9d  ./visuals/chart-answer-length.png
+e219594e49021b1996d21691c8c4a194ff12eb736f05b46e55d014c24365fe25  ./visuals/chart-citation-status.png
+bdde574da4188a7fb8f36c4150c13d81537c3c02c9c2fdaa04b98f3456e2202f  ./visuals/chart-sections.png
+0ace740df812aa23bcc8b2b2e2e74a1dbad01f6fc5efa0b2444201ad56008f09  ./zenodo-metadata.json

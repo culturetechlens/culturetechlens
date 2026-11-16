@@ -1,0 +1,39 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "CTL AEO-500 \u2014 500 Cited AEO Questions on Black Culture",
+  "identifier": "CTL-DS-AEO-000001",
+  "creator": {
+    "@type": "Organization",
+    "name": "CultureTechLens NFP"
+  },
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "description": "500 answer-engine question units on Black culture \u2014 each with a primary question, a cited direct answer (31-55 words), a 5-question cluster, keywords, a Wikidata QID or an honest NONE marker, and a dated verification note (2026-11-04). Assembled from the verified KG333 (333) and FC300 (167) registries. Citation statuses are the dataset's evidence vocabulary: 321 rows rest on Wikipedia/Wikidata, 88 fictional characters carry franchise coverage only, and 11 rows are GAPs where CultureTechLens is the source of record and no external page exists.",
+  "keywords": [
+    "AEO",
+    "answer engine optimization",
+    "Black culture",
+    "cited questions",
+    "Wikidata",
+    "FAQ schema",
+    "CultureTechLens"
+  ],
+  "distribution": [
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "text/csv"
+    },
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "application/json"
+    },
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "application/ld+json"
+    },
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "application/x-sqlite3"
+    }
+  ]
+}
