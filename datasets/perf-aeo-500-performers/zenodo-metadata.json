@@ -1,0 +1,22 @@
+{
+  "title": "PERF-AEO-500 \u2014 Black Performers Registry",
+  "upload_type": "dataset",
+  "description": "500 Black performers (250 actresses, 250 actors) with verified vital data (birth dates on 392 rows, birthplaces on 383, occupations on 410) and a full AEO layer per row. 413 rows are verified against Wikidata/Wikipedia; 87 GAP rows have no Wikidata item and no English Wikipedia article \u2014 CultureTechLens is their source of record. Seeded from the founder's Listal lists (S1 217, S2 237, D1-only 33, D2-only 13), which every row credits; this dataset is the named successor to the Listal copy job, closed by the founder's decision on 2026-11-16. 13 rows carry an unresolved MODEL-ONLY SUSPECT flag (\u00a74.4), shipped as-is.",
+  "creators": [
+    {
+      "name": "CultureTechLens NFP"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "Black actors",
+    "Black actresses",
+    "performers",
+    "Wikidata",
+    "AEO",
+    "film",
+    "television",
+    "CultureTechLens"
+  ],
+  "notes": "Pre-publication package (v1.0 assembled 2026-11-16 from the canonical 2026-11-05 file). Zenodo deposit pending the founder's token sitting; no DOI yet."
+}

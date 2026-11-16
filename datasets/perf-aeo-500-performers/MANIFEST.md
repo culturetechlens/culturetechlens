@@ -1,0 +1,21 @@
+# MANIFEST — CTL-DS-PER-000001 v1.0 package (2026-11-16)
+
+ee6d6ba9c9ffb13d826199fa290bcaa08a7bedb9f693aa409d671a7eb3caad51  ./CHANGELOG.md
+624a728e753edbb7606a349a5f6904fcea99939771c61c7ed19c44a0fac49685  ./CITATION.cff
+a91579d46dd450e26e05b8b0032c3d1a0b7bbaba8a53aa32dcaeb7fa1c8ed81f  ./DATA-DICTIONARY.md
+b45c7e70f7c802e5b1f3398917624428dc09a32358d352c07ee568657eaa4868  ./LICENSE.txt
+5cb4a256fb34a6cc7ce84aca3b6a30e9ff3f16b70db81e36dc1e056c37a252f4  ./README-dataset-card.md
+87999001c1afef2e194a74893e685de4bc53ac745ea8e6a057d2f12b3e4dc6f3  ./aeo-faq.jsonld
+cc5c5c579e0eee7e46090c6601f1f3b7dd19645af96c751049eb1e5381ef8980  ./data/perf-aeo-500.csv
+bbb3e982eec2c25f4f044a49ebe9e09da330a797618bd24a52eb33c6724f490b  ./data/perf-aeo-500.json
+54d01267db584b923f3a65d6e446f078a150fb744c2645fd583dab99abce9da0  ./data/perf-aeo-500.sqlite
+fb7f2377400aa96405253d225ef40f933e626fff2df603a57a6e2f701d95eb34  ./data/sample-45.csv
+7f0fb9a5c4a83af40dbfbc3af169aefbe57aaf3d3aea71b48eebda86ef71372e  ./dataset.jsonld
+e26415483b3216d6fe2e8a82b635c3e84e0295db44f5a7c383a6ab1fa7d9cf7c  ./llms.txt
+47892a1cc18efcfe5a0f98b9da050aa4d72976071e4d502ba7acec8659ef98f5  ./metadata.json
+8a44a51771ca20199cf14bd3297d375db687a2e4f653e7493f9b574109ab770d  ./sources/identity-audit-fixlog.json
+a4afc5eab064992a5e1f2c209de14e1a6a6847e6444edad402d02418d298dc23  ./sources/selection-record.json
+aed7babded83bdf78016ea1f848b0e5ef7752ab82442c08735e203222b41ac80  ./visuals/board-ultrawide-perf.png
+a1351e00786c7d2738657ccbd8b9344807c6b8bf6dde5651eb88bf4df8ec5a40  ./visuals/chart-seeds.png
+988630956a8b5667d76b843e14ef8da98bec3d8d80798bed84fb7f4a36df630f  ./visuals/chart-verification.png
+0fcf770216185da43768512cfdf47bda157f6e8db19545cb200fb9a337583ad9  ./zenodo-metadata.json
